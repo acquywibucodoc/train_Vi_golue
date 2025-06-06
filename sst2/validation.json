@@ -1,0 +1,4362 @@
+[
+  {
+    "sentence": "đó là một cuộc hành trình hấp dẫn và thường xuyên tác động đến chúng ta.",
+    "idx": 0,
+    "label": "positive"
+  },
+  {
+    "sentence": "vô cùng ảm đạm và tuyệt vọng",
+    "idx": 1,
+    "label": "negative"
+  },
+  {
+    "sentence": "cho phép chúng ta hy vọng rằng Nolan đã sẵn sàng dấn thân vào sự nghiệp lớn với tư cách là một nhà làm phim thương mại nhưng đầy sáng tạo .",
+    "idx": 2,
+    "label": "positive"
+  },
+  {
+    "sentence": "diễn xuất , trang phục , âm nhạc , kỹ thuật quay phim và âm thanh đều đáng kinh ngạc trong bối cảnh địa điểm khắc khổ của bộ phim .",
+    "idx": 3,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó chậm -- rất, rất chậm .",
+    "idx": 4,
+    "label": "negative"
+  },
+  {
+    "sentence": "mặc dù có pha chút hài hước và một vài chi tiết huyền ảo , bộ phim là một cái nhìn mới mẻ và nghiêm túc về những phụ nữ trẻ .",
+    "idx": 5,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim đôi khi tẻ nhạt.",
+    "idx": 6,
+    "label": "negative"
+  },
+  {
+    "sentence": "hoặc đóng thuế năm ngoái với vợ cũ của bạn .",
+    "idx": 7,
+    "label": "negative"
+  },
+  {
+    "sentence": "bạn không cần phải biết về âm nhạc mới có thể đánh giá cao sự pha trộn nhẹ nhàng giữa hài kịch và lãng mạn của bộ phim.",
+    "idx": 8,
+    "label": "positive"
+  },
+  {
+    "sentence": "trong đúng 89 phút , phần lớn thời gian trôi qua chậm rãi như thể tôi đang trần truồng ngồi trên lều tuyết , công thức 51 chìm từ kỳ quặc đến giật cục rồi đến gà tây hoàn toàn .",
+    "idx": 9,
+    "label": "negative"
+  },
+  {
+    "sentence": "màn trình diễn đầy mê hoặc của các nhân vật chính giúp bộ phim có nền tảng vững chắc và khiến khán giả say mê.",
+    "idx": 10,
+    "label": "positive"
+  },
+  {
+    "sentence": "Phải có một sự lười biếng kỳ lạ mới có thể lãng phí tài năng của Robert Forster, Anne Meara, Eugene Levy và Reginald Veljohnson trong cùng một bộ phim.",
+    "idx": 11,
+    "label": "negative"
+  },
+  {
+    "sentence": "... bộ phim thiếu tính hài hước ( điều gì đó cần thiết để cân bằng tính bạo lực ) ...",
+    "idx": 12,
+    "label": "negative"
+  },
+  {
+    "sentence": "chúng tôi ủng hộ ( clara và paul ) , thậm chí giống họ , mặc dù có lẽ đó là một cảm xúc gần với sự thương hại hơn .",
+    "idx": 13,
+    "label": "positive"
+  },
+  {
+    "sentence": "ngay cả những người hâm mộ thể loại kinh dị cũng có thể sẽ không tìm thấy thứ họ đang tìm kiếm trong khó khăn hàng ngày; phim thiếu cả cảm giác hồi hộp lẫn hài hước.",
+    "idx": 14,
+    "label": "negative"
+  },
+  {
+    "sentence": "một vở nhạc kịch tuyệt đẹp, đầy tinh thần của Ấn Độ, sự kết hợp tinh tế giữa âm nhạc, khiêu vũ, bài hát và kịch tính cao độ.",
+    "idx": 15,
+    "label": "positive"
+  },
+  {
+    "sentence": "những cảm xúc còn nguyên vẹn và sẽ gây ấn tượng sâu sắc với bất kỳ ai từng gặp chấn thương tâm lý trong gia đình .",
+    "idx": 16,
+    "label": "positive"
+  },
+  {
+    "sentence": "Audrey Tatou có tài chọn những vai làm tôn lên vẻ quyến rũ cực kỳ của cô ấy , và trong bộ phim hài Pháp đầy chữ nghĩa này , cô ấy cũng hồ hởi rạng ngời như trong amélie .",
+    "idx": 17,
+    "label": "positive"
+  },
+  {
+    "sentence": "... bộ phim chỉ là một con quái vật già nua.",
+    "idx": 18,
+    "label": "negative"
+  },
+  {
+    "sentence": "trong những khoảnh khắc đẹp nhất của nó, giống như một vở kịch tồi tệ ở trường trung học, không có bài hát.",
+    "idx": 19,
+    "label": "negative"
+  },
+  {
+    "sentence": "bí ngô có một cái nhìn đáng ngưỡng mộ về sự đạo đức giả của sự đúng đắn về chính trị, nhưng nó làm như vậy với một giọng điệu không đồng đều đến mức bạn không bao giờ biết khi nào sự hài hước kết thúc và bi kịch bắt đầu.",
+    "idx": 20,
+    "label": "negative"
+  },
+  {
+    "sentence": "iditarod tồn tại trong nhiều ngày - điều này giống như đã xảy ra vậy.",
+    "idx": 21,
+    "label": "negative"
+  },
+  {
+    "sentence": "Holden Caulfield đã làm điều đó tốt hơn.",
+    "idx": 22,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim kinh dị hấp dẫn và hấp dẫn đầy bất ngờ, đọc môi tôi là một bản gốc.",
+    "idx": 23,
+    "label": "positive"
+  },
+  {
+    "sentence": "hiếm có bộ phim nào gắn kết chặt chẽ tinh thần của một con người và công việc của anh ta đến vậy.",
+    "idx": 24,
+    "label": "positive"
+  },
+  {
+    "sentence": "nicks , dường như không chắc chắn điều gì sẽ khiến mọi người cười , trải dài từ những trò nhại cũ rích đến những trò đùa tình dục tục tĩu cho đến hài kịch lãng mạn theo công thức .",
+    "idx": 25,
+    "label": "negative"
+  },
+  {
+    "sentence": "hành động chuyển đổi giữa quá khứ và hiện tại, nhưng mối liên kết vật chất quá mong manh để có thể neo giữ các kết nối cảm xúc có ý định kéo dài khoảng cách 125 năm.",
+    "idx": 26,
+    "label": "negative"
+  },
+  {
+    "sentence": "đó là một chiêu đãi khác thường nhằm chế giễu cuộc vận động dân chủ đồng thời xem xét tầm quan trọng của nó đối với những người tham gia.",
+    "idx": 27,
+    "label": "positive"
+  },
+  {
+    "sentence": "đó là một bộ phim cắt bánh quy , một công việc cắt và dán .",
+    "idx": 28,
+    "label": "negative"
+  },
+  {
+    "sentence": "tôi phải nhìn đi nơi khác - điều này thật khủng khiếp.",
+    "idx": 29,
+    "label": "negative"
+  },
+  {
+    "sentence": "nhờ có Roger lôi cuốn của Scott và cậu cháu trai ngọt ngào của Eisenberg, Roger Dodger là một trong những biến thể hấp dẫn nhất khi ở cùng đàn ông.",
+    "idx": 30,
+    "label": "positive"
+  },
+  {
+    "sentence": "... được thiết kế để mang đến sự kết hợp giữa nụ cười và nước mắt , `` ngã tư '' thay vào đó lại gây ra một số tiếng hú vô tình và vô số tiếng ngáp .",
+    "idx": 31,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim tuyệt đẹp, hóm hỉnh, quyến rũ.",
+    "idx": 32,
+    "label": "positive"
+  },
+  {
+    "sentence": "nếu bộ phim thành công trong việc khơi dậy cảm giác cảnh giác về việc \"ở đó ngoại trừ ân sủng của Chúa\", thì bạn sẽ quá tự ti để lôi kéo bạn đi sâu vào thế giới của nó.",
+    "idx": 33,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó không tin vào chính mình , nó không có khiếu hài hước ... nó chỉ đơn giản là chán .",
+    "idx": 34,
+    "label": "negative"
+  },
+  {
+    "sentence": "một chuỗi những cảnh bắn nhau lố bịch .",
+    "idx": 35,
+    "label": "negative"
+  },
+  {
+    "sentence": "sức nặng của tác phẩm , tính chuyên nghiệp không ngừng nghỉ của quá trình sản xuất lạnh lùng , và sự hấp dẫn gắn liền với chủ đề khủng khiếp đã chứng tỏ đủ sự khuyến nghị .",
+    "idx": 36,
+    "label": "positive"
+  },
+  {
+    "sentence": "( w ) không nói nhiều về những chú khỉ đáng yêu và chủ nghĩa bảo vệ môi trường xứng đáng , những con tinh tinh hoang dã của Jane Goodall lại thiếu cảm giác mạnh mà những yêu cầu cỡ trung bình quá khổ .",
+    "idx": 37,
+    "label": "negative"
+  },
+  {
+    "sentence": "siêu thực như một giấc mơ và chi tiết như một bức ảnh , khéo léo về mặt thị giác nhưng đôi khi nó khiến trí tưởng tượng choáng ngợp .",
+    "idx": 38,
+    "label": "positive"
+  },
+  {
+    "sentence": "Thoát khỏi trường quay, piccoli đang gây ảnh hưởng nồng nhiệt và bộ phim tối giản khéo léo này cũng vậy.",
+    "idx": 39,
+    "label": "positive"
+  },
+  {
+    "sentence": "có ... nguồn năng lượng to lớn từ dàn diễn viên , một cảm giác vui tươi và phấn khích có vẻ phù hợp .",
+    "idx": 40,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim tài liệu mang tính soi sáng này vượt qua tầm nhìn định sẵn của chúng ta về thánh địa và cư dân ở đó , bộc lộ sự phức tạp của con người bên dưới .",
+    "idx": 41,
+    "label": "positive"
+  },
+  {
+    "sentence": "sức mạnh tinh tế của \"elling\" là nó không bao giờ mất liên lạc với thực tế của tình huống nghiệt ngã .",
+    "idx": 42,
+    "label": "positive"
+  },
+  {
+    "sentence": "holm ... thể hiện nhân vật với sức thu hút vương giả dễ dàng .",
+    "idx": 43,
+    "label": "positive"
+  },
+  {
+    "sentence": "tiêu đề không chỉ mô tả các nhân vật chính mà còn cả những kẻ lười biếng đằng sau máy quay nữa.",
+    "idx": 44,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó mang lại ít hơn những niềm vui nhất thời của sự giải trí trí tuệ đẹp đẽ và nhẹ nhàng.",
+    "idx": 45,
+    "label": "negative"
+  },
+  {
+    "sentence": "một sự tổng hợp của những điều sáo rỗng và phi lý có vẻ suy đồi tích cực trong ánh hào quang và sự trống rỗng mang tính điện ảnh của nó.",
+    "idx": 46,
+    "label": "negative"
+  },
+  {
+    "sentence": "một máy làm lạnh tinh tế và được chế tạo tốt (phần lớn).",
+    "idx": 47,
+    "label": "positive"
+  },
+  {
+    "sentence": "có rất nhiều đức tính tốt nhất của Eastwood.",
+    "idx": 48,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó bị cản trở bởi kiểu cốt truyện xuyên suốt cuộc đời và nữ diễn viên chính không có chiều sâu .",
+    "idx": 49,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó có cảm giác giống như một chương trình đặc biệt sau giờ học được trang bị một số hiệu ứng đặc biệt lạ mắt và việc xem các điểm cốt truyện thuộc lòng của nó kết nối cũng thú vị như việc nhìn chằm chằm vào đồng hồ bấm giờ quả trứng trong 93 phút.",
+    "idx": 50,
+    "label": "negative"
+  },
+  {
+    "sentence": "phần lớn, đặc điểm đầu tiên của đạo diễn Anne-sophie birot là một bộ phim nhạy cảm, diễn xuất cực kỳ xuất sắc.",
+    "idx": 51,
+    "label": "positive"
+  },
+  {
+    "sentence": "Ông. Tsai là một nghệ sĩ rất độc đáo trong lĩnh vực của mình, và lúc đó ở đó là mấy giờ?",
+    "idx": 52,
+    "label": "positive"
+  },
+  {
+    "sentence": "sade là một cái nhìn hấp dẫn về người anh hùng cùng tên gây tranh cãi và vô thần quyết liệt.",
+    "idx": 53,
+    "label": "positive"
+  },
+  {
+    "sentence": "thiếu đi bất kỳ loại câu chuyện dễ hiểu nào đến nỗi nó khiến những bộ phim như xxx và thiệt hại tài sản thế chấp có vẻ giống như những chuyên luận sâu sắc",
+    "idx": 54,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim gia đình nhẹ nhàng, chân thành.",
+    "idx": 55,
+    "label": "positive"
+  },
+  {
+    "sentence": "... một trò đùa rỗng tuếch được kể bởi một vận động viên thể dục điện ảnh có quá nhiều niềm vui khi tô vẽ thêm câu chuyện về nhân loại để thực sự tham gia vào nó .",
+    "idx": 56,
+    "label": "negative"
+  },
+  {
+    "sentence": "gà tây lạnh giá sẽ là một tựa đề hay hơn nhiều .",
+    "idx": 57,
+    "label": "negative"
+  },
+  {
+    "sentence": "quản lý để vừa tàn bạo vừa trần tục.",
+    "idx": 58,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó chỉ hời hợt một cách đáng thất vọng -- một bộ phim có tất cả những yếu tố cần thiết để trở thành một bộ phim hấp dẫn, liên quan đến việc nghiên cứu nhân vật, nhưng không bao giờ làm được gì nhiều hơn ngoài bề mặt.",
+    "idx": 59,
+    "label": "negative"
+  },
+  {
+    "sentence": "đây là câu chuyện về hai người không phù hợp, không có cơ hội một mình, nhưng cùng nhau họ rất tuyệt vời.",
+    "idx": 60,
+    "label": "positive"
+  },
+  {
+    "sentence": "Schaeffer phải tìm ra cái móc nào đó để treo những bộ phim vô dụng dai dẳng của mình vào đó , và đó cũng có thể là sự hồi sinh của nhân vật trung niên .",
+    "idx": 61,
+    "label": "negative"
+  },
+  {
+    "sentence": "sức mạnh nguyên thủy của bộ phim này dường như trỗi dậy từ ký ức tập thể rộng lớn của những người chiến đấu.",
+    "idx": 62,
+    "label": "positive"
+  },
+  {
+    "sentence": "Về chủ đề khó hiểu này , con nòng nọc là một bước đi đúng hướng , với sự pha trộn giữa sự thẳng thắn , lịch sự và lòng nhân ái .",
+    "idx": 63,
+    "label": "positive"
+  },
+  {
+    "sentence": "kịch bản bắt đầu và Mr. theo sau là nhịp độ dồn dập và nhịp điệu kéo chân của Hartley .",
+    "idx": 64,
+    "label": "negative"
+  },
+  {
+    "sentence": "bạn thắc mắc tại sao đủ không chỉ là một video ca nhạc mà còn là một bộ phim dài tập.",
+    "idx": 65,
+    "label": "negative"
+  },
+  {
+    "sentence": "nếu bạn không thích sự hài hước tục tĩu ở trường đại học thì đây chính là tấm vé dành cho bạn.",
+    "idx": 66,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim nhanh, hài hước, rất thú vị.",
+    "idx": 67,
+    "label": "positive"
+  },
+  {
+    "sentence": "trò chém và hack kiểu cũ đã trở lại!",
+    "idx": 68,
+    "label": "positive"
+  },
+  {
+    "sentence": "đây chắc chắn là một bộ phim không thể bỏ qua, ngay cả đối với những người mê phim kinh dị.",
+    "idx": 69,
+    "label": "negative"
+  },
+  {
+    "sentence": "vì tất cả sự khéo léo ấn tượng của nó, và mặc dù có một loạt cảnh cao trào ở màn thứ ba, Lily Chou-Chou chưa bao giờ thực sự tạo dựng được một cảm xúc mạnh mẽ trong đầu.",
+    "idx": 70,
+    "label": "negative"
+  },
+  {
+    "sentence": "mang sắc thái tinh tế trong tâm trạng và lời thoại, vở kịch thính phòng này được diễn xuất tuyệt vời bởi bó hoa cựu chiến binh hấp dẫn sâu sắc và giọng điệu lạnh lùng nhưng khá con người.",
+    "idx": 71,
+    "label": "positive"
+  },
+  {
+    "sentence": "sử dụng tính hài hước cao để gợi lên sự sâu sắc đáng ngạc nhiên.",
+    "idx": 72,
+    "label": "positive"
+  },
+  {
+    "sentence": "một trong những bộ phim rùng rợn nhất, đáng sợ nhất sẽ ra mắt trong một thời gian rất dài, dễ dàng sánh ngang với phù thủy Blair hoặc những bộ phim khác.",
+    "idx": 73,
+    "label": "positive"
+  },
+  {
+    "sentence": "một chuỗi những trò đùa được lặp đi lặp lại dựa trên sự thô tục vô vị.",
+    "idx": 74,
+    "label": "negative"
+  },
+  {
+    "sentence": "trong số những khám phá hấp dẫn nhất của năm về sự xa lánh.",
+    "idx": 75,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim không đạt được tổng số phần của nó.",
+    "idx": 76,
+    "label": "negative"
+  },
+  {
+    "sentence": "căn phòng của cậu con trai là sự chiến thắng của sự dịu dàng kiếm được những khoảnh khắc cảm động .",
+    "idx": 77,
+    "label": "positive"
+  },
+  {
+    "sentence": "không có gì nổi bật về bộ phim này, nhưng nó đủ hay và có thể sẽ được hầu hết các thủy thủ và những người biết đường đi quanh tàu ngầm đánh giá cao.",
+    "idx": 78,
+    "label": "positive"
+  },
+  {
+    "sentence": "đây là một vụ đắm tàu ​​​​của một bộ phim hành động -- một nỗ lực đáng kinh ngạc của các nhà làm phim nhằm buộc James gắn kết với khuôn mẫu xxx vô tâm và ném 40 năm lịch sử điện ảnh xuống bồn cầu để thay vào đó là những ánh chớp sáng và tiếng nổ lớn.",
+    "idx": 79,
+    "label": "negative"
+  },
+  {
+    "sentence": "trận hòa ( cho `` big bad love '' ) là một màn trình diễn chắc chắn của Arliss Howard .",
+    "idx": 80,
+    "label": "positive"
+  },
+  {
+    "sentence": "Green có thể muốn đeo chiếc mặt nạ trượt tuyết đó , vì cướp có thể là cách duy nhất để trả tiền cho dự án tiếp theo của anh ta .",
+    "idx": 81,
+    "label": "negative"
+  },
+  {
+    "sentence": "đó là một thế giới khốn nạn khi ngay cả những bộ phim kinh dị giết người cũng xoay quanh các buổi trị liệu theo nhóm .",
+    "idx": 82,
+    "label": "negative"
+  },
+  {
+    "sentence": "mặc dù nói như vậy gần như là dư thừa , nhưng những danh tiếng lớn lại được khen ngợi vì đã thực sự chọn được những người trông có vẻ thuộc tầng lớp lao động .",
+    "idx": 83,
+    "label": "positive"
+  },
+  {
+    "sentence": "lòng dũng cảm của ban nhạc trước sự đàn áp chính thức đang truyền cảm hứng , đặc biệt là đối với những người hippie lớn tuổi ( bao gồm cả nhóm này ) .",
+    "idx": 84,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim đạt được tác động lớn bằng cách giấu kín những suy nghĩ này như ... ( bút lông ) đã làm bằng cách cho chúng xem .",
+    "idx": 85,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim có những đường nét phẳng lặng khi lẽ ra nó phải lên đến đỉnh điểm và bị bỏ lỡ nhiều cơ hội cũng như chuyện vặt vãnh hơn là nấm cục đen tối, suy đồi.",
+    "idx": 86,
+    "label": "negative"
+  },
+  {
+    "sentence": "jaglom ... đặt ( s ) khán giả vào tình thế đặc quyền được nghe lén nhân vật của anh ta",
+    "idx": 87,
+    "label": "positive"
+  },
+  {
+    "sentence": "Những hình ảnh đen tối và choáng váng của fresnadillo có cách đi sâu vào tiềm thức của bạn giống như cơn ác mộng không thể biến mất một tuần trước mà bạn gặp phải .",
+    "idx": 88,
+    "label": "positive"
+  },
+  {
+    "sentence": "chúng tôi biết cốt truyện hơi điên rồ , nhưng nó khiến tôi hứng thú từ đầu đến cuối .",
+    "idx": 89,
+    "label": "positive"
+  },
+  {
+    "sentence": "đó là một chuyện vụn vặt , nhưng khi nó chạm đến đích thì nó thật tuyệt vời .",
+    "idx": 90,
+    "label": "positive"
+  },
+  {
+    "sentence": "khó có thể là một kiệt tác , nhưng nó giới thiệu cho người xem một doanh nghiệp từ thiện tốt và một số con người thực sự thú vị .",
+    "idx": 91,
+    "label": "positive"
+  },
+  {
+    "sentence": "bạn sẽ không thích Roger nhưng bạn sẽ nhanh chóng nhận ra anh ấy .",
+    "idx": 92,
+    "label": "negative"
+  },
+  {
+    "sentence": "nếu `` Solaris '' của Steven Soderbergh là một thất bại thì đó là một thất bại vẻ vang.",
+    "idx": 93,
+    "label": "positive"
+  },
+  {
+    "sentence": "Byler bộc lộ các nhân vật của mình theo cách gây tò mò và thậm chí mê hoặc chúng ta, và anh ấy không bao giờ biến tình huống thành một bộ phim tình cảm đơn giản.",
+    "idx": 94,
+    "label": "positive"
+  },
+  {
+    "sentence": "câu chuyện hồi hộp về mặt đạo đức trong Thế chiến thứ hai hấp dẫn này đề cập đến mặt tối của văn hóa Mỹ: định kiến ​​chủng tộc dưới những hình thức xấu xí và đa dạng.",
+    "idx": 95,
+    "label": "negative"
+  },
+  {
+    "sentence": "thật khó để tưởng tượng quá trình tạo ra một kịch bản như vậy , nhưng có thể đoán rằng tiếng phô mai phun ra và tiếng ồn từ nách đóng một vai trò quan trọng .",
+    "idx": 96,
+    "label": "negative"
+  },
+  {
+    "sentence": "không có sự sa sút nào trong năm thứ hai đối với đạo diễn Sam Mendes , người đã chuyển từ người đoạt giải Oscar sang người có tiềm năng đoạt giải Oscar bằng một bàn tay khéo léo .",
+    "idx": 97,
+    "label": "positive"
+  },
+  {
+    "sentence": "về tổng thể, bộ phim thiếu sự dí dỏm, cảm giác và độ tin cậy để bù đắp cho sự thô thiển và tầm thường không ngừng của nó.",
+    "idx": 98,
+    "label": "negative"
+  },
+  {
+    "sentence": "tại sao lại làm phim tài liệu về những nhân vật lịch sử ngoài lề này?",
+    "idx": 99,
+    "label": "negative"
+  },
+  {
+    "sentence": "Cả Parker và Donovan đều không phải là một nhân vật chính lãng mạn điển hình , nhưng họ mang đến một nét quyến rũ mới mẻ, kỳ quặc cho bộ phim .",
+    "idx": 100,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim gần đây nhất của anh ấy lãng mạn đầy chất thơ và đầy những hình ảnh không thể xóa nhòa, nhưng bộ phim mới nhất của anh ấy chẳng có tác dụng gì cả.",
+    "idx": 101,
+    "label": "negative"
+  },
+  {
+    "sentence": "vẽ một số hình ảnh đáng nhớ... , nhưng makhmalbaf giữ khoảng cách với các nhân vật",
+    "idx": 102,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim hấp dẫn , được trình chiếu với những màn trình diễn tinh tế và cảm động .",
+    "idx": 103,
+    "label": "positive"
+  },
+  {
+    "sentence": "đó là một trong những bức tranh về bóng chày trong đó người anh hùng khắc kỷ, người vợ kiên nhẫn, những đứa trẻ dễ thương hết mức và tỷ lệ thành công đủ dài để đe dọa, nhưng cũng đủ ngắn để biến giấc mơ thành hiện thực.",
+    "idx": 104,
+    "label": "positive"
+  },
+  {
+    "sentence": "kết hợp giữa chỉnh sửa nhanh và âm thanh kim loại nặng chói tai trong phần lớn thời gian , dường như Beck đang có ảo tưởng rằng anh ấy đang quay hệ thống video xuống mới nhất .",
+    "idx": 105,
+    "label": "negative"
+  },
+  {
+    "sentence": "cốt truyện tương đối đơn giản và đạo đức không phức tạp của bộ phim phù hợp với dàn diễn viên niềm nở.",
+    "idx": 106,
+    "label": "positive"
+  },
+  {
+    "sentence": "điều mà đạo diễn không thể làm là làm cho một trong hai tính cách của Val Kilmer trở nên thú vị hoặc đáng quan tâm .",
+    "idx": 107,
+    "label": "negative"
+  },
+  {
+    "sentence": "quá thường xuyên , người xem không phản ứng nhiều với sự hài hước mà lại nhăn mặt tỏ vẻ ghê tởm .",
+    "idx": 108,
+    "label": "negative"
+  },
+  {
+    "sentence": "đó là niềm vui thoát ly tuyệt vời tái tạo lại một địa điểm và thời gian sẽ không bao giờ xảy ra nữa .",
+    "idx": 109,
+    "label": "positive"
+  },
+  {
+    "sentence": "không có điểm nào về tính độc đáo, hóm hỉnh hoặc thông minh.",
+    "idx": 110,
+    "label": "negative"
+  },
+  {
+    "sentence": "ở đây gần như không có đủ niềm vui mặc dù có một số nguyên liệu hấp dẫn .",
+    "idx": 111,
+    "label": "negative"
+  },
+  {
+    "sentence": "buồn cười và lố bịch.",
+    "idx": 112,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim này thật điên rồ.",
+    "idx": 113,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó ám ảnh bạn , bạn không thể quên nó , bạn ngưỡng mộ quan niệm của nó và có thể giải quyết một số nhầm lẫn mà bạn gặp phải khi xem nó .",
+    "idx": 114,
+    "label": "positive"
+  },
+  {
+    "sentence": "Sam Mendes đã trở thành thủ khoa của trường nhờ những bước tiến nhẹ nhàng và lối ra dễ dàng.",
+    "idx": 115,
+    "label": "negative"
+  },
+  {
+    "sentence": "một trong những cách tiếp cận văn hóa độc thân thông minh nhất mà tôi từng thấy trong một thời gian dài.",
+    "idx": 116,
+    "label": "positive"
+  },
+  {
+    "sentence": "tâm trạng , đau lòng , và được quay theo phong cách tự nhiên , không gượng ép khiến các nhân vật của phim có vẻ hoàn toàn thuyết phục ngay cả khi kịch bản không như vậy .",
+    "idx": 117,
+    "label": "positive"
+  },
+  {
+    "sentence": "mỗi nano giây của chàng trai mới đều nhắc nhở bạn rằng bạn có thể làm điều gì đó khác thú vị hơn nhiều .",
+    "idx": 118,
+    "label": "negative"
+  },
+  {
+    "sentence": "đến ... một cách khó chịu gần như suýt lao vào tay tên trộm xe đạp .",
+    "idx": 119,
+    "label": "negative"
+  },
+  {
+    "sentence": "Nước ấm dưới cây cầu đỏ là một bộ phim Nhật Bản kỳ quặc và sâu sắc khám phá những mối liên hệ hấp dẫn giữa phụ nữ, nước, thiên nhiên và tình dục.",
+    "idx": 120,
+    "label": "positive"
+  },
+  {
+    "sentence": "Đối với tôi, có vẻ như bộ phim nói về nghệ thuật lừa gạt mọi người mà không bao giờ để họ có ý thức biết rằng bạn đã làm như vậy",
+    "idx": 121,
+    "label": "negative"
+  },
+  {
+    "sentence": "cách làm phim kiểu cũ hay nhất.",
+    "idx": 122,
+    "label": "positive"
+  },
+  {
+    "sentence": "biến công thức có khả năng bị lãng quên thành một thứ gì đó thú vị một cách kỳ lạ.",
+    "idx": 123,
+    "label": "positive"
+  },
+  {
+    "sentence": "( Lawrence nhảy ) khắp sân khấu , nhảy múa , chạy , đổ mồ hôi , lau mặt và nói chung là thể hiện tài năng lập dị đã mang lại cho anh ấy danh tiếng ngay từ đầu .",
+    "idx": 124,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim nhắc nhở chúng ta rằng điện ảnh giả tưởng có thể thú vị và thỏa mãn như thế nào khi nó được tiếp cận bằng trí tưởng tượng và sự tinh tế .",
+    "idx": 125,
+    "label": "positive"
+  },
+  {
+    "sentence": "xác nhận mối nghi ngờ dai dẳng rằng Ethan Hawke thậm chí còn tệ hơn ở phía sau máy quay so với trước máy quay .",
+    "idx": 126,
+    "label": "negative"
+  },
+  {
+    "sentence": "cuối cùng, chúng ta chỉ còn lại thứ gì đó giống như hai con tàu đi qua trong đêm hơn là bất kỳ hiểu biết sâu sắc nào về tình yêu đồng giới, xã hội Trung Quốc hay cái giá mà người ta phải trả cho việc không trung thực.",
+    "idx": 127,
+    "label": "negative"
+  },
+  {
+    "sentence": "montias ... bơm rất nhiều năng lượng vào câu chuyện có sắc thái độc đáo của anh ấy và bao quanh anh ấy là một dàn nhân vật đường phố kỳ quặc -- nhưng không rập khuôn -- .",
+    "idx": 128,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó mang đến sự giải trí thông minh, hoành tráng của một dàn diễn viên xuất sắc đóng vai những người thông minh giữa một cốt truyện hấp dẫn.",
+    "idx": 129,
+    "label": "positive"
+  },
+  {
+    "sentence": "bị thiếu một câu chuyện thuyết phục hoặc dễ hiểu .",
+    "idx": 130,
+    "label": "negative"
+  },
+  {
+    "sentence": "khi thực hiện, ý tưởng thông minh này kém hài hước hơn nhiều so với ý tưởng ban đầu, những kẻ giết người từ không gian.",
+    "idx": 131,
+    "label": "negative"
+  },
+  {
+    "sentence": "scooby dooby doo / và cả xù xì nữa / cả hai bạn đều trông và hát rất tuyệt .",
+    "idx": 132,
+    "label": "positive"
+  },
+  {
+    "sentence": "câu chuyện về tok ( andy lau ), một kẻ sát nhân bóng bẩy theo dấu o ( takashi sorimachi ), sát thủ huyền thoại nhất Châu Á , quá dễ bị thu hút .",
+    "idx": 133,
+    "label": "negative"
+  },
+  {
+    "sentence": "tất cả kéo dài vô tận giống như đang chứng kiến ​​một mối quan hệ đau khổ diễn ra trong thời gian thực .",
+    "idx": 134,
+    "label": "negative"
+  },
+  {
+    "sentence": "bí ngô có nghĩa là một sự châm biếm đen tối thái quá về cuộc sống huynh đệ, nhưng tham vọng của nó vượt xa khả năng của nhà văn Adam Larson Broder và đồng đạo diễn của ông, Tony R. Abrams , trong bộ phim đầu tay của họ .",
+    "idx": 135,
+    "label": "negative"
+  },
+  {
+    "sentence": "trông giống như một dự án phù hợp hơn với màn ảnh nhỏ.",
+    "idx": 136,
+    "label": "negative"
+  },
+  {
+    "sentence": "gượng ép , quen thuộc và hoàn toàn trịch thượng .",
+    "idx": 137,
+    "label": "negative"
+  },
+  {
+    "sentence": "đó là một lời khen dành cho Kuras và Miller.",
+    "idx": 138,
+    "label": "positive"
+  },
+  {
+    "sentence": "đây không phải là bộ phim xã hội đen về thời kỳ trầm cảm tột cùng.",
+    "idx": 139,
+    "label": "negative"
+  },
+  {
+    "sentence": "hy sinh giá trị giàu có của kho lưu trữ với lập trường kém khách quan .",
+    "idx": 140,
+    "label": "negative"
+  },
+  {
+    "sentence": "nhân vật ngoằn ngoèo không đủ phát triển để hỗ trợ một bộ phim được xây dựng xung quanh anh ta.",
+    "idx": 141,
+    "label": "negative"
+  },
+  {
+    "sentence": "Còn thông điệp nào tốt hơn \"hãy yêu bản thân\" mà các phụ nữ trẻ ở mọi lứa tuổi có thể nhận được?",
+    "idx": 142,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim chắc chắn ... nhưng có tâm hơn là nó thực sự gây chấn động .",
+    "idx": 143,
+    "label": "positive"
+  },
+  {
+    "sentence": "trong khi ( Hill ) đã học được những chiêu trò mới , chỉ những chiêu trò đó thôi thì chưa đủ để cứu vãn bộ phim đấm bốc vô hồn này .",
+    "idx": 144,
+    "label": "negative"
+  },
+  {
+    "sentence": "điều tốt nhất có thể nói về công việc ở đây của đạo diễn người Scotland Ritchie ... là rõ ràng là ông ấy không đặt tâm huyết vào đó.",
+    "idx": 145,
+    "label": "negative"
+  },
+  {
+    "sentence": "kể về một nữ anh hùng giống manga chống lại những kẻ ngược đãi mình , nó tràn đầy năng lượng và thỏa mãn nếu không muốn nói là sâu sắc và tâm lý .",
+    "idx": 146,
+    "label": "positive"
+  },
+  {
+    "sentence": "Robert Rodriguez tài năng và thông minh có lẽ đã đặt quá nhiều tâm huyết vào bộ phim đầu tiên của mình và không dành đủ tâm huyết cho bộ phim thứ hai.",
+    "idx": 147,
+    "label": "negative"
+  },
+  {
+    "sentence": "cảm thấy quá công thức và quá quen thuộc để tạo ra cảm giác hồi hộp mãnh liệt của công việc ngầm thời kỳ đầu .",
+    "idx": 148,
+    "label": "negative"
+  },
+  {
+    "sentence": "động lực không ổn định của tình bạn nữ là chủ đề của bộ phim chậm rãi, nhẹ nhàng này, khác xa với Hollywood đến mức nhịp điệu và sự cộng hưởng của nó có vẻ rất Pháp.",
+    "idx": 149,
+    "label": "positive"
+  },
+  {
+    "sentence": "nói chung là rất tốt cho những gì nó đang cố gắng làm.",
+    "idx": 150,
+    "label": "positive"
+  },
+  {
+    "sentence": "một gã kiếm hiệp to lớn, lộng lẫy, rộng lớn mang đến những trò giải trí theo phong cách hoành tráng, không phức tạp.",
+    "idx": 151,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim khó , hấp dẫn có khả năng truyền tải nhiều nội dung hơn bất chấp sự lặp lại và mâu thuẫn của nó so với hầu hết các bộ phim hơn là rõ ràng và rõ ràng hơn nhiều.",
+    "idx": 152,
+    "label": "positive"
+  },
+  {
+    "sentence": "Kết quả là bộ phim nặng tay gần như gây cười.",
+    "idx": 153,
+    "label": "negative"
+  },
+  {
+    "sentence": "một cuộc kiểm tra chắc chắn về cuộc khủng hoảng tuổi trung niên của nam giới.",
+    "idx": 154,
+    "label": "positive"
+  },
+  {
+    "sentence": "một cuộc hẹn hò ác mộng với sự hóm hỉnh nửa vời đã gây ra tai họa lớn do thiếu khoảng cách quan trọng và niềm tin đáng buồn vào những điều vô vị ở trường đại học nghệ thuật tự do.",
+    "idx": 155,
+    "label": "negative"
+  },
+  {
+    "sentence": "quản lý để vượt qua âm mưu tình dục, ma túy và giai điệu để trở thành một thứ gì đó phong phú hơn nhiều.",
+    "idx": 156,
+    "label": "positive"
+  },
+  {
+    "sentence": "cần có tài năng để làm một bộ phim vô hồn về người đàn ông tàn ác nhất từng sống.",
+    "idx": 157,
+    "label": "negative"
+  },
+  {
+    "sentence": "khi bị cuốn hút bởi hình ảnh và sự lập dị của nhiều nhân vật, tôi thấy mình bối rối khi đến lúc đi vào trọng tâm của bộ phim.",
+    "idx": 158,
+    "label": "negative"
+  },
+  {
+    "sentence": "giống như leon , nó thật khó chịu nhưng vẫn đáng yêu một cách kỳ lạ .",
+    "idx": 159,
+    "label": "positive"
+  },
+  {
+    "sentence": "phong cách khác thường nhưng cũng ngớ ngẩn không kém ... bức ảnh không tạo được nhiều hồi hộp , cũng như không đặt ra đủ câu hỏi tìm kiếm để biện minh cho sự giả vờ của nó .",
+    "idx": 160,
+    "label": "negative"
+  },
+  {
+    "sentence": "không chính xác là đầu gối của con ong",
+    "idx": 161,
+    "label": "negative"
+  },
+  {
+    "sentence": "dường như không có con đường rõ ràng nào về việc câu chuyện sẽ đi đến đâu hoặc mất bao lâu để đến đó.",
+    "idx": 162,
+    "label": "negative"
+  },
+  {
+    "sentence": "Trò hề hài hước có thể kích thích trí tò mò của nhiều trẻ mẫu giáo , nhưng khi một gia đình bốn người phải trả khoảng 40 đô la để xem một bộ phim ở rạp thì tại sao lại phải chi tiền cho một con chó như thế này khi thay vào đó bạn có thể thuê một phả hệ ?",
+    "idx": 163,
+    "label": "negative"
+  },
+  {
+    "sentence": "bức ảnh của một người phụ nữ được đạo diễn bởi Ilya chaiken .",
+    "idx": 164,
+    "label": "positive"
+  },
+  {
+    "sentence": "có thể làm dấy lên cuộc thảo luận về vụ ám sát Kennedy nhưng bộ phim hư cấu này có vẻ được làm cho truyền hình cáp hơn là cho màn ảnh rộng.",
+    "idx": 165,
+    "label": "negative"
+  },
+  {
+    "sentence": "các nhân vật vẫn cần hoạt động theo một số xung lực đáng tin cậy và dễ hiểu , bất kể họ sử dụng bao nhiêu loại thuốc hay sử dụng bao nhiêu giấy phép nghệ thuật .",
+    "idx": 166,
+    "label": "negative"
+  },
+  {
+    "sentence": "kết quả cuối cùng là một bộ phim không như vậy .",
+    "idx": 167,
+    "label": "negative"
+  },
+  {
+    "sentence": "quản lý để được ngọt ngào và thỏa mãn một cách xấu xa cùng một lúc.",
+    "idx": 168,
+    "label": "positive"
+  },
+  {
+    "sentence": "Bộ phim của leigh đầy rẫy những màn trình diễn đáng nhớ từ đầu đến cuối .",
+    "idx": 169,
+    "label": "positive"
+  },
+  {
+    "sentence": "rõ ràng là nó cũng rất thú vị .",
+    "idx": 170,
+    "label": "positive"
+  },
+  {
+    "sentence": "hiếm khi bệnh bạch cầu lại có vẻ lung linh và lành tính đến thế.",
+    "idx": 171,
+    "label": "negative"
+  },
+  {
+    "sentence": "có vẻ như tôi đã chờ đợi bộ phim này cả đời và bây giờ tôi nóng lòng chờ đợi phần tiếp theo.",
+    "idx": 172,
+    "label": "positive"
+  },
+  {
+    "sentence": "quyết tâm phải vui vẻ và sôi nổi, với những vở nhạc kịch tràn đầy năng lượng, sự hài hước không thu hút được người lớn này lắm.",
+    "idx": 173,
+    "label": "negative"
+  },
+  {
+    "sentence": "nếu bạn tìm hiểu thủ thuật tư duy của david Mamet ... hãy thuê phim này và thưởng thức!",
+    "idx": 174,
+    "label": "positive"
+  },
+  {
+    "sentence": "buồn cười một cách ảm đạm , các nhân vật của nó càng cảm động hơn khi không chịu thương hại hay tưởng nhớ bản thân .",
+    "idx": 175,
+    "label": "positive"
+  },
+  {
+    "sentence": "cung cấp những thứ cũ như cũ, được pha trộn với flava Latin và được tạo ra bởi các vở kịch Hollywood.",
+    "idx": 176,
+    "label": "negative"
+  },
+  {
+    "sentence": "không mang lại nhiều điều gì ngoài sự vô hồn lấp lánh, ngôn ngữ tục tĩu và một loạt tình tiết tàn bạo ... nâng tầm bạo lực cách điệu trên màn ảnh.",
+    "idx": 177,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó khiến tôi muốn rời mắt ra khỏi đầu và ném chúng vào màn hình.",
+    "idx": 178,
+    "label": "negative"
+  },
+  {
+    "sentence": "diễn xuất của bộ phim thật ly kỳ .",
+    "idx": 179,
+    "label": "positive"
+  },
+  {
+    "sentence": "Thật không may, đó không phải là trò vui ngớ ngẩn trừ khi bạn thích những bộ phim thực sự tệ.",
+    "idx": 180,
+    "label": "negative"
+  },
+  {
+    "sentence": "Thật là một điều tồi tệ khi một bộ phim có nhiều nội dung ngang với phần ghi công cuối cùng của nó.",
+    "idx": 181,
+    "label": "negative"
+  },
+  {
+    "sentence": "Tôi thông cảm với hoàn cảnh của những gia đình này, nhưng bộ phim không làm tốt việc truyền tải vấn đề trước mắt.",
+    "idx": 182,
+    "label": "negative"
+  },
+  {
+    "sentence": "kỳ vọng của bạn càng thấp thì bạn sẽ càng thích thú với nó hơn.",
+    "idx": 183,
+    "label": "negative"
+  },
+  {
+    "sentence": "mặc dù Perry và Hurley có những nỗ lực đầy cảm hứng để thổi sức sống vào kịch bản rời rạc, lộn xộn của Jay Scherick và David Ronn, nhưng cả các diễn viên lẫn đạo diễn Reginald Hudlin đều không thể khiến bộ phim trở nên thú vị hơn một cách phù hợp.",
+    "idx": 184,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim không thể bỏ qua đối với những người đam mê David Mamet và những ai đánh giá cao cách làm phim thông minh, đầy phong cách.",
+    "idx": 185,
+    "label": "positive"
+  },
+  {
+    "sentence": "Pacino xuất sắc như một người ngủ tập thể thiếu ngủ , sự mệt mỏi ngày càng tăng của anh ấy mang tính tồn tại cũng như thể chất .",
+    "idx": 186,
+    "label": "positive"
+  },
+  {
+    "sentence": "`de niro ... là nguồn gốc thực sự của niềm đam mê chân thành mà tổ chức Hollywood này hướng tới. '",
+    "idx": 187,
+    "label": "positive"
+  },
+  {
+    "sentence": "một thứ rác rưởi mang tính khinh thường phụ nữ cố gắng tự coi mình là trò giải trí sành điệu dành cho giới trẻ .",
+    "idx": 188,
+    "label": "negative"
+  },
+  {
+    "sentence": "câu chuyện của nó có thể đã có cả ngàn năm rồi, nhưng tại sao lại phải mất cả ngàn năm nữa mới kể cho chúng ta nghe?",
+    "idx": 189,
+    "label": "negative"
+  },
+  {
+    "sentence": "cố gắng hết sức có thể, tôi không thể nghĩ ra một lý do chính đáng nào để xem bộ phim này, mặc dù mọi người trong nhóm của tôi đều đồng loạt hét lên, 'cảm ơn bạn! '",
+    "idx": 190,
+    "label": "negative"
+  },
+  {
+    "sentence": "bộ phim rất đẹp để xem và lôi cuốn người xem vào một cảm giác đấu tranh hoành tráng -- bên trong và bên ngoài -- điều đó quá hiếm trong những tác phẩm vội vàng hơn của Hollywood .",
+    "idx": 191,
+    "label": "positive"
+  },
+  {
+    "sentence": "một sự tôn vinh sự kỳ quặc, lập dị và xu hướng buông thả tất cả của một số cá nhân và gây ra hậu quả chết tiệt.",
+    "idx": 192,
+    "label": "positive"
+  },
+  {
+    "sentence": "Morton sử dụng khuôn mặt và ngôn ngữ cơ thể của mình để mang đến cho chúng ta tâm hồn của Morvern, mặc dù nhân vật gần như hoàn toàn chết lặng.",
+    "idx": 193,
+    "label": "positive"
+  },
+  {
+    "sentence": "thay vì một đô thị phương Tây đầy nhịp điệu cường điệu , đó là một lát cắt cuộc sống khiêm tốn , mang tính xã hội học .",
+    "idx": 194,
+    "label": "positive"
+  },
+  {
+    "sentence": "suy nghĩ của tôi tập trung vào các nhân vật.",
+    "idx": 195,
+    "label": "positive"
+  },
+  {
+    "sentence": "vì vậy , bộ phim hài này cũng nói về sự xung đột văn hóa ôn hòa ở New Delhi ngày nay .",
+    "idx": 196,
+    "label": "positive"
+  },
+  {
+    "sentence": "đối với người mới bắt đầu, câu chuyện quá mỏng manh.",
+    "idx": 197,
+    "label": "negative"
+  },
+  {
+    "sentence": "đây là một bộ phim hài tổng hợp đoạt giải cho thấy người Canada có thể cười nhẹ nhàng và có những cảm xúc nhẹ nhàng không kém khi bấm nút , dễ dàng như những người đồng hương của họ ở bất kỳ nơi nào khác trên thế giới .",
+    "idx": 198,
+    "label": "positive"
+  },
+  {
+    "sentence": "ít nhất , nếu bạn không biết gì về Derrida khi bước vào rạp thì bạn sẽ không biết nhiều hơn khi rời đi .",
+    "idx": 199,
+    "label": "negative"
+  },
+  {
+    "sentence": "định dạng này được sử dụng tốt nhất ... để ghi lại những đỉnh cao chóng mặt mà các tay đua xe mô tô và xe bmx đạt được , những người mà màn nhảy múa ba lê đôi khi kết thúc bằng những pha vặn vẹo đến thấu xương .",
+    "idx": 200,
+    "label": "positive"
+  },
+  {
+    "sentence": "bên trong cốt truyện xung đột của bộ phim có một đạo đức tử tế đang cố gắng bộc lộ ra ngoài , nhưng không phải vậy , chính sự căng thẳng đã khiến bạn ngồi yên tại chỗ .",
+    "idx": 201,
+    "label": "positive"
+  },
+  {
+    "sentence": "phải có giấy phép đạo diễn thì Ed Burns mới có thể bị thu hồi.",
+    "idx": 202,
+    "label": "negative"
+  },
+  {
+    "sentence": "xấu .",
+    "idx": 203,
+    "label": "negative"
+  },
+  {
+    "sentence": "thiện chí kiên trì của cha mẹ và sự phá bỏ cái tôi 'vô ích' của jia, khiến bộ phim trở nên cảm động dù có một số tình huống ảm đạm.",
+    "idx": 204,
+    "label": "positive"
+  },
+  {
+    "sentence": "rơi vào danh mục trò vui ngu ngốc tốt.",
+    "idx": 205,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim thông minh, nghệ thuật nằm trong giới hạn của một thể loại đã có từ lâu.",
+    "idx": 206,
+    "label": "positive"
+  },
+  {
+    "sentence": "thông minh , khiêu khích và cực kỳ hài hước .",
+    "idx": 207,
+    "label": "positive"
+  },
+  {
+    "sentence": "và bài học, cuối cùng, không có gì mới cả.",
+    "idx": 208,
+    "label": "negative"
+  },
+  {
+    "sentence": "Đây không phải là bộ phim quyền anh tệ nhất từ ​​trước đến nay nhưng chắc chắn nó không phải là nhà vô địch - người thua cuộc lớn nhất chính là khán giả.",
+    "idx": 209,
+    "label": "negative"
+  },
+  {
+    "sentence": "bộ phim Anh trai bí mật không chỉ hài hước, nếu không muốn nói là còn hài hước hơn cả hai bộ phim về sức mạnh của Austin, mà nó còn là một trong những bộ phim giả mạo thông minh hơn, hiểu biết hơn sẽ xuất hiện trong một thời gian nào đó.",
+    "idx": 210,
+    "label": "positive"
+  },
+  {
+    "sentence": "Nói điều này được thực hiện tốt hơn ở Wilder's một số nơi giống như trời nóng cũng giống như nói mặt trời mọc ở hướng đông .",
+    "idx": 211,
+    "label": "negative"
+  },
+  {
+    "sentence": "Toàn bộ bộ phim kể về một người đàn ông nhàm chán, buồn bã và buồn bã.",
+    "idx": 212,
+    "label": "negative"
+  },
+  {
+    "sentence": "lần này ông. Burns đang thử điều gì đó theo phong cách hiện thực đường phố của Martin Scorsese , nhưng tính đa cảm vị kỷ của anh ấy lại khiến anh ấy vấp ngã .",
+    "idx": 213,
+    "label": "negative"
+  },
+  {
+    "sentence": "sâu sắc trong tầm nhìn của mình về nền chính trị thế giới công nghiệp hóa non trẻ như một loại hình nghệ thuật mới, nhưng lại quá vụng về, mang tính mô phạm và đầy rẫy những cảnh có vẻ đơn giản là không phù hợp với bộ phim này.",
+    "idx": 214,
+    "label": "negative"
+  },
+  {
+    "sentence": "sự trả thù tốt nhất có thể chỉ là sống tốt vì bộ phim này, không giống như các tác phẩm chuyển thể khác của Dumas, được ví như một kho báu hơn là một bản án tù dài hạn.",
+    "idx": 215,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim hiểu được như một số bộ phim khác về độ sâu và bề rộng của sự gần gũi tình cảm mang lại cho hành động thể xác tất cả ý nghĩa và hầu hết niềm vui của nó.",
+    "idx": 216,
+    "label": "positive"
+  },
+  {
+    "sentence": "một khi ( kim ) bắt đầu sử dụng quá nhiều chiến thuật gây sốc và ẩn dụ mồi nhử , bạn có thể quyết định rằng đó là một cái giá quá cao để trả cho một tấm bưu thiếp hình ảnh lung linh .",
+    "idx": 217,
+    "label": "negative"
+  },
+  {
+    "sentence": "tất cả những gì còn thiếu là tính tự phát, độc đáo và thú vị.",
+    "idx": 218,
+    "label": "negative"
+  },
+  {
+    "sentence": "điều mà bộ phim thiếu nói chung là nó bù đắp bằng lòng trắc ẩn , khi corcuera cố gắng tìm ra những hạt giống hy vọng dưới hình thức hành động tập thể .",
+    "idx": 219,
+    "label": "positive"
+  },
+  {
+    "sentence": "chuyên luận lịch sử-xã hội-chính trị được kể lại một cách nghiêm túc ... ( và ) ảo tưởng cá nhân được giải tỏa một cách sâu sắc .",
+    "idx": 220,
+    "label": "positive"
+  },
+  {
+    "sentence": "phản ứng của tôi chỉ gói gọn trong một từ: thất vọng.",
+    "idx": 221,
+    "label": "negative"
+  },
+  {
+    "sentence": "là một bộ phim tâm lý kinh dị với tiền đề thực sự ma quái và dàn diễn viên trên mức trung bình , tác phẩm đầu tay do nam diễn viên Bill Paxton đạo diễn là một lát cắt rùng rợn của vùng quê Mỹ kiểu Gothic .",
+    "idx": 222,
+    "label": "positive"
+  },
+  {
+    "sentence": "ngô nghê, ngớ ngẩn và dễ đoán, nhưng dù sao vẫn có phần ấm lòng.",
+    "idx": 223,
+    "label": "positive"
+  },
+  {
+    "sentence": "không có gì đáng lo ngại cả , chỉ là một đường chéo đôi ngoằn ngoèo mà bạn có thể ngửi thấy cách đó một dặm -- tuy nhiên , đạo hàm chín quân hậu vẫn rất thú vị .",
+    "idx": 224,
+    "label": "positive"
+  },
+  {
+    "sentence": "giàu trí tưởng tượng và tham vọng hơn nhiều so với những tính năng kiếm tiền tầm thường mà Nickodeon đã tạo ra từ loạt phim hoạt hình truyền hình khác của mình.",
+    "idx": 225,
+    "label": "positive"
+  },
+  {
+    "sentence": "tất nhiên , nếu xét theo những đánh giá khách quan hơn thì nó vẫn khá tệ .",
+    "idx": 226,
+    "label": "negative"
+  },
+  {
+    "sentence": "Với tư cách là hai nhân vật chính, lathan và Diggs rất quyến rũ và có phản ứng hóa học vừa là bạn vừa là người yêu.",
+    "idx": 227,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó cung cấp một cái nhìn trung thực về một cộng đồng đang nỗ lực bám trụ ở những vùng đất mới.",
+    "idx": 228,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim này dường như được viết bằng mad-libs.",
+    "idx": 229,
+    "label": "negative"
+  },
+  {
+    "sentence": "Dynasty of Fire có vẻ như được thực hiện mà không cần suy nghĩ nhiều -- và xem tốt nhất theo cách đó .",
+    "idx": 230,
+    "label": "positive"
+  },
+  {
+    "sentence": "Martin và Barbara là những nhân vật phức tạp -- đôi khi dịu dàng, đôi khi giận dữ -- và những màn trình diễn tinh tế của Sven wollter và Viveka Seldahl làm cho những hy vọng và nỗi thất vọng của họ trở nên sống động.",
+    "idx": 231,
+    "label": "positive"
+  },
+  {
+    "sentence": "Không phải là kung pow đôi khi không hài hước -- chỉ là nó không buồn cười hơn những bộ phim võ thuật dở tệ chỉ có một mình nó mà không có sự tăng cường tinh quái của oedekerk .",
+    "idx": 232,
+    "label": "negative"
+  },
+  {
+    "sentence": "tôi phải nói rằng ngôi sao và đạo diễn là những vấn đề lớn ở đây .",
+    "idx": 233,
+    "label": "negative"
+  },
+  {
+    "sentence": "affleck và jackson là những đối tác đấu tranh tốt.",
+    "idx": 234,
+    "label": "positive"
+  },
+  {
+    "sentence": "cho dù bạn thích hay ghét nhạc rap , bạn không thể phủ nhận sự mất mát bi thảm của hai chàng trai trẻ đang ở thời kỳ đỉnh cao tài năng hay sức mạnh của bộ phim này .",
+    "idx": 235,
+    "label": "positive"
+  },
+  {
+    "sentence": "chưa bao giờ phim của nhà làm phim Nhật Bản Akira Kurosawa lại có cảnh chiến đấu man rợ và bóng ma cái chết lại được hình dung một cách hùng vĩ như vậy .",
+    "idx": 236,
+    "label": "positive"
+  },
+  {
+    "sentence": "một nỗ lực nhỏ nhặt sẽ không làm được gì nhiều để nâng cao nhượng quyền thương mại.",
+    "idx": 237,
+    "label": "negative"
+  },
+  {
+    "sentence": "một câu chuyện đôi khi hài hước nhưng nhìn chung lại khập khiễng, chẳng có cá ngoài nước.",
+    "idx": 238,
+    "label": "negative"
+  },
+  {
+    "sentence": "khám phá một cách xuất sắc sự xung đột giữa việc đi theo trái tim mình và việc tuân theo những đòi hỏi của truyền thống .",
+    "idx": 239,
+    "label": "positive"
+  },
+  {
+    "sentence": "mặc dù hoạt hình 2 chiều, bộ phim gai hoang dã mang lại trải nghiệm điện ảnh đáng kinh ngạc.",
+    "idx": 240,
+    "label": "positive"
+  },
+  {
+    "sentence": "có vẻ như có gì đó đã bị mất khi dịch sang màn hình.",
+    "idx": 241,
+    "label": "negative"
+  },
+  {
+    "sentence": "tất cả đều giống như một bản phác thảo của con trăn Monty đã sai lầm khủng khiếp.",
+    "idx": 242,
+    "label": "negative"
+  },
+  {
+    "sentence": "bộ phim chuyển sang một nỗi đau buồn có thể dẫn dắt một người đàn ông xuyên qua nhiều thế kỷ.",
+    "idx": 243,
+    "label": "positive"
+  },
+  {
+    "sentence": "gây ấn tượng với các nhân vật được viết đầy đủ , phong cách kiên quyết ( luôn liên quan đến nhân vật và câu chuyện ) và nhạc nền hay nhất của Johnny Dankworth trong nhiều năm .",
+    "idx": 244,
+    "label": "positive"
+  },
+  {
+    "sentence": "đó là tác phẩm của một nghệ sĩ có khả năng kiểm soát cả phương tiện và thông điệp của mình đến mức anh ấy có thể ứng biến như một nghệ sĩ chơi nhạc jazz .",
+    "idx": 245,
+    "label": "positive"
+  },
+  {
+    "sentence": "chính sự ăn ý giữa những người phụ nữ với sự dí dỏm hài hước và sự bi quan như sói của thủ tướng Anna đã khiến cho `` hai đám cưới và một đám tang '' này trở nên thú vị.",
+    "idx": 246,
+    "label": "positive"
+  },
+  {
+    "sentence": "ăn trộm Harvard là bằng chứng cho thấy anh em xa cách. -- Peter và Bobby -- và thương hiệu phim hài màn ảnh của họ đang dần đi đến hồi kết , cùng với sự nghiệp điện ảnh nửa vời của Green .",
+    "idx": 247,
+    "label": "negative"
+  },
+  {
+    "sentence": "một thế giới đầy đủ đã được trình bày trên màn ảnh, chứ không phải một loạt các điểm cốt truyện được cấu trúc cẩn thận để xây dựng một giải pháp nhẹ nhàng.",
+    "idx": 248,
+    "label": "positive"
+  },
+  {
+    "sentence": "huston đóng đinh cả cảm giác vui vẻ lẫn cảm giác nghẹt thở của sự tuyệt vọng trống rỗng .",
+    "idx": 249,
+    "label": "positive"
+  },
+  {
+    "sentence": "một trong những bộ phim dành cho trẻ em thông minh hơn sẽ ra rạp năm nay .",
+    "idx": 250,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim cố gắng quá mức để trở nên hài hước và quá cố gắng để trở nên sành điệu.",
+    "idx": 251,
+    "label": "negative"
+  },
+  {
+    "sentence": "Màn trình diễn của Blanchett một lần nữa khẳng định sức mạnh của cô.",
+    "idx": 252,
+    "label": "positive"
+  },
+  {
+    "sentence": "Nếu bạn tin vào bất kỳ điều nào trong số này , tôi có thể giao dịch thực sự với bạn số cổ phiếu enron còn sót lại sẽ tăng gấp đôi giá trị sau một tuần kể từ thứ Sáu .",
+    "idx": 253,
+    "label": "negative"
+  },
+  {
+    "sentence": "những nỗ lực của bộ phim tổng hợp này nhằm truyền tải một thông điệp quá nặng nề đến nỗi thay vào đó chúng lại khiến khán giả thất vọng.",
+    "idx": 254,
+    "label": "negative"
+  },
+  {
+    "sentence": "không ai ngoài một kẻ bị kết án về một tội ác thực sự ghê tởm nào đó phải ngồi qua bậc thầy cải trang .",
+    "idx": 255,
+    "label": "negative"
+  },
+  {
+    "sentence": "hiếm khi có nhiều tiền như vậy mà lại mang lại ít sự giải trí như vậy.",
+    "idx": 256,
+    "label": "negative"
+  },
+  {
+    "sentence": "taylor dường như đã tiêu hết toàn bộ ngân sách của mình cho bản quyền nhạc phim và không còn gì để làm trò đùa.",
+    "idx": 257,
+    "label": "negative"
+  },
+  {
+    "sentence": "`` cỗ máy thời gian '' là một bộ phim không có gì thú vị.",
+    "idx": 258,
+    "label": "negative"
+  },
+  {
+    "sentence": "một điều hiếm thấy trong số những bộ phim Iran gần đây : đó là một bộ phim hài đầy hài hước nhẹ nhàng chế nhạo hoàn cảnh phi lý của nhân vật chính .",
+    "idx": 259,
+    "label": "positive"
+  },
+  {
+    "sentence": "/ nhưng Daphne, cậu khỏe quá / Fred nghĩ anh ấy rắn rỏi / và Velma - wow, cậu sụt cân rồi!",
+    "idx": 260,
+    "label": "negative"
+  },
+  {
+    "sentence": "đúng là định nghĩa của một bộ phim 'nhỏ' nhưng nó lại là một bước đệm tốt cho đạo diễn Sprecher.",
+    "idx": 261,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó giống như mọi ý tưởng tồi đã từng được đưa vào một chương trình đặc biệt sau giờ học được biên soạn ở một nơi, trừ đi sự trơn tru và phức tạp của các chương trình ban ngày đó (và ai biết được họ thậm chí còn có bất kỳ ý tưởng nào?).",
+    "idx": 262,
+    "label": "negative"
+  },
+  {
+    "sentence": "rùng rợn , diễn xuất tốt và đạo diễn tinh tế : dahmer của david jacobson .",
+    "idx": 263,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó không thể quyết định xem nó muốn trở thành một bộ phim bí ẩn/kinh dị, lãng mạn hay hài.",
+    "idx": 264,
+    "label": "negative"
+  },
+  {
+    "sentence": "trên thực tế , việc thanh toán đầy đủ đã cũ đến mức cảnh sôi động nhất của phim là cảnh sử dụng các clip từ khuôn mặt sẹo của Brian de Palma .",
+    "idx": 265,
+    "label": "negative"
+  },
+  {
+    "sentence": "là một coda theo mọi nghĩa , vụ án pinochet chia thời gian giữa câu chuyện từng phút về ván cờ dẫn độ của tòa án Anh và những người sống sót trong chế độ có cái đầu biết nói .",
+    "idx": 266,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó được diễn ra theo phong cách thẳng thắn nhất , với một chút hài hước để làm mọi chuyện nhẹ nhàng hơn .",
+    "idx": 267,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim ngu ngốc với những nhân vật ngu ngốc làm những điều ngu ngốc và bạn phải thực sự ngu ngốc mới không biết chuyện này sẽ đi đến đâu.",
+    "idx": 268,
+    "label": "negative"
+  },
+  {
+    "sentence": "hầu như không có yếu tố thú vị nào để khán giả tập trung vào , những bức tường của Chelsea là một thử thách sức bền với ba ly cà phê espresso .",
+    "idx": 269,
+    "label": "negative"
+  },
+  {
+    "sentence": "dày đặc nhân vật và chứa đựng một số khoảnh khắc gay cấn.",
+    "idx": 270,
+    "label": "positive"
+  },
+  {
+    "sentence": "khó coi như tiêu đề của nó gợi ý.",
+    "idx": 271,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó giống như đang chứng kiến ​​một cơn ác mộng bằng xương bằng thịt vậy .",
+    "idx": 272,
+    "label": "negative"
+  },
+  {
+    "sentence": "báo cáo thiểu số chính xác là những gì tiêu đề chỉ ra, một báo cáo.",
+    "idx": 273,
+    "label": "positive"
+  },
+  {
+    "sentence": "thật khó để thích một bộ phim về một anh chàng hoàn toàn khó ưa và tỏa sáng hơn, với sự tham gia của Michael Caine trong vai một nhà quảng bá quyền anh già nua người Anh khao khát hương vị danh vọng và tiền tài, chắc chắn là như vậy.",
+    "idx": 274,
+    "label": "negative"
+  },
+  {
+    "sentence": "một câu chuyện tội phạm đầy tính giải trí, đầy màu sắc, đầy hành động với trái tim sâu sắc.",
+    "idx": 275,
+    "label": "positive"
+  },
+  {
+    "sentence": "vì lý do này và chỉ vì lý do này -- sức mạnh của niềm tin kiên định và tôn kính -- những bức tường Chelsea xứng đáng nhận được huy chương .",
+    "idx": 276,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó chỉ có thể truyền cảm hứng cho một số khán giả trẻ đọc cuốn sách của Stevenson, cuốn sách này tự nó đã là một kho báu rồi.",
+    "idx": 277,
+    "label": "positive"
+  },
+  {
+    "sentence": "về cơ bản là một loạt các đoạn rap nửa ngẫu hứng ( và nửa mạch lạc ) tĩnh giữa các vì sao .",
+    "idx": 278,
+    "label": "negative"
+  },
+  {
+    "sentence": "... với `` bản sắc Bourne '' chúng tôi quay trở lại thể loại hành động truyền thống hơn .",
+    "idx": 279,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó hay đến nỗi sự hóm hỉnh không ngừng nghỉ của nó có thể chịu đựng được không chỉ những tác phẩm học đường kém cỏi mà còn ngay cả bộ phim chuyển thể của Oliver Parker.",
+    "idx": 280,
+    "label": "positive"
+  },
+  {
+    "sentence": "nghẹn ngào với cách miêu tả trang trí lớp vỏ phía trên của chính nó.",
+    "idx": 281,
+    "label": "negative"
+  },
+  {
+    "sentence": "trong khi về bản chất có điều gì đó buồn cười khi ngài Anthony Hopkins nói 'lên xe đi, đồ khốn', thì tác phẩm của Jerry Bruckheimer này chẳng có gì khác để cung cấp cả.",
+    "idx": 282,
+    "label": "positive"
+  },
+  {
+    "sentence": "một tác phẩm nghệ thuật bổ ích chỉ dành cho những khán giả kiên nhẫn và khao khát thử thách nhất.",
+    "idx": 283,
+    "label": "positive"
+  },
+  {
+    "sentence": "được hướng dẫn theo cách sơn theo số.",
+    "idx": 284,
+    "label": "negative"
+  },
+  {
+    "sentence": "k-19 khai thác nỗi sợ hãi tập thể đáng kể của chúng ta về thảm họa hạt nhân để tạo ra căng thẳng rẻ tiền ở Hollywood.",
+    "idx": 285,
+    "label": "negative"
+  },
+  {
+    "sentence": "ở mức tốt nhất , nữ hoàng vui nhộn giống như tác phẩm kinh dị kinh điển của Vincent Price những năm 60 .",
+    "idx": 286,
+    "label": "positive"
+  },
+  {
+    "sentence": "đó là một cuộc hành trình đầy cảm xúc hơn những gì Shyamalan đã mang đến cho chúng ta trong hai bộ phim trước đây của anh ấy, và Gibson, thay thế Bruce Willis, là diễn viên hoàn hảo để đưa chúng ta vào cuộc hành trình.",
+    "idx": 287,
+    "label": "positive"
+  },
+  {
+    "sentence": "chất lượng nghệ thuật kết hợp với sự hài hước và thông minh của kịch bản cho phép các nhà làm phim trình bày thông điệp về sự tha thứ trong Kinh thánh mà không bao giờ trở nên thuyết giáo hay siro.",
+    "idx": 288,
+    "label": "positive"
+  },
+  {
+    "sentence": "mát mẻ ?",
+    "idx": 289,
+    "label": "positive"
+  },
+  {
+    "sentence": "cực kỳ hài hước, nhanh chóng và thoải mái, dễ tiếp cận đối với những người chưa quen và đầy bất ngờ.",
+    "idx": 290,
+    "label": "positive"
+  },
+  {
+    "sentence": "Tuy nhiên, ngay cả với mái tóc mohawk màu xanh lá cây và một mảng hình xăm ngọn lửa đỏ lửa phủ trên vai, tuy nhiên, Kilmer dường như đang tạo dáng hơn là diễn xuất.",
+    "idx": 291,
+    "label": "negative"
+  },
+  {
+    "sentence": "câu chuyện và tình bạn diễn ra theo cách mà bạn đang xem một vở kịch nhiều tập hơn là một cuốn biên niên sử về những thăng trầm đi kèm với tình bạn lâu dài .",
+    "idx": 292,
+    "label": "negative"
+  },
+  {
+    "sentence": "vào thời điểm mà một nửa số phim được gọi là phim thật chỉ hơn phim hoạt hình người thật đóng một chút thì thật sảng khoái khi được xem một bộ phim hoạt hình biết nó là gì và biết lịch sử của hình thức đó .",
+    "idx": 293,
+    "label": "positive"
+  },
+  {
+    "sentence": "lưới thế giới cũ gặp-mới được hiện thân trong nhạc nền của bộ phim , một niềm hân hoan tràn ngập của nhạc disco bollywood , vào cuối đám cưới gió mùa , đã khiến tâm hồn tôi bay bổng ra khỏi rạp .",
+    "idx": 294,
+    "label": "positive"
+  },
+  {
+    "sentence": "Jones... mang đến một sức lôi cuốn tàn bạo.",
+    "idx": 295,
+    "label": "positive"
+  },
+  {
+    "sentence": "cái giếng đầy gai và giấm (và tính nhân văn đơn giản) từ lâu đã bị cướp bóc bởi những tác phẩm tương tự thể hiện cái nhìn sâu sắc và đột phá mà bức tranh này rõ ràng là thiếu.",
+    "idx": 296,
+    "label": "negative"
+  },
+  {
+    "sentence": "du hành một vòng cung hấp dẫn từ hy vọng và hưng phấn đến hiện thực và vỡ mộng.",
+    "idx": 297,
+    "label": "positive"
+  },
+  {
+    "sentence": "phục vụ Sara không mang lại nhiều tiếng cười.",
+    "idx": 298,
+    "label": "negative"
+  },
+  {
+    "sentence": "thể loại phim khiến tôi nhớ hitchcock nhưng cũng cảm thấy lạc quan rằng vẫn còn hy vọng cho nền điện ảnh đại chúng .",
+    "idx": 299,
+    "label": "positive"
+  },
+  {
+    "sentence": "vui nhộn, hấp dẫn và mang tính giải trí điện ảnh cực kỳ hấp dẫn.",
+    "idx": 300,
+    "label": "positive"
+  },
+  {
+    "sentence": "Thuốc x mang lại sức mạnh siêu nhiên được đặt tên nhanh chóng như hoa , bong bóng và hoa mao lương bao gồm sức mạnh phi thường và đôi mắt có tia laze , điều đáng tiếc là không cho phép họ phân biệt được những kịch bản phim mỏng manh .",
+    "idx": 301,
+    "label": "negative"
+  },
+  {
+    "sentence": "bộ phim gai hoang dã là một bất ngờ thú vị.",
+    "idx": 302,
+    "label": "positive"
+  },
+  {
+    "sentence": "giải trí bằng cách cung cấp một công ty tốt, sống động.",
+    "idx": 303,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim được xây dựng chặt chẽ, có tính tham khảo cao và một sự trở lại táo bạo về hình thức có thể thoải mái đứng giữa tác phẩm hay nhất của jean-luc Godard.",
+    "idx": 304,
+    "label": "positive"
+  },
+  {
+    "sentence": "những gì từng là bản gốc đã được đồng chọn thường xuyên đến mức giờ đây nó có vẻ như dành cho người đi bộ.",
+    "idx": 305,
+    "label": "negative"
+  },
+  {
+    "sentence": "câu chuyện và cấu trúc được trau chuốt kỹ lưỡng.",
+    "idx": 306,
+    "label": "positive"
+  },
+  {
+    "sentence": "Macdowell, người có nét duyên dáng phương Nam nhanh nhẹn đã neo giữ những vấn đề nhẹ nhàng hơn ... mang đến một niềm tin hoàn toàn hấp dẫn cho vai diễn của cô ấy.",
+    "idx": 307,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim điện ảnh hấp dẫn và vòng tròn đôi khi thú vị hơn về ý tưởng hơn là thực hiện.",
+    "idx": 308,
+    "label": "positive"
+  },
+  {
+    "sentence": "phần thứ hai của harry potter là một bộ phim vượt trội hơn nhiều so với phần trước của nó.",
+    "idx": 309,
+    "label": "positive"
+  },
+  {
+    "sentence": "nếu bạn có thể chịu đựng được những nội dung thô thiển thì cũng đáng để xem chỉ riêng phần trình diễn mà thôi.",
+    "idx": 310,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim ấm áp, hài hước, hấp dẫn.",
+    "idx": 311,
+    "label": "positive"
+  },
+  {
+    "sentence": "tôi cá là trò chơi điện tử sẽ thú vị hơn phim rất nhiều.",
+    "idx": 312,
+    "label": "negative"
+  },
+  {
+    "sentence": "bộ phim hay nhất về bóng chày sẽ ra rạp kể từ Field of Dreams.",
+    "idx": 313,
+    "label": "positive"
+  },
+  {
+    "sentence": "Thật là một mùa hè thú vị khi xem Arnold và bạn thân của anh ấy là Gerald thể hiện một dàn nhân vật kỳ quặc.",
+    "idx": 314,
+    "label": "positive"
+  },
+  {
+    "sentence": "hoàn toàn thiếu sự độc đáo, thông minh hoặc thậm chí là nỗ lực rõ ràng",
+    "idx": 315,
+    "label": "negative"
+  },
+  {
+    "sentence": "những sinh vật tuyệt vời, phong cảnh ngoạn mục và những cảnh chiến đấu hoành tráng tạo nên một \"cảnh tượng ngoạn mục\" khác. '",
+    "idx": 316,
+    "label": "positive"
+  },
+  {
+    "sentence": "Nói chung , bộ phim là một câu chuyện thú vị và được kể một cách thẳng thắn về một dân tộc sống giữa chúng ta , nhưng không nhất thiết phải sống với chúng ta .",
+    "idx": 317,
+    "label": "positive"
+  },
+  {
+    "sentence": "thành công và thất bại ở mức độ hài kịch và một sai sót lớn trong cách kể chuyện .",
+    "idx": 318,
+    "label": "negative"
+  },
+  {
+    "sentence": "quá nhiều trong số đó cảm thấy không tập trung và kém phát triển.",
+    "idx": 319,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim sâu sắc và ý nghĩa.",
+    "idx": 320,
+    "label": "positive"
+  },
+  {
+    "sentence": "Lẽ ra còn có thể tệ hơn .",
+    "idx": 321,
+    "label": "negative"
+  },
+  {
+    "sentence": "đó là sự cường điệu thuần túy.",
+    "idx": 322,
+    "label": "negative"
+  },
+  {
+    "sentence": "một lời ca ngợi buồn cười đến đau đớn cho hành vi xấu.",
+    "idx": 323,
+    "label": "positive"
+  },
+  {
+    "sentence": "bạn sẽ há hốc mồm kinh hoàng và cười một cách phẫn nộ và có thể khi chứng kiến ​​cảnh một chàng trai trẻ đầy triển vọng liều lĩnh bước đi trên một vùng biển khó chịu, bạn sẽ rơi một giọt nước mắt sai lầm.",
+    "idx": 324,
+    "label": "positive"
+  },
+  {
+    "sentence": "liotta đã phải trả 30 pound cho vai diễn này và đã hoàn toàn thay đổi bản thân từ hình ảnh những chàng trai hiền lành, tốt bụng.",
+    "idx": 325,
+    "label": "positive"
+  },
+  {
+    "sentence": "một sự pha trộn hấp dẫn của màu sắc nhẹ nhàng và hài kịch tinh quái từ Disney.",
+    "idx": 326,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó tỏ ra khá hấp dẫn như một cuộc nghiên cứu sâu sắc và sâu sắc về nhân vật.",
+    "idx": 327,
+    "label": "positive"
+  },
+  {
+    "sentence": "một sự kết hợp không khôn ngoan giữa tin tức và cảm xúc được phát sóng.",
+    "idx": 328,
+    "label": "negative"
+  },
+  {
+    "sentence": "Hoàn toàn thiếu sự quyến rũ, hóm hỉnh và sáng tạo, pinocchio của Roberto Bengnio là một bộ phim tệ đến kinh ngạc.",
+    "idx": 329,
+    "label": "negative"
+  },
+  {
+    "sentence": "và điều đó để lại một cái lỗ ở giữa biển Salton.",
+    "idx": 330,
+    "label": "negative"
+  },
+  {
+    "sentence": "Lâu đài khéo léo thăm dò sự khác biệt giữa các nền văn hóa giữa người Gaul và người Yanks.",
+    "idx": 331,
+    "label": "positive"
+  },
+  {
+    "sentence": "Broomfield biến phong cách \"ngớ ngẩn\" đặc biệt của mình thành một thứ có thể thực sự giúp làm sáng tỏ vụ án.",
+    "idx": 332,
+    "label": "positive"
+  },
+  {
+    "sentence": "một câu chuyện tình lãng mạn đủ thú vị với nền tảng trí tuệ , loại phim mang tính giải trí ngay cả khi nó trở nên dễ đoán một cách điên cuồng .",
+    "idx": 333,
+    "label": "positive"
+  },
+  {
+    "sentence": "điều thực sự khiến nó trở nên đặc biệt là nó kéo chúng ta vào thế giới của nó , mang đến cho chúng ta một anh hùng mà chúng ta có thể chia sẻ nỗi đau khổ và chiến thắng , vây quanh anh ta là những nhân vật thú vị và đưa chúng ta ra khỏi rạp với cảm giác chúng ta đã cùng chia sẻ một cuộc phiêu lưu tuyệt vời .",
+    "idx": 334,
+    "label": "positive"
+  },
+  {
+    "sentence": "ngoại trừ một số màn ứng biến gây cười thoáng qua của nghệ sĩ giải trí Cedic trong vai ông chủ của Perry thì không có khoảnh khắc bù đắp nào ở đây cả.",
+    "idx": 335,
+    "label": "negative"
+  },
+  {
+    "sentence": "Nói chung, có ý thức chọn những diễn viên được công chúng xem phim yêu mến, Khouri sau đó đã nhận được những màn trình diễn tuyệt vời từ tất cả họ.",
+    "idx": 336,
+    "label": "positive"
+  },
+  {
+    "sentence": "... một cuộc diễu hành nhàm chán của những cái đầu biết nói và những thứ vô nghĩa về mặt kỹ thuật sẽ chẳng giúp ích được gì nhiều cho sự nghiệp của linux.",
+    "idx": 337,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó có chất lượng như một bộ phim ít hơn của Harrison Ford - có thể là sáu ngày, bảy đêm, hoặc bản làm lại sabrina khủng khiếp đó.",
+    "idx": 338,
+    "label": "negative"
+  },
+  {
+    "sentence": "nếu bạn thích những bộ phim hài sâu sắc hơn với những nhân vật mâu thuẫn thú vị; cái này dành cho bạn .",
+    "idx": 339,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim đơn điệu đến vô vọng nhất trong năm , chỉ đáng chú ý ở mánh lới quảng cáo được quay thành một cảnh quay dài 87 phút không gián đoạn .",
+    "idx": 340,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó xứng đáng được xem bởi bất kỳ ai dù chỉ thoáng qua quan tâm đến các sự kiện định hình thế giới ngoài tầm nhìn của chính họ .",
+    "idx": 341,
+    "label": "positive"
+  },
+  {
+    "sentence": "Tôi nghi ngờ rằng trong một nỗ lực, không xúc phạm bằng cách tỏ ra quá nghiêm túc hoặc quá vô tư, mà chỉ xúc phạm bằng cách mơ hồ.",
+    "idx": 342,
+    "label": "negative"
+  },
+  {
+    "sentence": "không đời nào tôi có thể tin được đống rác này.",
+    "idx": 343,
+    "label": "negative"
+  },
+  {
+    "sentence": "ở đây có rất nhiều ý tưởng phức tạp và những cảm xúc làm chúng sâu sắc hơn .",
+    "idx": 344,
+    "label": "positive"
+  },
+  {
+    "sentence": "tính năng thứ mười này thực sự là một vấn đề lớn -- ít nhất là tính năng hay thứ ba , và thậm chí có thể cao hơn người về nhì trước đó một bậc , star trek vi : the undiscovered country của Nicholas Meyer .",
+    "idx": 345,
+    "label": "positive"
+  },
+  {
+    "sentence": "không chỉ buồn cười mà còn hết sức khó chịu .",
+    "idx": 346,
+    "label": "negative"
+  },
+  {
+    "sentence": "làm việc chăm chỉ để thiết lập những nhân vật tròn trịa, nhưng sau đó không có gì mới mẻ hay đặc biệt thú vị để nói về họ cả.",
+    "idx": 347,
+    "label": "negative"
+  },
+  {
+    "sentence": "chỉ hết ý tưởng tồi này đến ý tưởng tồi khác.",
+    "idx": 348,
+    "label": "negative"
+  },
+  {
+    "sentence": "... trở nên nhàm chán đến mức không thể tha thứ được trong 10 phút cuối cùng đến nỗi bất kỳ ai không thích đồ ngọt sẽ có thể bị sốc đường .",
+    "idx": 349,
+    "label": "negative"
+  },
+  {
+    "sentence": "tiền đề hài kịch của anh ấy thường lố bịch hoặc chỉ đơn giản là thô thiển , được tính toán để gây ra tiếng cười sốc mà không đi sâu hơn .",
+    "idx": 350,
+    "label": "negative"
+  },
+  {
+    "sentence": "( næs ) đã đạo diễn phiên bản sân khấu của màn trình diễn điện ảnh , và nhận được những màn trình diễn xuất sắc từ hai nhân vật chính của anh ấy, những người đã tạo ra các nhân vật trên sân khấu.",
+    "idx": 351,
+    "label": "positive"
+  },
+  {
+    "sentence": "một câu chuyện hấp dẫn về tình yêu, sự phản bội, sự trả thù và trên hết là đức tin.",
+    "idx": 352,
+    "label": "positive"
+  },
+  {
+    "sentence": "đối với những người yêu thích điện ảnh cũng như những người yêu thích opera, tosca thực sự là một niềm vui.",
+    "idx": 353,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim yên tĩnh, đầy đe dọa và khó quên.",
+    "idx": 354,
+    "label": "positive"
+  },
+  {
+    "sentence": "không có niềm vui nào khi nhìn một đứa trẻ đau khổ.",
+    "idx": 355,
+    "label": "negative"
+  },
+  {
+    "sentence": "jason x tích cực chống lại thuyết Darwin: chín phần tiếp theo và 400 năm sau, thanh thiếu niên cũng không khôn ngoan hơn và jason vẫn giết người theo chế độ lái tự động.",
+    "idx": 356,
+    "label": "negative"
+  },
+  {
+    "sentence": "Trộm cắp ở Harvard mong muốn đạt được một vụ trộm lớn mang tính hài hước nhưng lại bị kết tội không gì khác hơn là trộm cắp thời gian của bạn một cách nhỏ nhặt.",
+    "idx": 357,
+    "label": "negative"
+  },
+  {
+    "sentence": "( d ) họ không bận tâm đến việc giả dối hay thuyết giáo như những bộ phim Cơ đốc giáo tương đương -- có thể các nhà làm phim biết rằng khán giả có thể đã là những người trung thành rồi .",
+    "idx": 358,
+    "label": "positive"
+  },
+  {
+    "sentence": "thể hiện sự ngây thơ, niềm đam mê và tài năng ngang nhau, dưới những đám mây đã khẳng định Sen là một nhà làm phim có tiềm năng đáng kể.",
+    "idx": 359,
+    "label": "positive"
+  },
+  {
+    "sentence": "` dễ dàng được tôi lựa chọn cho một trong những bộ phim hay nhất của năm . '",
+    "idx": 360,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim rất dài, nhiều đoạn buồn tẻ, tập trung quá nhiều vào việc chuẩn bị bữa ăn và xây dựng lều tuyết.",
+    "idx": 361,
+    "label": "negative"
+  },
+  {
+    "sentence": "Với tư cách là một đạo diễn lần đầu tiên, Paxton đã khai thác được điều gì đó ở bản thân với tư cách là một diễn viên mang đến sự yếu đuối với tâm hồn đen tối của mình.",
+    "idx": 362,
+    "label": "positive"
+  },
+  {
+    "sentence": "đó là một tập hợp các thể loại không mang lại nhiều ý nghĩa .",
+    "idx": 363,
+    "label": "negative"
+  },
+  {
+    "sentence": "thay vì giấu pinocchio khỏi những người chỉ trích , đáng lẽ Miramax nên giấu nó với mọi người .",
+    "idx": 364,
+    "label": "negative"
+  },
+  {
+    "sentence": "hoành tráng và kiêu kỳ , sức nặng của nước được đặt tiêu đề phù hợp , do tính kịch tính nặng nề của nó .",
+    "idx": 365,
+    "label": "negative"
+  },
+  {
+    "sentence": "Nhìn chung , đây là một bộ phim thành công , đồng thời là sự xem xét lại cảm động nhất về kiệt tác quen thuộc .",
+    "idx": 366,
+    "label": "positive"
+  },
+  {
+    "sentence": "luôn có điều gì đó đáng yêu ở hầu tước de sade.",
+    "idx": 367,
+    "label": "positive"
+  },
+  {
+    "sentence": "sự hài hước gượng ép và nặng nề, và đôi khi đơn giản là khó chịu.",
+    "idx": 368,
+    "label": "negative"
+  },
+  {
+    "sentence": "không bao giờ mang tính mô phạm, đạo diễn Carlos Carrera đã dệt nên câu chuyện mới lạ này về những mối quan hệ đan xen và đạo đức phức tạp.",
+    "idx": 369,
+    "label": "positive"
+  },
+  {
+    "sentence": "Trong khi xem món đồ pha chế có đường, màu trứng Phục sinh này, bạn nhận ra rằng nó được tạo thành từ ba tập của một chương trình truyền hình bị từ chối.",
+    "idx": 370,
+    "label": "negative"
+  },
+  {
+    "sentence": "phần lớn , đó là tác phẩm của thiên tài gây cháy nổ , tránh xa những phản ứng tức thời và những giải pháp nhanh chóng .",
+    "idx": 371,
+    "label": "positive"
+  },
+  {
+    "sentence": "các hiệu ứng đặc biệt và nhiều cảnh quay không trọng lượng trông đẹp hoặc hay hơn bản gốc , trong khi âm thanh đoạt giải Oscar và phần nhạc sôi động của James Horner tận dụng tốt hệ thống âm thanh khủng .",
+    "idx": 372,
+    "label": "positive"
+  },
+  {
+    "sentence": "chưa phải kể từ khi Freddy bị dính đòn thì việc ngồi xem hết một bản phát hành lớn lại đau đớn đến thế.",
+    "idx": 373,
+    "label": "negative"
+  },
+  {
+    "sentence": "bộ phim là những gì xảy ra khi bạn thổi những củ khoai tây nhỏ lên gấp 10 lần kích thước tự nhiên của chúng và nó không đẹp chút nào.",
+    "idx": 374,
+    "label": "negative"
+  },
+  {
+    "sentence": "chúng tôi chưa bao giờ thấy sự vui nhộn như vậy kể từ khi nói rằng không phải vậy !",
+    "idx": 375,
+    "label": "positive"
+  },
+  {
+    "sentence": "gọi phía bên kia thiên đường là \"kinh khủng\" sẽ là đánh giá thấp mức độ nguy hiểm của những trò giải trí như vậy .",
+    "idx": 376,
+    "label": "negative"
+  },
+  {
+    "sentence": "không có gì là thiêng liêng trong chuyện đau bụng này.",
+    "idx": 377,
+    "label": "negative"
+  },
+  {
+    "sentence": "cảm thấy lộn xộn , như thể các nhà biên kịch đã nhầm tưởng rằng họ có thể đạt được bầu không khí tự phát điên cuồng chỉ bằng cách tung vào nhiều nhân vật làm những trò ngớ ngẩn và khuấy nồi .",
+    "idx": 378,
+    "label": "negative"
+  },
+  {
+    "sentence": "cố gắng thêm chút gia vị vào cảm giác kỳ quặc của nó nhưng hương vị thì quá quen thuộc .",
+    "idx": 379,
+    "label": "negative"
+  },
+  {
+    "sentence": "tệ nhất là nó gây ra một loạt hiệu ứng đặc biệt rất tệ.",
+    "idx": 380,
+    "label": "negative"
+  },
+  {
+    "sentence": "với tính hiệu quả được tổ chức chặt chẽ, nhiều đoạn hồi tưởng và cảm giác căng thẳng liên tục, bộ phim của Miller là một trong những bộ phim gây bất ngờ dành cho người lớn năm 2002.",
+    "idx": 381,
+    "label": "positive"
+  },
+  {
+    "sentence": "một dàn diễn viên tuyệt vời không thể nâng doanh nghiệp chân thành này ra khỏi sự quen thuộc.",
+    "idx": 382,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bài thiền ấm áp nhưng thực tế về tình bạn, gia đình và tình cảm.",
+    "idx": 383,
+    "label": "positive"
+  },
+  {
+    "sentence": "đôi khi có thể cảm nhận được sự hồi hộp nhưng cuối cùng có cảm giác rằng mấu chốt của bí ẩn xoay quanh tính kỹ thuật làm căng thẳng sự cả tin và khiến người xem bị ám ảnh bởi sự lãng phí tiềm năng.",
+    "idx": 384,
+    "label": "negative"
+  },
+  {
+    "sentence": "trong khi các trò chơi ác nhân cư trú có thể đã đặt ra các tiêu chuẩn mới về cảm giác hồi hộp, hồi hộp và máu me cho trò chơi điện tử, thì bộ phim thực sự chỉ thành công ở phần thứ ba trong số này.",
+    "idx": 385,
+    "label": "negative"
+  },
+  {
+    "sentence": "đó là một chuyến tham quan châm biếm hết sức chắc chắn và tinh tế .",
+    "idx": 386,
+    "label": "positive"
+  },
+  {
+    "sentence": "đạo diễn Andrew niccol ... thể hiện sự hiểu biết sâu sắc về những điều kỳ quặc của sự nổi tiếng .",
+    "idx": 387,
+    "label": "positive"
+  },
+  {
+    "sentence": "khi leguizamo cuối cùng đã đóng vai một nhân vật khó chịu ở cuối phim.",
+    "idx": 388,
+    "label": "negative"
+  },
+  {
+    "sentence": "bọn trẻ có thể sẽ thích thú trước kính vạn hoa của các nhân vật to lớn, đầy màu sắc.",
+    "idx": 389,
+    "label": "positive"
+  },
+  {
+    "sentence": "mattei nghiêm túc và dài dòng một cách mệt mỏi, như thể chính sự tuần hoàn đã biểu thị sự sâu sắc.",
+    "idx": 390,
+    "label": "negative"
+  },
+  {
+    "sentence": "... diễn ra như thể ai đó ghép những khoảnh khắc ngẫu nhiên của thói quen chris rock vào một bộ phim kinh dị về điệp viên sáo rỗng nhưng nghiêm túc.",
+    "idx": 391,
+    "label": "negative"
+  },
+  {
+    "sentence": "một trò hề tình dục quá cường điệu , có thể sẽ lập dị , cuối cùng là tẻ nhạt .",
+    "idx": 392,
+    "label": "negative"
+  },
+  {
+    "sentence": "tất cả đều tạo nên niềm vui tốt đẹp.",
+    "idx": 393,
+    "label": "positive"
+  },
+  {
+    "sentence": "cho dù bộ phim của nhà văn-đạo diễn Anne Fontaine là một câu chuyện ma, một câu chuyện về một cơn suy nhược thần kinh, một chuyến du hành ngược dòng ký ức, cả ba điều trên hay không điều nào ở trên thì nó vẫn quyến rũ như đang ám ảnh.",
+    "idx": 394,
+    "label": "positive"
+  },
+  {
+    "sentence": "một màn đắm mình vào khuôn mặt khác ở độ sâu thấp hơn được thực hiện bởi những người chưa bao giờ hát những bản nhạc blues đó .",
+    "idx": 395,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bức tranh rất đẹp, hài hước và thú vị.",
+    "idx": 396,
+    "label": "positive"
+  },
+  {
+    "sentence": "thật đáng xem dựa trên sự thông thái và đôi khi cả sự lạc quan đáng ngạc nhiên của bọn trẻ.",
+    "idx": 397,
+    "label": "positive"
+  },
+  {
+    "sentence": "mặc dù có tựa đề như vậy nhưng tình yêu say rượu không bao giờ nặng tay .",
+    "idx": 398,
+    "label": "positive"
+  },
+  {
+    "sentence": "nếu đạo diễn Michael chỉ hiểu một cách hời hợt các nhân vật của mình thì ông cũng không coi thường họ.",
+    "idx": 399,
+    "label": "negative"
+  },
+  {
+    "sentence": "thật sảng khoái khi được xem một bộ phim về cô gái quyền lực mà không cảm thấy nó phải chứng minh bất cứ điều gì .",
+    "idx": 400,
+    "label": "positive"
+  },
+  {
+    "sentence": "Bộ phim có thể có vẻ trần trụi trong hình thức tường thuật của nó... nhưng nó còn đi sâu hơn thế, đến những lựa chọn cơ bản bao gồm cả sự phức tạp của giáo lý Công giáo.",
+    "idx": 401,
+    "label": "positive"
+  },
+  {
+    "sentence": "tuy nhiên nó có thể làm hài lòng những ai yêu thích những bộ phim có nhiều ca khúc nhạc pop, những người hâm mộ khoa học viễn tưởng trẻ tuổi sẽ bỏ đi trong sự kinh tởm.",
+    "idx": 402,
+    "label": "negative"
+  },
+  {
+    "sentence": "thô tục đến mức tầm thường.",
+    "idx": 403,
+    "label": "negative"
+  },
+  {
+    "sentence": "Zhang ... đã thực hiện một công việc đáng kinh ngạc khi có được những màn trình diễn chân thực từ dàn diễn viên chủ yếu không chuyên nghiệp của mình.",
+    "idx": 404,
+    "label": "positive"
+  },
+  {
+    "sentence": "những người yêu thích du hành vũ trụ có thể yêu thích bộ phim này , nhưng những người khác sẽ thấy thú vui của nó không liên tục .",
+    "idx": 405,
+    "label": "negative"
+  },
+  {
+    "sentence": "Cuộc tìm kiếm một quá khứ không thể biết trước của maud và roland tạo nên một câu chuyện trinh thám văn học đầy ám ảnh , nhưng labute đã thực hiện được một thủ thuật khéo léo hơn : anh ấy làm cho ngôn ngữ trở nên gợi cảm .",
+    "idx": 406,
+    "label": "positive"
+  },
+  {
+    "sentence": "nhiều lời than vãn hơn là lời bình luận gay gắt.",
+    "idx": 407,
+    "label": "negative"
+  },
+  {
+    "sentence": "đơn giản là có quá nhiều ý tưởng trôi nổi -- một phần là trò hề , một phần là cửa trượt , một phần là video nhạc pop -- nhưng vẫn chưa khai thác được chúng .",
+    "idx": 408,
+    "label": "negative"
+  },
+  {
+    "sentence": "đó là một bộ phim cũ kỹ khác, giết người theo số lượng, hoàn chỉnh với những nhân vật mảnh khảnh và những đoạn hội thoại khủng khiếp, đầy lối chơi chữ.",
+    "idx": 409,
+    "label": "negative"
+  },
+  {
+    "sentence": "Điều phân biệt thời điểm ưu ái với vô số phim kinh dị khác là mối quan tâm sâu xa của nó về hậu quả của lời nói và những cảm xúc phức tạp thúc đẩy các hành động khủng bố.",
+    "idx": 410,
+    "label": "positive"
+  },
+  {
+    "sentence": "Tôi không ngại bị tổn thương, nhưng đừng đối xử với tôi như một kẻ ngốc.",
+    "idx": 411,
+    "label": "negative"
+  },
+  {
+    "sentence": "sức mạnh tích tụ của bộ phim vẫn có cảm giác như một nút thắt xấu xí đang thắt chặt trong bụng bạn.",
+    "idx": 412,
+    "label": "negative"
+  },
+  {
+    "sentence": "ít nhất một cảnh kinh tởm đến mức người xem khó có thể giữ lại bữa trưa của mình.",
+    "idx": 413,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó có sức hấp dẫn không thể chối cãi , và không giống như nhiều bộ phim hài lãng mạn , nó không xa lánh cả giới tính trong khán giả .",
+    "idx": 414,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bức tranh hoành tráng, đầy tính biểu diễn có hành động mang tính giải trí, cảnh quay hoành tráng và đủ hấp dẫn để duy trì hầu hết thời lượng 170 phút của nó.",
+    "idx": 415,
+    "label": "positive"
+  },
+  {
+    "sentence": "một tiếng cười khúc khích một phút.",
+    "idx": 416,
+    "label": "positive"
+  },
+  {
+    "sentence": "sử dụng sự hài hước sắc bén và cái nhìn sâu sắc về bản chất con người để xem xét xung đột giai cấp, khao khát của tuổi mới lớn, nguồn gốc của tình bạn và bản sắc tình dục.",
+    "idx": 417,
+    "label": "positive"
+  },
+  {
+    "sentence": "phản ứng hóa học tốt đẹp liên tục giữa Carmen và Juni là điều giúp phần tiếp theo hơi thất vọng này tiếp tục phát triển , với đủ những câu nói đùa thú vị -- may mắn là không có lời nguyền -- để giúp cả trẻ em và phụ huynh được giải trí .",
+    "idx": 418,
+    "label": "positive"
+  },
+  {
+    "sentence": "tôi chỉ quá chán để quan tâm thôi .",
+    "idx": 419,
+    "label": "negative"
+  },
+  {
+    "sentence": "một trong những bộ phim hoạt hình khó chịu nhất mà bạn sẽ xem trong năm nay hoặc bất kỳ năm nào .",
+    "idx": 420,
+    "label": "negative"
+  },
+  {
+    "sentence": "đó là một cuộc nghiên cứu nhân vật tuyệt vời -- không phải về Hest hay Davies mà về mối quan hệ độc đáo giữa họ .",
+    "idx": 421,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó di chuyển nhanh chóng, khéo léo và không ồn ào; nó không cho bạn thời gian để suy ngẫm về sự vô nghĩa -- và sự lạc hậu của Chiến tranh Lạnh -- trong tiền đề của nó .",
+    "idx": 422,
+    "label": "positive"
+  },
+  {
+    "sentence": "tôi xin lỗi vì tôi đã không thể hiểu hết được toàn bộ bộ phim hài.",
+    "idx": 423,
+    "label": "negative"
+  },
+  {
+    "sentence": "một tác phẩm tốt thường xuyên hơn không.",
+    "idx": 424,
+    "label": "positive"
+  },
+  {
+    "sentence": "trong khi những ý tưởng về sự bão hòa công nghệ còn lâu mới mới lạ , chúng được trình bày với sự hài hước đen tối gượng gạo .",
+    "idx": 425,
+    "label": "positive"
+  },
+  {
+    "sentence": "Bộ phim giải trí của Charles ghi lại sự trở lại của Seinfeld với thể loại hài độc thoại sau khi bộ phim sitcom huyền thoại của ông kết thúc, cùng với những nỗ lực của Adams để có được cơ hội thành công.",
+    "idx": 426,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim kinh dị tương lai đầy phấn khích, báo cáo về thiểu số, xoay quanh công nghệ tốt nhất xung quanh một câu chuyện hấp dẫn, mang đến một cuộc phiêu lưu thoát ly hấp dẫn, tăng cường nhịp đập của bậc đầu tiên",
+    "idx": 427,
+    "label": "positive"
+  },
+  {
+    "sentence": "được quan sát đẹp mắt, một bộ phim hài kịch không tình cảm một cách kỳ diệu.",
+    "idx": 428,
+    "label": "positive"
+  },
+  {
+    "sentence": "Thông điệp nhàm chán của bộ phim không được hỗ trợ bởi những mô tả nhân vật mỏng manh, cốt truyện không tồn tại và phong cách hình ảnh kiêu căng.",
+    "idx": 429,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim hài lãng mạn hấp dẫn có điểm nhấn của một bộ phim sitcom hay đồng thời cung cấp các nhân vật cực kỳ chi tiết .",
+    "idx": 430,
+    "label": "positive"
+  },
+  {
+    "sentence": "lẽ ra phải là một người khác -",
+    "idx": 431,
+    "label": "negative"
+  },
+  {
+    "sentence": "ho và lắp bắp về tính tự phụ hậu hiện đại của chính mình .",
+    "idx": 432,
+    "label": "negative"
+  },
+  {
+    "sentence": "vua sư tử đã thành công rực rỡ khi được phát hành cách đây tám năm, nhưng trên imax nó có vẻ hay hơn chứ không chỉ lớn hơn.",
+    "idx": 433,
+    "label": "positive"
+  },
+  {
+    "sentence": "gần như buồn cười về máu me của chính nó.",
+    "idx": 434,
+    "label": "negative"
+  },
+  {
+    "sentence": "một điều kỳ diệu chưa từng thấy .",
+    "idx": 435,
+    "label": "positive"
+  },
+  {
+    "sentence": "sáo rỗng , tầm thường , sáo rỗng , hầu như không gây khó chịu .",
+    "idx": 436,
+    "label": "negative"
+  },
+  {
+    "sentence": "khiến chúng ta đắm chìm trong thế giới sáng tạo không ngừng nghỉ, cạnh tranh khốc liệt của các DJ hip-hop, dự án này rất giật gân và thú vị, ngay cả khi việc gãi gãi khiến bạn ngứa ngáy.",
+    "idx": 437,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim có sức lan tỏa mạnh mẽ sẽ thu hút bất kỳ ai có chút hứng thú với văn hóa trượt băng/lướt sóng, l.a. cảnh bãi biển và những cách tưởng tượng (và đôi khi là bất hợp pháp) mà trẻ em có thể tạo ra một sân chơi từ rác thải của người lớn.",
+    "idx": 438,
+    "label": "positive"
+  },
+  {
+    "sentence": "yakusho và shimizu ... tạo nên những đặc điểm hấp dẫn trong sự kết hợp văn hóa sống động và thú vị của imamura .",
+    "idx": 439,
+    "label": "positive"
+  },
+  {
+    "sentence": "đây là thứ siêu thực hoang dã, nhưng rực rỡ và máy ảnh cứ đặt ở đó và cho phép bạn nhìn cái này và nó giống như bạn đang đi từ phòng này sang phòng khác và không cái nào trong số chúng có bất kỳ mối liên hệ nào với cái kia.",
+    "idx": 440,
+    "label": "positive"
+  },
+  {
+    "sentence": "Có rất ít sự sợ hãi hay e ngại, và mặc dù tôi thích những ý tưởng rùng rợn, nhưng chúng không được thực hiện bằng bất cứ điều gì ngoại trừ kỹ năng chiếu lệ.",
+    "idx": 441,
+    "label": "negative"
+  },
+  {
+    "sentence": "quan điểm cho rằng đánh bom các tòa nhà là điều hài hước nhất trên thế giới hoàn toàn không được kiểm chứng trong bộ phim hài buồn cười đến kinh ngạc này.",
+    "idx": 442,
+    "label": "negative"
+  },
+  {
+    "sentence": "những cuộc rượt đuổi bằng ô tô hay, những cảnh chiến đấu tuyệt vời và sự pha trộn đặc biệt giữa ảnh hưởng của châu Âu, Mỹ và châu Á.",
+    "idx": 443,
+    "label": "positive"
+  },
+  {
+    "sentence": "20 phút cuối có phần bù đắp được, nhưng hầu hết bộ phim đều là câu chuyện về chuyến đi đường bộ của thanh thiếu niên người Mỹ mà chúng ta đã xem trước đây - chỉ có điều lần này bạn phải đọc những câu chuyện cười xì hơi",
+    "idx": 444,
+    "label": "negative"
+  },
+  {
+    "sentence": "ngay cả trong những cảnh tẻ nhạt nhất, chiếc tàu Nga vẫn đầy mê hoặc.",
+    "idx": 445,
+    "label": "positive"
+  },
+  {
+    "sentence": "với chủ nghĩa tự nhiên kiên định của Hollywood và quá trình không thể lay chuyển của các nhân vật hướng tới sự thánh thiện, Windtalkers chẳng qua là một cục xà phòng dính ngọt.",
+    "idx": 446,
+    "label": "negative"
+  },
+  {
+    "sentence": "nói chung , clockstoppers sẽ thỏa mãn những tưởng tượng ngông cuồng nhất của bạn về việc trở thành một kiểu người du hành thời gian khác , trong khi tận hưởng 94 phút một cách vui vẻ .",
+    "idx": 447,
+    "label": "positive"
+  },
+  {
+    "sentence": "một cái gì đó giống như một Alice Nhật Bản qua gương soi , ngoại trừ việc nó có vẻ nghiêm túc hơn nhiều .",
+    "idx": 448,
+    "label": "positive"
+  },
+  {
+    "sentence": "ồ thôi nào.",
+    "idx": 449,
+    "label": "negative"
+  },
+  {
+    "sentence": "là một câu chuyện tình yêu đa chiều, đầy tâm trạng và bí ẩn khoa học viễn tưởng, Solaris là một bộ phim đầy ám ảnh, kích thích tư duy, cho phép những hạt giống của trí tưởng tượng nảy mầm.",
+    "idx": 450,
+    "label": "positive"
+  },
+  {
+    "sentence": "không chỉ các hiệu ứng đặc biệt và mạch truyện được cải thiện nhiều , và lần này Daniel Radcliffe trở nên quyết đoán hơn về mặt cảm xúc trong vai Harry , mà bộ phim còn gợi lên phép thuật của tác giả J.k. sách của chèo thuyền .",
+    "idx": 451,
+    "label": "positive"
+  },
+  {
+    "sentence": "rõ ràng là các nhà làm phim không chắc chắn họ muốn câu chuyện của mình đi đến đâu , và thậm chí còn rõ ràng hơn là họ thiếu kỹ năng để đưa chúng ta đến đích chưa xác định này .",
+    "idx": 452,
+    "label": "negative"
+  },
+  {
+    "sentence": "( t ) câu chuyện ngụ ngôn Bỉ hấp dẫn của ông , một bộ phim nhỏ rất hài hước và tinh tế , có một số điều cảm động để nói về điều gì là quan trọng trong cuộc sống và tại sao .",
+    "idx": 453,
+    "label": "positive"
+  },
+  {
+    "sentence": "ngay cả trong những trường hợp hiếm hoi khi người kể chuyện ngừng lảm nhảm , bàn tay của Miller thường cảm thấy không chắc chắn .",
+    "idx": 454,
+    "label": "negative"
+  },
+  {
+    "sentence": "( chaiken ) tài năng nằm ở khả năng quan sát chính xác, giàu sức gợi về một bối cảnh đặc biệt và ở cuộc đối thoại sống động, thuyết phục mà cô tạo ra cho các nhân vật của mình .",
+    "idx": 455,
+    "label": "positive"
+  },
+  {
+    "sentence": "tình cảm ngọt ngào dính dính, âm mưu vụng về và cái nhìn thiển cận màu hồng về cuộc sống ở vùng đồng bằng Mississippi thời Thế chiến thứ hai đã làm suy yếu sự chuyển thể này.",
+    "idx": 456,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó truyền cảm hứng cho nhận thức liên tục và thỏa mãn sâu sắc về những bộ phim hay nhất dưới dạng những buổi chiếu phim hoành tráng. '",
+    "idx": 457,
+    "label": "positive"
+  },
+  {
+    "sentence": "có màn trình diễn quyến rũ đến mức nguy hiểm của nghệ sĩ vĩ đại Daniel Auteuil, `` sade '' kể về cùng thời kỳ với `` quills '' của Kaufmann với những kết quả thực tế đáng lo ngại hơn .",
+    "idx": 458,
+    "label": "positive"
+  },
+  {
+    "sentence": "mang đến cho bạn nhịp sống ổn định của cuộc sống ở một thành phố xinh đẹp được nhìn qua con mắt của một nhân vật, mặc dù mất mát bi thảm và tình trạng suy sụp ngày càng tăng, nhưng sâu thẳm trong tâm hồn mình biết rằng mình là một trong những người đàn ông may mắn nhất còn sống.",
+    "idx": 459,
+    "label": "positive"
+  },
+  {
+    "sentence": "nếu bạn là một diễn viên có thể liên tưởng đến việc tìm kiếm sự bình yên nội tâm bằng cách miêu tả một cách đầy kịch tính cuộc sống của những người khác trên sân khấu, thì câu chuyện của Esther là một cuộc tìm kiếm sự thật hấp dẫn.",
+    "idx": 460,
+    "label": "positive"
+  },
+  {
+    "sentence": "Thật tiếc là bàn tay giúp đỡ mà anh ấy dùng để khuấy các nguyên liệu lại quá nặng nề.",
+    "idx": 461,
+    "label": "negative"
+  },
+  {
+    "sentence": "vâng, buồn tẻ.",
+    "idx": 462,
+    "label": "negative"
+  },
+  {
+    "sentence": "một số trò đùa của họ có tác dụng, nhưng hầu hết đều thất bại thảm hại và cuối cùng, quả bí ngô gây khó chịu hơn là buồn cười.",
+    "idx": 463,
+    "label": "negative"
+  },
+  {
+    "sentence": "phim tài liệu hấp dẫn nhưng bị pha loãng cảm xúc bằng cách tập trung vào chủ đề kém thú vị nhất của câu chuyện .",
+    "idx": 464,
+    "label": "positive"
+  },
+  {
+    "sentence": "những cảnh quay cận cảnh run rẩy của những con gà tây cuộn tròn, chiếc cằm lởm chởm, những đốm gan, chiếc mũi đỏ và những chiếc mũi bồng bềnh mới của các nhà làm phim đã tạo ra những tiếng cười khúc khích dễ dàng nhưng chẳng dẫn đến đâu.",
+    "idx": 465,
+    "label": "negative"
+  },
+  {
+    "sentence": "kịch bản đầy cảm hứng của Mike Rich bao trùm rất nhiều nền tảng , có lẽ là quá nhiều , nhưng cuối cùng lại gắn kết mọi thứ lại với nhau một cách gọn gàng .",
+    "idx": 466,
+    "label": "positive"
+  },
+  {
+    "sentence": "Ramsay, cũng như trong Ratcatcher, vẫn là một nhà làm phim có quan điểm chua chát và có năng khiếu thực sự trong việc trêu chọc chất thơ lạnh lùng ra khỏi cuộc sống và bối cảnh mà lẽ ra có vẻ buồn tẻ và bẩn thỉu.",
+    "idx": 467,
+    "label": "positive"
+  },
+  {
+    "sentence": "các nhân vật thú vị và thường được xây dựng rất sáng tạo từ nhân vật đến cốt truyện.",
+    "idx": 468,
+    "label": "positive"
+  },
+  {
+    "sentence": "khủng khiếp đến mức gắn nhãn nó là chó có lẽ là hành vi tàn ác đối với chó .",
+    "idx": 469,
+    "label": "negative"
+  },
+  {
+    "sentence": "rào cản hình ảnh liên tục của reggio đang hấp dẫn cũng như kích thích tư duy .",
+    "idx": 470,
+    "label": "positive"
+  },
+  {
+    "sentence": "người lớn sẽ ước bộ phim bớt đơn giản hơn, rõ ràng hơn, có cốt truyện vụng về và đặc điểm nông cạn hơn.",
+    "idx": 471,
+    "label": "negative"
+  },
+  {
+    "sentence": "bạn sẽ có cái nhìn rõ ràng hơn về cách các bánh răng công lý hoạt động và báo cáo về cái chết xuất hiện để chia sẻ thời gian phát sóng cùng với báo cáo về trang trại.",
+    "idx": 472,
+    "label": "positive"
+  },
+  {
+    "sentence": "nhờ sự kiểm soát tuyệt đối của Haynes đối với tâm trạng của bộ phim và được phấn khích bởi ba màn trình diễn xuất sắc, xa thiên đường đã thực sự tạo nên màn tung hứng đầy phong cách này.",
+    "idx": 473,
+    "label": "positive"
+  },
+  {
+    "sentence": "vấn đề của bộ phim này là nó thiếu trọng tâm.",
+    "idx": 474,
+    "label": "negative"
+  },
+  {
+    "sentence": "thuộc về Daniel Day-Lewis cũng như thuộc về Martin Scorsese; đó là một màn trình diễn đáng nhớ trong một bộ phim lớn, ồn ào, đáng lo ngại, khác thường và rất thành công.",
+    "idx": 475,
+    "label": "positive"
+  },
+  {
+    "sentence": "liên quan đến hai điều bí ẩn -- một điều được tiết lộ và điều còn lại có những nhân vật được vẽ xấu đến mức kết cục của nó hầu như không quan trọng .",
+    "idx": 476,
+    "label": "negative"
+  },
+  {
+    "sentence": "một vụ giết người bí ẩn theo phong cách truyền hình với một vài khoảnh khắc trên màn ảnh rộng (bao gồm cả một khoảnh khắc dường như được làm cho một bộ phim khác hoàn toàn).",
+    "idx": 477,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bức ảnh bệnh nhân/bác sĩ theo từng con số bao trùm toàn bộ bối cảnh thông thường",
+    "idx": 478,
+    "label": "negative"
+  },
+  {
+    "sentence": "đó là một tác phẩm trữ tình tuyệt vời có sức mạnh và sự thật đáng kể.",
+    "idx": 479,
+    "label": "positive"
+  },
+  {
+    "sentence": "mặc dù không thể tranh cãi là không hẳn là cao, nhưng nó là một bộ phim nhỏ hấp dẫn, gọn gàng, đòi hỏi Mr. ngọn đồi cao hơn anh ấy đã ở trong một thời gian .",
+    "idx": 480,
+    "label": "positive"
+  },
+  {
+    "sentence": "buồn cười nhưng nhẹ đến mức nguy hiểm.",
+    "idx": 481,
+    "label": "positive"
+  },
+  {
+    "sentence": "Sự phản ánh của cq về các nghệ sĩ và tình yêu điện ảnh và bản thân không gợi lên điều gì khác hơn là một tiếng nói mới xứng đáng được coi là người kế thừa khả dĩ cho những đạo diễn xuất sắc nhất châu Âu.",
+    "idx": 482,
+    "label": "positive"
+  },
+  {
+    "sentence": "ngay cả khi bạn không nghĩ ( người hôn nhau ) phạm tội nhiều hơn hầu hết các chính khách đương thời , thì chắc chắn anh ta sẽ khiến phiên tòa xét xử tại phòng xử án trở nên vô cùng thú vị để xem .",
+    "idx": 483,
+    "label": "positive"
+  },
+  {
+    "sentence": "Rực rỡ vì sự phức tạp của nó , đáng lo ngại vì những chủ đề đặc biệt của nó , giáo viên piano là một bộ phim thách thức mọi phân loại .",
+    "idx": 484,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bài thuyết trình đầy chữ viết đã dệt nên một sự kiện giết người năm 1873 với cơn thịnh nộ giết người một cách tuyệt vời vào năm 2002 .",
+    "idx": 485,
+    "label": "positive"
+  },
+  {
+    "sentence": "kịch bản không hay lắm; ngay cả người có năng khiếu như Hoffman (diễn viên) cũng không thể làm được điều đó.",
+    "idx": 486,
+    "label": "negative"
+  },
+  {
+    "sentence": "( e ) cuối cùng , mọi ý tưởng trong bộ phim này đều bị ném xuống hố xí của chủ nghĩa anh hùng .",
+    "idx": 487,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim hoạt hình thực sự mang tính chất điện ảnh và một câu chuyện hấp dẫn và chân thành -- ngay cả khi trái tim thuộc về một loài động vật ăn cỏ bốn chân to lớn .",
+    "idx": 488,
+    "label": "positive"
+  },
+  {
+    "sentence": "thật ngớ ngẩn , nhưng quan trọng hơn , nó không đáng sợ .",
+    "idx": 489,
+    "label": "negative"
+  },
+  {
+    "sentence": "cai nghiện cuối cùng là một nỗ lực vô nghĩa.",
+    "idx": 490,
+    "label": "negative"
+  },
+  {
+    "sentence": "như một tin đồn về các thiên thần tiết lộ mình là một bồn tắm đầy bọt của hokum siêu nhiên, thậm chí không phải là ms. những nỗ lực cao cả nhất của redgrave có thể cứu nó khỏi tình cảm vô vọng .",
+    "idx": 491,
+    "label": "negative"
+  },
+  {
+    "sentence": "một câu chuyện được dàn dựng và hành động một cách tinh xảo.",
+    "idx": 492,
+    "label": "positive"
+  },
+  {
+    "sentence": "điều này thật tệ.",
+    "idx": 493,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó thể hiện tài năng lồng tiếng của Carvey , nhưng gần như chưa đủ và không thể thiếu sự kiên nhẫn của một người để đạt được những điều hay .",
+    "idx": 494,
+    "label": "negative"
+  },
+  {
+    "sentence": "năm ánh sáng / vài tốc độ cong vênh / mức độ và mức độ tinh thể dilithium tốt hơn cuộc nổi dậy đáng thương.",
+    "idx": 495,
+    "label": "positive"
+  },
+  {
+    "sentence": "đó là việc theo đuổi ước mơ của bạn, bất kể bố mẹ bạn nghĩ gì.",
+    "idx": 496,
+    "label": "positive"
+  },
+  {
+    "sentence": "hiệu ứng tổng thể không giống một bộ phim dành cho trẻ em mà là một bộ phim chiêu mộ những bộ phim Hollywood bán chạy trong tương lai.",
+    "idx": 497,
+    "label": "negative"
+  },
+  {
+    "sentence": "gắn liền với diễn xuất đặc biệt của friel và Williams , sức mạnh của bộ phim nằm ở sự phức tạp của nó .",
+    "idx": 498,
+    "label": "positive"
+  },
+  {
+    "sentence": "Không giống như hiệu ứng wham-bam nhanh chóng của hầu hết các sản phẩm của Hollywood, sự phát triển nhân vật -- và quan trọng hơn, sự đồng cảm với nhân vật -- là trọng tâm của tiếng Ý dành cho người mới bắt đầu.",
+    "idx": 499,
+    "label": "positive"
+  },
+  {
+    "sentence": "phần tiếp theo quá lớn so với những hạn chế của nó .",
+    "idx": 500,
+    "label": "negative"
+  },
+  {
+    "sentence": "Những bông hoa của Harrison đã đặt trái tim của nó vào đúng chỗ nhưng bộ não của nó lại không ở một nơi cụ thể nào cả .",
+    "idx": 501,
+    "label": "positive"
+  },
+  {
+    "sentence": "buồn tẻ một cách chết người , sa lầy trong những vở kịch melodrama phức tạp , biệt ngữ vô nghĩa và sự chăm chỉ cứng nhắc .",
+    "idx": 502,
+    "label": "negative"
+  },
+  {
+    "sentence": "chuồn chuồn không có bầu không khí, không có sự căng thẳng -- không có gì ngoài costner, đang vùng vẫy bỏ đi.",
+    "idx": 503,
+    "label": "negative"
+  },
+  {
+    "sentence": "bộ phim mạnh mẽ, dễ tiếp cận và hài hước.",
+    "idx": 504,
+    "label": "positive"
+  },
+  {
+    "sentence": "và đó là lý do chính khiến chúng ta đi xem phim.",
+    "idx": 505,
+    "label": "positive"
+  },
+  {
+    "sentence": "giải trí crackerjack -- lãng mạn không ngừng nghỉ , âm nhạc , hồi hộp và hành động .",
+    "idx": 506,
+    "label": "positive"
+  },
+  {
+    "sentence": "những nhân vật phụ xung quanh ( bobby ) ... tạo thành một bức tranh khảm đô thị gai góc .",
+    "idx": 507,
+    "label": "positive"
+  },
+  {
+    "sentence": "một câu chuyện sâu sắc và hấp dẫn về các mối quan hệ, món ăn của tình yêu đưa chúng ta vào một hành trình gập ghềnh nhưng thỏa mãn của trái tim.",
+    "idx": 508,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim đã thành công trong việc biến một cuốn tiểu thuyết bán chạy nhất thành một khung thời gian bắt buộc bạn phải tránh uống nước ngọt cỡ Godzilla.",
+    "idx": 509,
+    "label": "positive"
+  },
+  {
+    "sentence": "những màn trình diễn chính sống động duy trì sự quan tâm và đồng cảm, nhưng cuộc hành trình còn thú vị hơn nhiều so với đích đến cuối cùng.",
+    "idx": 510,
+    "label": "positive"
+  },
+  {
+    "sentence": "khả năng truyền tải nỗi đau buồn và hy vọng của lapaglia kết hợp với phản ứng nhạy cảm của người thợ dệt để biến bộ phim này thành một lớp học bậc thầy gồm hai diễn viên .",
+    "idx": 511,
+    "label": "positive"
+  },
+  {
+    "sentence": "villeneuve dành quá nhiều thời gian đắm mình trong nỗi lo âu chung của bibi ( có rất nhiều cảnh cô ấy nhìn ra ngoài cửa sổ ) .",
+    "idx": 512,
+    "label": "negative"
+  },
+  {
+    "sentence": "care khéo léo nắm bắt được điều kỳ diệu và sự đe dọa của quá trình trưởng thành , nhưng anh ấy chưa bao giờ thực sự đón nhận niềm vui từ cuộc trốn chạy mang tính hủy diệt của Fuhrman hay sự nổi loạn duyên dáng mà các nhân vật của anh ấy tìm thấy .",
+    "idx": 513,
+    "label": "negative"
+  },
+  {
+    "sentence": "đây là một nỗ lực tự cao tự đại của con gái đạo diễn phim kinh dị Dario Argentina (một nhà sản xuất ở đây), nhưng diễn xuất thô sơ và sự dũng cảm tột độ của cô khiến nó có sức thu hút kỳ lạ.",
+    "idx": 514,
+    "label": "positive"
+  },
+  {
+    "sentence": "nếu đang tìm kiếm một chuyến đi điện ảnh khoa học viễn tưởng ly kỳ, đừng chấp nhận kẻ mạo danh này.",
+    "idx": 515,
+    "label": "negative"
+  },
+  {
+    "sentence": "đóng vai trò như một sự lan truyền thời trang của tạp chí w đầy biến động và kéo dài.",
+    "idx": 516,
+    "label": "negative"
+  },
+  {
+    "sentence": "không xa lắm , câu chuyện được tái cấu trúc này đặt ra những câu hỏi đáng lo ngại về những điều chúng ta mong đợi từ những sử thi quân sự .",
+    "idx": 517,
+    "label": "positive"
+  },
+  {
+    "sentence": "Kịch bản của Michael Gerbosi chứa đầy những cảnh kể chuyện một cách tiết kiệm.",
+    "idx": 518,
+    "label": "positive"
+  },
+  {
+    "sentence": "giải phẫu hấp dẫn của Moretti về nỗi đau buồn và quá trình khó khăn để thích ứng với sự mất mát.",
+    "idx": 519,
+    "label": "negative"
+  },
+  {
+    "sentence": "thật thú vị và rõ ràng khi lần đầu tiên anh ấy có thể sẽ thu hút các chàng trai hơn là bạn gái của họ, những người đã lôi kéo họ đến bộ phim này vì yếu tố ôm .",
+    "idx": 520,
+    "label": "positive"
+  },
+  {
+    "sentence": "xuất hiện như một chương trình đặc biệt ngoài giờ của ABC bị từ chối, được làm mới bởi sự ngu ngốc của lớp viết kịch bản 101.",
+    "idx": 521,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó có những khoảnh khắc của tình bạn thân thiết đáng kinh ngạc , nhưng thường chỉ mang lại cảm giác chung chung , phái sinh và bị xử tử .",
+    "idx": 522,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim hài lãng mạn được làm giàu bằng con mắt tinh tường về cách cư xử và nhiều thứ khác.",
+    "idx": 523,
+    "label": "positive"
+  },
+  {
+    "sentence": "phương pháp bay trên tường được sử dụng để ghi lại cuộc sống học đường ở nông thôn Pháp là một sự khởi đầu mới mẻ so với kỹ thuật phổ biến hiện nay của những người làm tài liệu là một phần hữu hình trong công việc của họ.",
+    "idx": 524,
+    "label": "positive"
+  },
+  {
+    "sentence": "loài chim quý hiếm có quá đủ sự quyến rũ để khiến nó trở nên đáng nhớ.",
+    "idx": 525,
+    "label": "positive"
+  },
+  {
+    "sentence": "hơi thất vọng một chút là nó chỉ ở mức khá thay vì xuất sắc đến chết người.",
+    "idx": 526,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó có tất cả sự phấn khích khi ăn bột yến mạch.",
+    "idx": 527,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó ám ảnh, kinh hoàng, làm giật mình và mê hoặc; không thể rời mắt.",
+    "idx": 528,
+    "label": "positive"
+  },
+  {
+    "sentence": "trong gần hai tiếng đồng hồ, khán giả buộc phải chịu đựng ba gia đình bị trầm cảm đến giai đoạn cuối , hầu hết là không thể nói rõ ràng , rối loạn chức năng chỉ với cái giá phải trả là một gia đình .",
+    "idx": 529,
+    "label": "negative"
+  },
+  {
+    "sentence": "một câu chuyện ngụ ngôn có hành động xuất sắc và hài hước / gai góc về quá trình nhân tính hóa một người phụ nữ dưới bàn tay của những thế lực vô hình của số phận.",
+    "idx": 530,
+    "label": "positive"
+  },
+  {
+    "sentence": "( t ) đây là điều duy nhất mà bất cứ ai cũng có thể làm được với một cuốn tiểu thuyết hoa mỹ , có cốt truyện quá mức , của Anne Rice Rock 'n' Roll trước khi sự ngớ ngẩn gắn liền với toàn bộ câu chuyện đánh bại họ .",
+    "idx": 531,
+    "label": "negative"
+  },
+  {
+    "sentence": "đối với những ai chưa quen với các tập tục Ngũ Tuần nói chung và hiện tượng sân khấu của những ngôi nhà địa ngục nói riêng thì đó là một điều đáng mở rộng tầm mắt.",
+    "idx": 532,
+    "label": "positive"
+  },
+  {
+    "sentence": "`` chủ yếu là martha '' là một câu chuyện ngụ ngôn về gia đình thời hiện đại, tươi sáng và nhẹ nhàng, thể hiện trái tim của nó cho tất cả mọi người cùng xem.",
+    "idx": 533,
+    "label": "positive"
+  },
+  {
+    "sentence": "tôi chỉ yêu thích từng phút của bộ phim này.",
+    "idx": 534,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim hình elip yên tĩnh, thuần khiết",
+    "idx": 535,
+    "label": "positive"
+  },
+  {
+    "sentence": "một sự thất vọng đối với những ai yêu thích các phiên bản thay thế của thi sĩ, đặc biệt là những phiên bản liên quan đến nồi chiên sâu và bánh mì kẹp thịt.",
+    "idx": 536,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim truyền hình tổng hợp đơn giản nhưng gay cấn và diễn xuất tốt bao gồm một phép ẩn dụ mạnh mẽ về một đất nước vẫn đang phải đối mặt với quá khứ phát xít của mình.",
+    "idx": 537,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó quá tầm thường , mặc dù có bộ đôi năng động trên sân khấu , đến nỗi chúng tôi không thể không hài lòng .",
+    "idx": 538,
+    "label": "negative"
+  },
+  {
+    "sentence": "không xem bộ phim này.",
+    "idx": 539,
+    "label": "negative"
+  },
+  {
+    "sentence": "binoche khiến việc cố gắng tìm hiểu trở nên thú vị.",
+    "idx": 540,
+    "label": "positive"
+  },
+  {
+    "sentence": "sử thi nhà thông thái hấp dẫn nhất trong những năm gần đây.",
+    "idx": 541,
+    "label": "positive"
+  },
+  {
+    "sentence": "không có cảm xúc nào đối với Solaris .",
+    "idx": 542,
+    "label": "negative"
+  },
+  {
+    "sentence": "mỗi tiếng cười khúc khích có ít nhất 10 lỗi hoàn toàn, nhiều lỗi đến từ Tara Reid sống động đến kinh ngạc, người có kỹ năng diễn xuất có thể so sánh với một tấm bìa cứng.",
+    "idx": 543,
+    "label": "negative"
+  },
+  {
+    "sentence": "mặc dù cường độ và sự tập trung của Huppert mang lại niềm phấn khởi tột độ, nhưng giáo viên piano lại chẳng có gì ngoài niềm vui.",
+    "idx": 544,
+    "label": "negative"
+  },
+  {
+    "sentence": "ngay từ những cảnh mở đầu , rõ ràng tất cả những gì về Benjamins đều là một bộ phim hoàn toàn mang tính công thức .",
+    "idx": 545,
+    "label": "negative"
+  },
+  {
+    "sentence": "Theo sau sàn đấu là một bộ phim kinh dị buồn tẻ và thiếu hài hước tương tự, mặc dù có sai sót nhưng vẫn được khen ngợi vì cách tiếp cận thẳng thắn với sự rùng rợn.",
+    "idx": 546,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim dựa trên sự thật nhưng có điều gì đó khiến nó cảm thấy chưa hoàn chỉnh , như thể câu chuyện thật sắp bắt đầu .",
+    "idx": 547,
+    "label": "negative"
+  },
+  {
+    "sentence": "Tôi luôn mơ ước được tham dự Cannes, nhưng sau khi xem bộ phim này, đó không phải là vấn đề lớn.",
+    "idx": 548,
+    "label": "negative"
+  },
+  {
+    "sentence": "một tổng doanh thu thô thiển và ngu ngốc.",
+    "idx": 549,
+    "label": "negative"
+  },
+  {
+    "sentence": "... không có gì đáng sợ ở đây ngoại trừ một số diễn xuất tệ hại và những hiệu ứng đặc biệt khập khiễng.",
+    "idx": 550,
+    "label": "negative"
+  },
+  {
+    "sentence": "không có gì khi thức dậy ở Reno đã truyền cảm hứng cho tôi nghĩ về những cư dân của nó như bất cứ thứ gì khác hơn là những dấu ấn trong một kịch bản phim.",
+    "idx": 551,
+    "label": "negative"
+  },
+  {
+    "sentence": "đây lại là một thương hiệu kinh dị khác của hãng phim đang cải tiến cốt truyện với những trục trặc mà người hâm mộ bình thường có thể sửa chữa trong khi ngủ.",
+    "idx": 552,
+    "label": "negative"
+  },
+  {
+    "sentence": "Thật khiêm tốn và có trái tim trong sáng, bạn không thể không nồng nhiệt dang rộng vòng tay và hét lên 'an toàn nhé! '",
+    "idx": 553,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó đối xử với phụ nữ như những kẻ ngốc.",
+    "idx": 554,
+    "label": "negative"
+  },
+  {
+    "sentence": "... những lỗ hổng trong âm mưu quá lớn và rõ ràng đến nỗi một ban nhạc diễu hành cũng có thể dậm chân qua chúng trong bộ quần áo hề, chơi một bài hát chiến đấu trong bóng đá ở trường đại học bằng những nhạc cụ không được điều chỉnh.",
+    "idx": 555,
+    "label": "negative"
+  },
+  {
+    "sentence": "nhưng nó quá dài, quá phức tạp và kết thúc trong một mớ hỗn độn.",
+    "idx": 556,
+    "label": "negative"
+  },
+  {
+    "sentence": "một trong những bộ phim hay nhất của năm với việc khám phá những trở ngại dẫn đến hạnh phúc mà năm con người đương thời phải đối mặt ... một kiệt tác tâm lý .",
+    "idx": 557,
+    "label": "positive"
+  },
+  {
+    "sentence": "mặc dù ẩm thực Đức không được nhắc đến nhiều khi xem xét những nền ẩm thực ngon nhất thế giới, nhưng hầu hết Martha có thể khiến Deutchland trở thành một điểm đến phổ biến cho những du khách đang đói bụng.",
+    "idx": 558,
+    "label": "positive"
+  },
+  {
+    "sentence": "nếu người mặc đồ đen đầu tiên là tiền thì người thứ hai là tiền lẻ.",
+    "idx": 559,
+    "label": "negative"
+  },
+  {
+    "sentence": "đừng để bị đánh lừa bởi danh sách diễn viên ấn tượng - nhìn thẳng vào mắt bạn chỉ là thứ rác rưởi.",
+    "idx": 560,
+    "label": "negative"
+  },
+  {
+    "sentence": "một trong những bộ phim dùng quá liều estrogen như `` bí mật thiêng liêng của tình chị em ya ya '', ngoại trừ việc viết kịch bản, diễn xuất và phát triển nhân vật tốt hơn rất nhiều.",
+    "idx": 561,
+    "label": "positive"
+  },
+  {
+    "sentence": "Scorsese không cho chúng ta một nhân vật đáng để quan tâm.",
+    "idx": 562,
+    "label": "negative"
+  },
+  {
+    "sentence": "với hàng rào chống thỏ , Noyce đã biến một câu chuyện sử thi thành một bộ phim gọn gàng, tiết kiệm .",
+    "idx": 563,
+    "label": "positive"
+  },
+  {
+    "sentence": "những khúc mắc trong cốt truyện cuối cùng chẳng mang lại điều gì hơn ngoài việc giật dây của khán giả.",
+    "idx": 564,
+    "label": "negative"
+  },
+  {
+    "sentence": "có một số khoảnh khắc mới mẻ tuyệt vời làm dịu đi sự cứng nhắc về mặt đạo đức bằng lòng tốt và niềm hy vọng của con người.",
+    "idx": 565,
+    "label": "positive"
+  },
+  {
+    "sentence": "không làm gì khác hơn là chơi một trò chơi vô thưởng vô phạt điền vào chỗ trống với một quá khứ bi thảm .",
+    "idx": 566,
+    "label": "negative"
+  },
+  {
+    "sentence": "tính năng ra mắt d.j. Caruso chỉ đạo một dàn diễn viên xuất sắc , đưa câu chuyện về ma tuý của nhà biên kịch Tony Gayton vào cuộc sống .",
+    "idx": 567,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó không có gì mới với câu chuyện cũ , ngoại trừ việc trình chiếu những pha đánh đấm theo kiểu chuyển động chậm liên tục này khiến cho những tiếng ầm ĩ của băng nhóm trông giống như đang được truyền qua modem 28k .",
+    "idx": 568,
+    "label": "negative"
+  },
+  {
+    "sentence": "một trong những điều ngạc nhiên tràn đầy năng lượng , một bản gốc làm hài lòng hầu hết mọi người xem nó .",
+    "idx": 569,
+    "label": "positive"
+  },
+  {
+    "sentence": "Barbara của Seldahl là một bức chân dung chính xác và cảm động về một người có thế giới bị đảo lộn, đầu tiên là vì đam mê và sau đó là bệnh tật.",
+    "idx": 570,
+    "label": "positive"
+  },
+  {
+    "sentence": "giải trí tạm được , nhưng đó là loại phim sẽ không gây được nhiều tiếng vang khi ra mắt và sẽ không được nhớ đến lâu sau đó .",
+    "idx": 571,
+    "label": "negative"
+  },
+  {
+    "sentence": "giai điệu và nhịp độ của bộ phim gần như khác hẳn ngay từ đầu .",
+    "idx": 572,
+    "label": "negative"
+  },
+  {
+    "sentence": "đáng yêu và sâu sắc.",
+    "idx": 573,
+    "label": "positive"
+  },
+  {
+    "sentence": "một vở opera estrogen khoa trương, rộng rãi và khá độc hại theo đúng nghĩa của nó .",
+    "idx": 574,
+    "label": "negative"
+  },
+  {
+    "sentence": "( đạo diễn ) o'fallon cố gắng đưa một số hình ảnh đáng yêu lên màn ảnh rộng , nhưng kỹ năng kể chuyện của anh ấy -- anh ấy cũng đóng góp vào kịch bản phim -- lại chưa thành công .",
+    "idx": 575,
+    "label": "negative"
+  },
+  {
+    "sentence": "mang đến rất ít sự lãng mạn chân thực và thậm chí còn ít tiếng cười hơn ... một bộ phim sitcom buồn, phần lớn không có sức hấp dẫn .",
+    "idx": 576,
+    "label": "negative"
+  },
+  {
+    "sentence": "dù chỉ dài 60 phút nhưng bộ phim chứa đựng nhiều thông tin và ấn tượng.",
+    "idx": 577,
+    "label": "positive"
+  },
+  {
+    "sentence": "chỉ là chưa đủ sôi nổi",
+    "idx": 578,
+    "label": "negative"
+  },
+  {
+    "sentence": "mọi điệu nhảy đều trở thành sự quyến rũ , nơi tôn vinh sự đâm sau lưng và phản bội , và tình dục là tiền tệ .",
+    "idx": 579,
+    "label": "negative"
+  },
+  {
+    "sentence": "phải có một thể loại phim kinh dị nhất định mới đủ tiêu chuẩn là \"tệ hơn mong đợi\", nhưng con tàu ma bằng cách nào đó đã làm được điều đó một cách chính xác.",
+    "idx": 580,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó không thể được thưởng thức , thậm chí ở mức độ mà người ta thích một bộ phim về kẻ giết người tồi tệ , chủ yếu là vì nó buồn tẻ .",
+    "idx": 581,
+    "label": "negative"
+  },
+  {
+    "sentence": "bất chấp mọi bằng chứng ngược lại , kẻ khốn nạn này bằng cách nào đó đã cố gắng đóng giả như một bộ phim truyện thực tế , loại thu phí toàn bộ phí vào cửa và được quảng cáo rầm rộ trên truyền hình với mục đích giải trí cho trẻ nhỏ và người lớn bề ngoài .",
+    "idx": 582,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó chỉ là phụ thôi.",
+    "idx": 583,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim hài lãng mạn ngớ ngẩn khiến cô gái của chúng ta trở thành người hỗ trợ kém may mắn cho một cú đánh rẻ tiền kéo dài xuyên qua ranh giới mason-dixon.",
+    "idx": 584,
+    "label": "negative"
+  },
+  {
+    "sentence": "một trong những bức tranh có tiền đề đầy hứa hẹn, nếu khá quý giá, lại bị cắt xén bởi cách thực hiện nghiệp dư.",
+    "idx": 585,
+    "label": "negative"
+  },
+  {
+    "sentence": "tính hài hước không sắc nét, hiệu ứng không đổi mới cũng như câu chuyện không giàu trí tưởng tượng như trong nguyên tác.",
+    "idx": 586,
+    "label": "negative"
+  },
+  {
+    "sentence": "đạo diễn Uwe Boll và các diễn viên đưa ra rất ít lý do để quan tâm đến sự hồi tưởng thô thiển của thập niên 70 này .",
+    "idx": 587,
+    "label": "negative"
+  },
+  {
+    "sentence": "... một câu chuyện mà chúng ta chưa từng thấy trên màn ảnh rộng trước đây, và đó là một câu chuyện mà chúng ta, những người Mỹ và con người, nên biết.",
+    "idx": 588,
+    "label": "positive"
+  },
+  {
+    "sentence": "nếu sở thích của bạn là những bộ phim 'khó' thì bạn chắc chắn không thể bỏ lỡ nó .",
+    "idx": 589,
+    "label": "positive"
+  },
+  {
+    "sentence": "bản thân bộ phim này cũng giống như một kẻ mạo danh , kéo dài và đệm nội dung của nó vào những ngõ cụt mờ ảo và làm mất tập trung công việc của máy quay .",
+    "idx": 590,
+    "label": "negative"
+  },
+  {
+    "sentence": "tôi đau đầu khi xem cái thứ vô nghĩa này.",
+    "idx": 591,
+    "label": "negative"
+  },
+  {
+    "sentence": "Kịch bản của zaidan hầu như không có đủ cốt truyện để xâu chuỗi các pha nguy hiểm lại với nhau và không đủ mô tả nhân vật để giữ cho các khuôn mặt thẳng thắn.",
+    "idx": 592,
+    "label": "negative"
+  },
+  {
+    "sentence": "Campbell Scott xuất sắc và bị đánh giá thấp một cách đáng kinh ngạc đã mang đến một màn trình diễn xuất sắc đầy mê hoặc.",
+    "idx": 593,
+    "label": "positive"
+  },
+  {
+    "sentence": "được xây dựng một cách chậm rãi và tinh tế , bộ phim thể hiện tính ngẫu hứng nhẹ nhàng và các mô tả nhân vật được vẽ chân thực , phát triển thành một nghiên cứu nhân vật quan trọng vừa cảm động vừa khôn ngoan .",
+    "idx": 594,
+    "label": "positive"
+  },
+  {
+    "sentence": "tất cả những pha nguy hiểm theo phong cách Tony Hawk và những màn đập phá nhạc rap-metal không thể che giấu sự thật rằng, thực sự, chúng tôi đã ở đây, đã làm được điều đó.",
+    "idx": 595,
+    "label": "negative"
+  },
+  {
+    "sentence": "đạo diễn biết cách áp dụng độ bóng của kết cấu, nhưng bức chân dung về tình dục như chiến tranh của ông hoàn toàn là phim sitcom.",
+    "idx": 596,
+    "label": "negative"
+  },
+  {
+    "sentence": "về mặt hình ảnh khá ấn tượng , nhưng cuối cùng lại trông đẹp trai , sự sáng tạo thực sự sẽ là che giấu hoàn toàn hành tinh kho báu và hình dung lại hoàn toàn nó .",
+    "idx": 597,
+    "label": "negative"
+  },
+  {
+    "sentence": "bộ phim \"kinh dị mạng\" vô nghĩa, buồn tẻ là một bài tập sáo rỗng, nghiệt ngã về những màn hù dọa đơn điệu và diễn xuất tệ hại.",
+    "idx": 598,
+    "label": "negative"
+  },
+  {
+    "sentence": "lãng phí lớn thời gian.",
+    "idx": 599,
+    "label": "negative"
+  },
+  {
+    "sentence": "nói một cách chuyên nghiệp , thật là hấp dẫn khi nhảy tàu vào tháng Giêng để tránh tình trạng lộn xộn lố bịch như bộ phim kinh dị hồi hộp kém chất lượng này .",
+    "idx": 600,
+    "label": "negative"
+  },
+  {
+    "sentence": "ưa thích một kẻ thất vọng thực sự?",
+    "idx": 601,
+    "label": "negative"
+  },
+  {
+    "sentence": "thay vào đó , anh ấy cho họ thấy sự tôn trọng mà họ đáng có .",
+    "idx": 602,
+    "label": "positive"
+  },
+  {
+    "sentence": "Lần đầu tiên biên kịch kiêm đạo diễn Serry thể hiện tài năng kể chuyện đáng chú ý bằng bộ phim nhỏ cảm động và hiệu quả này.",
+    "idx": 603,
+    "label": "positive"
+  },
+  {
+    "sentence": "năng lực kỹ thuật của vera cuối cùng đã bán được phim ngắn của anh ấy; anh ấy giải quyết những sự thật phũ phàng ngay cả khi anh ấy khám phá ra chúng .",
+    "idx": 604,
+    "label": "negative"
+  },
+  {
+    "sentence": "đặt khuôn mặt con người lên một vùng đất mà hầu hết người phương Tây đều xa lạ.",
+    "idx": 605,
+    "label": "positive"
+  },
+  {
+    "sentence": "tạo ra trải nghiệm xem khá khó chịu.",
+    "idx": 606,
+    "label": "negative"
+  },
+  {
+    "sentence": "ahhh ... sự trả thù thật ngọt ngào !",
+    "idx": 607,
+    "label": "positive"
+  },
+  {
+    "sentence": "Những người bảo vệ văn hóa tự bổ nhiệm có trí thức cao không cần phải nộp đơn, nhưng những người yêu thích sự lạnh lùng như băng cuối cùng đã tìm được người theo dõi xứng đáng.",
+    "idx": 608,
+    "label": "positive"
+  },
+  {
+    "sentence": "nine queens không chỉ là một tác phẩm thuộc thể loại và ra mắt có khả năng đáng sợ mà còn là một bức ảnh chụp nhanh về một tình hình chính trị nguy hiểm sắp đến hồi gay cấn .",
+    "idx": 609,
+    "label": "positive"
+  },
+  {
+    "sentence": "như thể bạn không thể ngửi thấy mùi gà tây thối rữa cách xa hàng dặm vậy.",
+    "idx": 610,
+    "label": "negative"
+  },
+  {
+    "sentence": "các màn trình diễn đưa bộ phim lên một tầm cao hơn.",
+    "idx": 611,
+    "label": "positive"
+  },
+  {
+    "sentence": "Davis ... quá say mê với sự sáng tạo của chính mình đến nỗi cô ấy không thể hiểu được nhân vật này khó chịu đến mức nào .",
+    "idx": 612,
+    "label": "negative"
+  },
+  {
+    "sentence": "... mang vẻ đẹp của bóng chày và kết hợp nó với một câu chuyện có thể chạm đến bất kỳ ai bất kể họ có quen thuộc với môn thể thao này hay không",
+    "idx": 613,
+    "label": "positive"
+  },
+  {
+    "sentence": "bất chấp mọi khó khăn trên thiên đường và địa ngục , điều đó làm tôi rất sợ hãi .",
+    "idx": 614,
+    "label": "positive"
+  },
+  {
+    "sentence": "Là giá thầu mới nhất trong trò chơi nhượng quyền truyền hình chuyển thể từ phim truyền hình, tôi gián điệp thực hiện mục nhập trên màn ảnh rộng với rất ít sự độc đáo đầy căng thẳng của phiên bản tiền thân màn ảnh nhỏ mang tính đột phá của nó.",
+    "idx": 615,
+    "label": "negative"
+  },
+  {
+    "sentence": "thực sự chỉ có một ý tưởng hay trong bộ phim này, nhưng đạo diễn đã thực hiện nó và trình bày nó với một hình ảnh phô trương khó quên.",
+    "idx": 616,
+    "label": "positive"
+  },
+  {
+    "sentence": "phần lồng tiếng siêu thực quá kém cỏi (có sự lồng tiếng của Glenn Close, Regis Philbin và Breckin Meyer) gợi lại ký ức về những bộ phim Godzilla cổ điển sến sẩm.",
+    "idx": 617,
+    "label": "negative"
+  },
+  {
+    "sentence": "không có kỹ thuật không ngừng nghỉ hoặc những âm bội hiện sinh của một câu chuyện đạo đức Kieslowski, maelström chỉ là một kẻ ngủ đông khác mà thôi.",
+    "idx": 618,
+    "label": "negative"
+  },
+  {
+    "sentence": "một nghiên cứu khủng khiếp không thể phân loại được về hành vi ngược đãi bản thân và khán giả .",
+    "idx": 619,
+    "label": "negative"
+  },
+  {
+    "sentence": "việc xem phim tương đương với việc đi dự một bữa tiệc tối và bị buộc phải xem đoạn video tại nhà của chủ nhà và bà chủ về quá trình sinh con của họ.",
+    "idx": 620,
+    "label": "negative"
+  },
+  {
+    "sentence": "Kinnear không nhằm mục đích gây thiện cảm với chúng ta mà mang đến một màn trình diễn có kỹ năng ấn tượng và có chiều sâu.",
+    "idx": 621,
+    "label": "positive"
+  },
+  {
+    "sentence": "rất ít bộ phim ghi lại những hy vọng và ước mơ của những cậu bé trên sân bóng chày cũng như những người đàn ông trưởng thành ngồi trên khán đài một cách hoàn hảo đến vậy.",
+    "idx": 622,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó thật thú vị , và đó là tất cả những gì nó cần phải có .",
+    "idx": 623,
+    "label": "positive"
+  },
+  {
+    "sentence": "đầy thử thách, không ngừng hăng say và sáng tạo không ngừng nghỉ.",
+    "idx": 624,
+    "label": "positive"
+  },
+  {
+    "sentence": "phần lớn Stevens lướt qua một số màn trình diễn chắc chắn và lời thoại dí dỏm.",
+    "idx": 625,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim này thú vị và làm hài lòng đám đông như một bộ phim tài liệu có thể có được.",
+    "idx": 626,
+    "label": "positive"
+  },
+  {
+    "sentence": "suy nhược thần kinh không có tính giải trí.",
+    "idx": 627,
+    "label": "negative"
+  },
+  {
+    "sentence": "nỗ lực của mehta của biên kịch-đạo diễn có vô số sự quyến rũ và sự kỳ quái nằm ở sự pha trộn, masala say sưa, của các nền văn hóa và thể loại phim.",
+    "idx": 628,
+    "label": "positive"
+  },
+  {
+    "sentence": "quá mức , tục tĩu , chứa đầy bạo lực hoạt hình và các nhân vật truyện tranh .",
+    "idx": 629,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim kinh dị tâm lý căng thẳng không lãng phí một giây phút nào trong thời lượng hai giờ đồng hồ của nó.",
+    "idx": 630,
+    "label": "positive"
+  },
+  {
+    "sentence": "Burns không bao giờ thực sự khai thác hết tác dụng của dàn diễn viên tràn đầy năng lượng.",
+    "idx": 631,
+    "label": "negative"
+  },
+  {
+    "sentence": "chỉ là sự xấu hổ và cảm giác xấu hổ mơ hồ.",
+    "idx": 632,
+    "label": "negative"
+  },
+  {
+    "sentence": "tuy nhiên , về mặt hình ảnh , bộ phim gần như không có gì vượt trội .",
+    "idx": 633,
+    "label": "positive"
+  },
+  {
+    "sentence": "Harris điều khiển màn ảnh , sử dụng sự yếu đuối của mình để gợi lên sự tàn phá của một cuộc đời tham nhũng và tàn nhẫn .",
+    "idx": 634,
+    "label": "positive"
+  },
+  {
+    "sentence": "hoặc đổ bẫy chuột.",
+    "idx": 635,
+    "label": "negative"
+  },
+  {
+    "sentence": "mang lại nhiều điều thú vị ... và nhiều điều để suy ngẫm về tình yêu , lòng trung thành và bản chất của việc duy trì tình bạn .",
+    "idx": 636,
+    "label": "positive"
+  },
+  {
+    "sentence": "câu chuyện hấp dẫn cần có nhiều kịch tính hơn nữa .",
+    "idx": 637,
+    "label": "negative"
+  },
+  {
+    "sentence": "Vợ tôi là một nữ diễn viên là một bộ phim hài Pháp cực kỳ quyến rũ, mang lại cảm giác và phong cách rất Mỹ, gần như là một phiên bản làm lại của Hollywood.",
+    "idx": 638,
+    "label": "positive"
+  },
+  {
+    "sentence": "lập trình viên bỏng ngô vô cảm đến khó tin của một bộ phim.",
+    "idx": 639,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim quan trọng , một lời nhắc nhở về sức mạnh của phim trong việc lay động chúng ta và khiến chúng ta xem xét lại các giá trị của mình .",
+    "idx": 640,
+    "label": "positive"
+  },
+  {
+    "sentence": "sự kỳ diệu của bộ phim không nằm ở mùa xuân huyền bí mà ở sự phong phú của các màn trình diễn.",
+    "idx": 641,
+    "label": "positive"
+  },
+  {
+    "sentence": "việc làm lại này quá ngu ngốc và quá bóc lột về mặt bạo lực đến mức, trớ trêu thay, nó lại trở thành mọi thứ mà bản gốc khá vụng về đang chống lại.",
+    "idx": 642,
+    "label": "negative"
+  },
+  {
+    "sentence": "những cú đâm mà nó sử dụng đều ngắn, được đặt cẩn thận và tập trung vào điểm chết.",
+    "idx": 643,
+    "label": "positive"
+  },
+  {
+    "sentence": "trong khi người dân địa phương sẽ thích thú khi phát hiện ra các địa điểm ở Cleveland , thì phần còn lại của thế giới sẽ được thưởng thức một bộ phim hài có nhịp độ nhanh với những điều kỳ quặc có thể khiến anh em nhà Coen từng đoạt giải thưởng phải ghen tị .",
+    "idx": 644,
+    "label": "positive"
+  },
+  {
+    "sentence": "những lời nói , \" thành thật mà nói , em yêu , anh đếch quan tâm \" chưa bao giờ thích hợp hơn .",
+    "idx": 645,
+    "label": "negative"
+  },
+  {
+    "sentence": "phim càng dài thì càng tệ, nhưng thực sự nó khá hay trong vài phút đầu.",
+    "idx": 646,
+    "label": "negative"
+  },
+  {
+    "sentence": "quá nhiều sự hài hước bị mất đi.",
+    "idx": 647,
+    "label": "negative"
+  },
+  {
+    "sentence": "thêm một bằng chứng nữa cho thấy tâm điểm của nền điện ảnh nước ngoài thú vị, đẹp đẽ, kích thích tư duy nằm ngay giữa trục ma quỷ của dubya.",
+    "idx": 648,
+    "label": "positive"
+  },
+  {
+    "sentence": "một vài ý tưởng trong phim bị kéo dài đến mức bốc hơi; toàn bộ phần trung tâm là một cuộc rượt đuổi lớn dường như không có mục tiêu và không có sự khẩn cấp.",
+    "idx": 649,
+    "label": "negative"
+  },
+  {
+    "sentence": "quá chậm , quá lâu và quá ít xảy ra .",
+    "idx": 650,
+    "label": "negative"
+  },
+  {
+    "sentence": "do một số điểm yếu trong kịch bản và việc chọn diễn viên của anh trai đạo diễn , bộ phim trở nên vô nghĩa .",
+    "idx": 651,
+    "label": "negative"
+  },
+  {
+    "sentence": "rất tệ .",
+    "idx": 652,
+    "label": "negative"
+  },
+  {
+    "sentence": "phần tiếp theo mờ nhạt, không cần thiết của bộ phim chuyển thể kinh điển của Disney của J.m. peter pan của barrie .",
+    "idx": 653,
+    "label": "negative"
+  },
+  {
+    "sentence": "một tác phẩm châm biếm khoa học viễn tưởng thiếu độc đáo đến mức nếu bạn loại bỏ cảm hứng của nó thì sẽ chẳng còn lại chút gì quý giá .",
+    "idx": 654,
+    "label": "negative"
+  },
+  {
+    "sentence": "Sinh nhật cô gái là một chuyến đi vui vẻ thú vị, với một số khoảnh khắc bạo lực đáng ngạc nhiên.",
+    "idx": 655,
+    "label": "positive"
+  },
+  {
+    "sentence": "quá nhiều kỹ thuật dễ dàng, những ý tưởng dễ thương, quá ít phim.",
+    "idx": 656,
+    "label": "positive"
+  },
+  {
+    "sentence": "mong đợi những điều vô nghĩa như cũ, khập khiễng, chỉ với khung cảnh khác.",
+    "idx": 657,
+    "label": "negative"
+  },
+  {
+    "sentence": "một sự theo dõi thông minh, hóm hỉnh.",
+    "idx": 658,
+    "label": "positive"
+  },
+  {
+    "sentence": "chabrol đã lấy chất liệu đầy hứa hẹn cho một vở hài kịch đen và thay vào đó biến nó thành một vở kịch thính phòng u ám.",
+    "idx": 659,
+    "label": "negative"
+  },
+  {
+    "sentence": "như Mike là người chiến thắng đối với trẻ em và chắc chắn là người chiến thắng đối với lil bow wow, người giờ đây có thể thêm phim vào danh sách những việc anh ấy làm tốt.",
+    "idx": 660,
+    "label": "positive"
+  },
+  {
+    "sentence": "đó là một bộ phim video khác được quay giống như một bộ phim, với ánh sáng yếu thường bị coi là chủ nghĩa tự nhiên của phim độc lập.",
+    "idx": 661,
+    "label": "negative"
+  },
+  {
+    "sentence": "ở đây không đủ để biện minh cho gần hai giờ đồng hồ.",
+    "idx": 662,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó sẽ thu hút ngay cả những khán giả không quan tâm đến nhạc rap , vì nó đi sâu vào trái tim của xã hội Mỹ một cách đáng kinh ngạc .",
+    "idx": 663,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim được dàn dựng đẹp mắt , nhưng quan trọng hơn , các vấn đề được trình bày một cách tinh tế , cố gắng đi đúng hướng liên quan đến câu hỏi về sự điên rồ của Joan .",
+    "idx": 664,
+    "label": "positive"
+  },
+  {
+    "sentence": "và nếu bạn không suýt rơi nước mắt sau một vài cảnh thì bạn đã có nước đá chảy trong huyết quản rồi.",
+    "idx": 665,
+    "label": "positive"
+  },
+  {
+    "sentence": "Richard Gere và Diane Lane đã có những màn trình diễn xuất sắc cũng như nam diễn viên người Pháp Oliver Martinez.",
+    "idx": 666,
+    "label": "positive"
+  },
+  {
+    "sentence": "phim hay nhưng buồn quá.",
+    "idx": 667,
+    "label": "positive"
+  },
+  {
+    "sentence": "có những lỗ hổng đủ lớn để cá voi sát thủ shamu bơi qua.",
+    "idx": 668,
+    "label": "negative"
+  },
+  {
+    "sentence": "thuyết giảng cho hai ca đoàn hoàn toàn khác nhau cùng một lúc , đó là một thành tích khá đáng ngạc nhiên .",
+    "idx": 669,
+    "label": "positive"
+  },
+  {
+    "sentence": "Verbinski thực hiện mọi thủ thuật hack-artist để mang lại cho chúng ta những điều kỳ lạ.",
+    "idx": 670,
+    "label": "negative"
+  },
+  {
+    "sentence": "hai giờ trôi qua -- opera là một niềm vui khi bạn không phải chịu đựng những khoảng ngắt quãng -- và ngay cả một người mới làm quen với loại hình này cũng vui vẻ ra về .",
+    "idx": 671,
+    "label": "positive"
+  },
+  {
+    "sentence": "Nói chung , đây là một bộ phim có thể xem được nhưng đáng lẽ ra nó không phải là một trải nghiệm đáng nhớ .",
+    "idx": 672,
+    "label": "negative"
+  },
+  {
+    "sentence": "đẩy bạn vào một tình huống chóng mặt , bất ổn , trong nồi áp suất mà nhanh chóng vượt khỏi tầm kiểm soát , trong khi tập trung vào điều gì hơn là lý do .",
+    "idx": 673,
+    "label": "positive"
+  },
+  {
+    "sentence": "Atom egoyan đã tạo ra một tác phẩm nhiều lớp giải quyết mọi vấn đề hấp dẫn",
+    "idx": 674,
+    "label": "positive"
+  },
+  {
+    "sentence": "mảnh quảng cáo chéo khéo léo.",
+    "idx": 675,
+    "label": "positive"
+  },
+  {
+    "sentence": "gần như không thể chịu đựng được ... mặc dù bức tranh có xu hướng trở thành thơ ca điện ảnh , nó vẫn tầm thường và buồn tẻ một cách buồn tẻ .",
+    "idx": 676,
+    "label": "negative"
+  },
+  {
+    "sentence": "Majidi là một người kể chuyện độc đáo, có khả năng tìm ra vẻ đẹp ở những nơi buồn bã nhất.",
+    "idx": 677,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim không chỉ vui nhộn : nó còn dí dỏm và sáng tạo , và nhìn lại thì nó thậm chí còn không ngớ ngẩn đến thế .",
+    "idx": 678,
+    "label": "positive"
+  },
+  {
+    "sentence": "những nhà làm phim có thể khéo léo thay đổi tâm trạng đều là những kho báu và thậm chí là những điều kỳ diệu .",
+    "idx": 679,
+    "label": "positive"
+  },
+  {
+    "sentence": "sức sống của các diễn viên giữ cho cường độ của bộ phim luôn cao, ngay cả khi các cảnh quay hòa quyện vào nhau.",
+    "idx": 680,
+    "label": "positive"
+  },
+  {
+    "sentence": "( a ) một trò giải trí vô hình .",
+    "idx": 681,
+    "label": "negative"
+  },
+  {
+    "sentence": "cuối cùng, bộ phim sụp đổ trên nền tảng lung lay bất chấp những nỗ lực hết mình của đạo diễn Joe Carnahan.",
+    "idx": 682,
+    "label": "negative"
+  },
+  {
+    "sentence": "câu chuyện có thật về lòng dũng cảm -- và sự đồng lõa -- tại Auschwitz là một vở kịch đau lòng cố gắng kể về những điều không thể diễn tả được .",
+    "idx": 683,
+    "label": "positive"
+  },
+  {
+    "sentence": "một nghiên cứu mang sắc thái xám xịt, thể hiện bản thân bằng những cách vận dụng cốt truyện tinh tế ...",
+    "idx": 684,
+    "label": "positive"
+  },
+  {
+    "sentence": "không có màn phiêu lưu giả tưởng nào trong ký ức gần đây có kỹ năng trình diễn của những người nhái trong 45 phút cuối.",
+    "idx": 685,
+    "label": "positive"
+  },
+  {
+    "sentence": "lãng mạn hơn , nhiều cảm xúc hơn và cuối cùng là thỏa mãn hơn bản gốc đầy nước mắt .",
+    "idx": 686,
+    "label": "positive"
+  },
+  {
+    "sentence": "đây là một sự giả tạo trơ trẽn , được tính toán để kiếm tiền từ sự nổi tiếng của các ngôi sao trong phim .",
+    "idx": 687,
+    "label": "negative"
+  },
+  {
+    "sentence": "nếu bạn đã từng có ý định làm những gì mà tiêu đề của bộ phim này ngụ ý thì việc quan hệ tình dục với người lạ thực sự thể hiện điều gì có thể khiến bạn mất ý tưởng mãi mãi.",
+    "idx": 688,
+    "label": "negative"
+  },
+  {
+    "sentence": "Khi nhân vật chính 50 tuổi lành tính xuất hiện, chúng ta thấy mình khao khát khối gỗ quay trở lại.",
+    "idx": 689,
+    "label": "negative"
+  },
+  {
+    "sentence": "một cách ngớ ngẩn, ngớ ngẩn, tệ đến phát điên.",
+    "idx": 690,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim cực kỳ rùng rợn, gây sợ hãi (không phải làm giảm nỗi sợ hãi) của đạo diễn người Nhật Hideo Nakata, người đã nhận lời nguyền mê tín trên các bức thư dây chuyền và thực sự áp dụng nó.",
+    "idx": 691,
+    "label": "positive"
+  },
+  {
+    "sentence": "duy trì sự lướt qua như mơ của nó thông qua một loạt các sự trùng hợp ngẫu nhiên và những hiệu ứng rẻ tiền đầy gợi cảm, trong đó ít nhất là rebecca romijn-stamos.",
+    "idx": 692,
+    "label": "negative"
+  },
+  {
+    "sentence": "vì cảnh cuối vụng về và không cần thiết , \"người bơi lội\" đã để lại cho tôi một cảm giác rất tồi tệ .",
+    "idx": 693,
+    "label": "negative"
+  },
+  {
+    "sentence": "không có nguyện vọng nhập khẩu xã hội thông báo phiên bản phim.",
+    "idx": 694,
+    "label": "negative"
+  },
+  {
+    "sentence": "hãy ngồi xem hết phần này và bạn sẽ không cần một chiếc đồng hồ thần kỳ để dừng thời gian; đầu DVD của bạn sẽ làm điều đó cho bạn.",
+    "idx": 695,
+    "label": "negative"
+  },
+  {
+    "sentence": "lần đầu tiên sau nhiều năm , de niro đào sâu cảm xúc , có lẽ vì anh bị lay động bởi công việc hiệu quả của các bạn diễn .",
+    "idx": 696,
+    "label": "positive"
+  },
+  {
+    "sentence": "Chưa có nam diễn viên nào gây ấn tượng mạnh đến thế trong bộ đồ lót của Tom Cruise kể từ khi Tom Cruise dấn thân vào lĩnh vực kinh doanh mạo hiểm.",
+    "idx": 697,
+    "label": "positive"
+  },
+  {
+    "sentence": "một câu chuyện thú vị với một thông điệp thích hợp (độc đáo về mặt điện ảnh), được kể khá hay và đạt điểm hoàn hảo, tôi thấy mình đang gặp khó khăn khi tìm ra \"điều còn thiếu\" khó nắm bắt đó. ''",
+    "idx": 698,
+    "label": "positive"
+  },
+  {
+    "sentence": "... việc thường lệ , trò giải trí vô hại và một số thứ khác .",
+    "idx": 699,
+    "label": "positive"
+  },
+  {
+    "sentence": "Đã đến lúc thực sự chín muồi cho một cuộc phiêu lưu đầy nhiệt huyết của James Bond, với một gã ngốc trong làng là bản sao 007?",
+    "idx": 700,
+    "label": "negative"
+  },
+  {
+    "sentence": "ngay cả đầu bếp giỏi nhất cũng không thể biến một chiếc hotdog thành bất cứ thứ gì khác hơn một chiếc hotdog, và Robert de Niro cũng không thể biến bộ phim này thành bất cứ thứ gì khác hơn một bộ phim hài về anh bạn cảnh sát rác rưởi.",
+    "idx": 701,
+    "label": "negative"
+  },
+  {
+    "sentence": "thực tế của bộ phim pinocchio người thật đóng mới do anh đạo diễn, viết kịch bản và đóng vai chính trong những cảnh có phần kỳ cục.",
+    "idx": 702,
+    "label": "negative"
+  },
+  {
+    "sentence": "Bộ phim mới Blackboards của Samira Makhmalbaf rất giống đặc tính của một dòng ý thức, tuy nhiên, thật không may cho người xem là những suy nghĩ và suy ngẫm xuyên qua nó đều lờ đờ và tầm thường.",
+    "idx": 703,
+    "label": "negative"
+  },
+  {
+    "sentence": "một luận điểm đầy túi khí bị ấn tượng một cách kỳ lạ bởi hào quang tự cao tự đại của chính nó ...",
+    "idx": 704,
+    "label": "negative"
+  },
+  {
+    "sentence": "mỗi khi bạn nhìn , ngôi nhà thân yêu Alabama lại đang rẽ nhầm đường .",
+    "idx": 705,
+    "label": "negative"
+  },
+  {
+    "sentence": "bạn đánh vần cliché như thế nào?",
+    "idx": 706,
+    "label": "negative"
+  },
+  {
+    "sentence": "không có điện báo nào quá rõ ràng hoặc đơn giản đối với bộ phim này.",
+    "idx": 707,
+    "label": "negative"
+  },
+  {
+    "sentence": "đạo diễn hình ảnh Benoit Delhomme đã quay bộ phim với màu sắc đẹp mắt, trang phục và bối cảnh thật hoành tráng.",
+    "idx": 708,
+    "label": "positive"
+  },
+  {
+    "sentence": "tôi nghĩ đồng hồ của tôi đã ngừng chạy khi tôi cố gắng vượt qua các nút đồng hồ.",
+    "idx": 709,
+    "label": "negative"
+  },
+  {
+    "sentence": "ít chóng mặt hơn là chỉ chóng mặt , cuộc dạo chơi gần như đã kết thúc trước khi nó bắt đầu .",
+    "idx": 710,
+    "label": "negative"
+  },
+  {
+    "sentence": "về tổng thể, bộ phim có cảm giác giống như một bộ phim truyền hình kinh phí thấp không thể tìm được người mua để phát trên ống.",
+    "idx": 711,
+    "label": "negative"
+  },
+  {
+    "sentence": "lẽ ra họ nên gọi nó là gutterball.",
+    "idx": 712,
+    "label": "negative"
+  },
+  {
+    "sentence": "corpus callosum -- mặc dù không thể phủ nhận là rất thú vị -- đã hết được chào đón trước khi phần ghi công kết thúc kéo dài khoảng 45 phút.",
+    "idx": 713,
+    "label": "negative"
+  },
+  {
+    "sentence": "( a ) n bộ phim cực kỳ quyến rũ và vui nhộn khiến tôi nhớ đến những bộ phim hài hay nhất của Disney những năm 60 .",
+    "idx": 714,
+    "label": "positive"
+  },
+  {
+    "sentence": "có quá nhiều điều sai trái trong nửa sau , và những gì bắt đầu như một cái nhìn hấp dẫn về tuổi trẻ lại biến thành một nỗ lực buồn tẻ, lố bịch nhằm kéo tim .",
+    "idx": 715,
+    "label": "negative"
+  },
+  {
+    "sentence": "lời thoại gây nhăn mặt, trang phục ở cửa hàng tiết kiệm, trang điểm giả bằng bột bả ngớ ngẩn và các hiệu ứng đặc biệt về ánh sáng xanh của kmart, tất cả đều nhằm mục đích thử thách lòng trung thành của trekkie.",
+    "idx": 716,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim truyền hình có cấu trúc chặt chẽ và được quay một cách tinh xảo kể về mối quan hệ cha con và là một ngôi sao băng ngắn ngủi của tình yêu.",
+    "idx": 717,
+    "label": "positive"
+  },
+  {
+    "sentence": "đây là bộ phim hài về con người thú vị, thú vị và khẳng định nhất.",
+    "idx": 718,
+    "label": "positive"
+  },
+  {
+    "sentence": "Quyết tâm của Whaley muốn nhấn chìm bạn trong sự khốn cùng tột độ và không nguôi đang làm bạn mệt mỏi .",
+    "idx": 719,
+    "label": "negative"
+  },
+  {
+    "sentence": "đáng xem vì màn trình diễn của Dong Jie -- và cách nó ghi lại một nền văn hóa đang trong giai đoạn thay đổi nhanh chóng .",
+    "idx": 720,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bài suy ngẫm sâu sắc và đầy nghệ thuật về tỷ lệ tử vong .",
+    "idx": 721,
+    "label": "positive"
+  },
+  {
+    "sentence": "quá gò bó để trở thành một màn trình diễn quái đản , quá hám lợi và hiển nhiên để trở thành người có đầu óc , quá buồn tẻ và kiêu căng để có thể tham gia ... hòn đảo này thách thức sự phân loại dễ dàng .",
+    "idx": 722,
+    "label": "negative"
+  },
+  {
+    "sentence": "ba diễn viên của vera -- mollà , gil và bardem -- xuất sắc trong những màn trình diễn sâu sắc và đồng cảm .",
+    "idx": 723,
+    "label": "positive"
+  },
+  {
+    "sentence": "đó là tất cả những gì bạn làm mà không phải đi xem phim .",
+    "idx": 724,
+    "label": "negative"
+  },
+  {
+    "sentence": "( Grant 's ) phép thuật vụng về chiếm lĩnh bộ phim , và hóa ra nó lại là một phương tiện giành chiến thắng của ngôi sao .",
+    "idx": 725,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó được đưa lên màn ảnh giống như một cuốn tiểu thuyết ngắn mà người ta có thể mong đợi một cách hợp lý, đồng thời hấp dẫn và chuyển động theo đúng nghĩa của nó.",
+    "idx": 726,
+    "label": "positive"
+  },
+  {
+    "sentence": "vận tốc thể hiện mọi điều sai trái đối với '' phim độc lập '' như một khái niệm đã được bán hết, đã được hàng hóa hóa trong bối cảnh làm phim ở Mỹ.",
+    "idx": 727,
+    "label": "negative"
+  },
+  {
+    "sentence": "nhưng được coi là một one-shot đầy phong cách và tràn đầy năng lượng , nữ hoàng của sự chết tiệt không thể nói là tệ .",
+    "idx": 728,
+    "label": "positive"
+  },
+  {
+    "sentence": "tác phẩm diễn xuất tốt như vậy phần lớn là nhờ vào ba nữ diễn viên chính của Anspaugh.",
+    "idx": 729,
+    "label": "positive"
+  },
+  {
+    "sentence": "ngột ngạt bởi kịch bản cầu kỳ và các nhân vật cứng nhắc, bản chuyển thể mốc meo này càng khó chịu hơn vì nó đã được Hollywood đóng gói và bán lại cho chúng ta.",
+    "idx": 730,
+    "label": "negative"
+  },
+  {
+    "sentence": "nhưng rốt cuộc người lớn đang làm gì trong rạp vậy?",
+    "idx": 731,
+    "label": "negative"
+  },
+  {
+    "sentence": "giống như bị mắc kẹt trong một bữa tiệc liên tục ... làm sao một thứ thô thiển lại có thể nhàm chán đến thế ?",
+    "idx": 732,
+    "label": "negative"
+  },
+  {
+    "sentence": "Người đàn ông đến từ cánh đồng Elysian là một tác phẩm lạnh lùng, thiếu hạnh phúc, rên rỉ và tự nghĩ về một nhận xét quan trọng nào đó về việc cuộc đời ném cho chúng ta những khúc cua đầy mê hoặc như thế nào.",
+    "idx": 733,
+    "label": "negative"
+  },
+  {
+    "sentence": "điều này thậm chí còn không bị cuốn trôi bởi Madonna .",
+    "idx": 734,
+    "label": "negative"
+  },
+  {
+    "sentence": "trải nghiệm đi dự liên hoan phim là một trải nghiệm bổ ích; trải nghiệm lấy mẫu qua bộ phim này thì không.",
+    "idx": 735,
+    "label": "negative"
+  },
+  {
+    "sentence": "American chai khuyến khích những tiếng cười buồn bã trước những khuôn mẫu mà chỉ người Mỹ gốc Ấn mới nhận ra .",
+    "idx": 736,
+    "label": "negative"
+  },
+  {
+    "sentence": "đám cưới kiểu Hy Lạp béo bở của tôi sử dụng những khuôn mẫu trong sự pha trộn thú vị giữa sự lãng mạn ngọt ngào và sự hài hước đầy đáng yêu.",
+    "idx": 737,
+    "label": "positive"
+  },
+  {
+    "sentence": "... một vở kịch hoành tráng rất đáng để theo dõi .",
+    "idx": 738,
+    "label": "positive"
+  },
+  {
+    "sentence": "Kiệt tác của Oscar Wilde, tầm quan trọng của sự nghiêm túc, có thể là vở kịch hay nhất thế kỷ 19.",
+    "idx": 739,
+    "label": "positive"
+  },
+  {
+    "sentence": "Jose Campanella mang đến một câu chuyện mang tính tự truyện lỏng lẻo, pha chút tình cảm nhưng tràn ngập sự hài hước nhẹ nhàng, cảm giác buồn vui lẫn lộn và những khoảnh khắc trữ tình đọng lại như những bức ảnh chụp nhanh của ký ức.",
+    "idx": 740,
+    "label": "positive"
+  },
+  {
+    "sentence": "nhưng nó vẫn kêu leng keng trong túi.",
+    "idx": 741,
+    "label": "positive"
+  },
+  {
+    "sentence": "đó là một mớ hỗn độn điên cuồng (mặc dù video kỹ thuật số bẩn thỉu không phù hợp với câu chuyện lộn xộn) nhưng nó hiểu biết về người nổi tiếng và có nhiều can đảm và năng lượng hơn hầu hết những gì sẽ ra mắt trong năm nay.",
+    "idx": 742,
+    "label": "positive"
+  },
+  {
+    "sentence": "bạn thực sự phải tự hỏi làm thế quái nào mà bất cứ ai, ở bất cứ đâu lại có thể nghĩ rằng họ sẽ khiến khán giả phải cười ồ lên với một kịch bản cực kỳ quỷ quái như thế này.",
+    "idx": 743,
+    "label": "negative"
+  },
+  {
+    "sentence": "một từ trái tim.",
+    "idx": 744,
+    "label": "positive"
+  },
+  {
+    "sentence": "được thực hiện không có thủ công rõ ràng và cực kỳ tôn nghiêm trong việc đối phó với sự mất mát tuổi thơ.",
+    "idx": 745,
+    "label": "negative"
+  },
+  {
+    "sentence": "mọi người xem phim ở mức tốt nhất.",
+    "idx": 746,
+    "label": "positive"
+  },
+  {
+    "sentence": "Điều đáng ngạc nhiên về toàn cảnh chính diện là mặc dù mang tính tự nhận thức rõ ràng, các phần của bộ phim vẫn tìm cách vượt qua sự giả tạo và thu hút bạn một cách triệt để.",
+    "idx": 747,
+    "label": "positive"
+  },
+  {
+    "sentence": "và khi bạn đang nói về một bộ phim hài vui nhộn thì đó là một vấn đề khá lớn.",
+    "idx": 748,
+    "label": "negative"
+  },
+  {
+    "sentence": "một vở opera \"chúng ta đấu với họ\" của tầng lớp lao động không để lại một cảm xúc nào bị lay động và không có lý tưởng tự do nào bị cướp bóc .",
+    "idx": 749,
+    "label": "positive"
+  },
+  {
+    "sentence": "cách tiếp cận vô cảm một cách tàn bạo của Nelson ... đã hút đi tính nhân văn của bộ phim , để lại đằng sau một cảnh tượng kinh hoàng nhưng vô cảm một cách kỳ lạ .",
+    "idx": 750,
+    "label": "negative"
+  },
+  {
+    "sentence": "một chuỗi dài những lời sáo rỗng.",
+    "idx": 751,
+    "label": "negative"
+  },
+  {
+    "sentence": "giống như xem một buổi thử trang phục vào tuần trước khi buổi biểu diễn bắt đầu : mọi thứ đều ổn nhưng có gì đó hơi lệch một chút .",
+    "idx": 752,
+    "label": "negative"
+  },
+  {
+    "sentence": "thật khó để tưởng tượng Alan Arkin giỏi hơn anh ấy trong màn trình diễn này.",
+    "idx": 753,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim sẽ phát tốt như nhau trên cả màn hình tiêu chuẩn và màn hình khổng lồ.",
+    "idx": 754,
+    "label": "positive"
+  },
+  {
+    "sentence": "... một sự lãng phí thời gian thú vị, đặc biệt được hỗ trợ bởi sự hiện diện thú vị của jean reno.",
+    "idx": 755,
+    "label": "positive"
+  },
+  {
+    "sentence": "việc gì đó giống như cọ rửa nhà vệ sinh.",
+    "idx": 756,
+    "label": "negative"
+  },
+  {
+    "sentence": "có đủ kịch tính trong bộ phim magnolia primavera này để khiến pta tự hào nhưng các nhân vật của đạo diễn muccino lại không xứng đáng với puccini hơn là trên truyền hình ban ngày.",
+    "idx": 757,
+    "label": "negative"
+  },
+  {
+    "sentence": "có thể không phải là phần hay nhất của loạt phim , nhưng nó đảm bảo , tôn trọng quá khứ một cách tuyệt vời và đủ ly kỳ để thể hiện rõ rằng hiện tượng điện ảnh này một lần nữa đã tự tái tạo lại chính mình cho thế hệ mới .",
+    "idx": 758,
+    "label": "positive"
+  },
+  {
+    "sentence": "nếu có một thứ mà thế giới này cần ít hơn thì đó là những bộ phim về thời đại học được viết kịch bản và đạo diễn bởi những người không thể vượt qua kỳ thi tuyển sinh.",
+    "idx": 759,
+    "label": "negative"
+  },
+  {
+    "sentence": "bộ phim tội phạm nghiệt ngã của nhà văn/đạo diễn Joe Carnahan là một cuốn cẩm nang về những khuôn sáo về khu vực này , nhưng nó diễn biến đủ nhanh để che đậy những đoạn hội thoại vụng về và sai sót về mặt logic .",
+    "idx": 760,
+    "label": "positive"
+  },
+  {
+    "sentence": "kết quả là một túi kẹo lòe loẹt cũ kỹ, thứ gì đó từ lễ hội Halloween đã chết.",
+    "idx": 761,
+    "label": "negative"
+  },
+  {
+    "sentence": "đó là một bộ phim đáng yêu với những màn trình diễn đáng yêu của buy và Accorsi.",
+    "idx": 762,
+    "label": "positive"
+  },
+  {
+    "sentence": "có điều gì đó tốt lành và táo bạo về bản năng nghệ thuật đã thúc đẩy một đạo diễn thiên về đa số như Steven Spielberg đi theo a.i. với báo cáo đầy thách thức này có thể khiến đa số lo lắng.",
+    "idx": 763,
+    "label": "positive"
+  },
+  {
+    "sentence": "các fan phim ơi hãy sẵn sàng cất cánh... theo hướng khác nhé.",
+    "idx": 764,
+    "label": "negative"
+  },
+  {
+    "sentence": "không phải là một bộ phim phản cảm hay buồn tẻ; nó chỉ thiếu mọi thứ ngoại trừ những ý định tốt.",
+    "idx": 765,
+    "label": "negative"
+  },
+  {
+    "sentence": "trong khi nhịp độ thận trọng và câu chuyện có vẻ mơ hồ có thể không thỏa mãn khẩu vị của mọi khán giả, thì cảnh cuối cùng của bộ phim lại cảm động một cách rõ ràng và cao vút.",
+    "idx": 766,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim kể về một chàng trai trẻ tìm thấy vị thần có thể tiếp cận và chạm đến tận xương tủy.",
+    "idx": 767,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim Tây Ban Nha hấp dẫn kể về tác động tiêu cực của sự ghen tuông trong cuộc đời của một vị vua trẻ có niềm đam mê tình dục với chồng trở thành nỗi ám ảnh.",
+    "idx": 768,
+    "label": "positive"
+  },
+  {
+    "sentence": "một câu chuyện ngụ ngôn văn hóa có sức lan tỏa với sự cân bằng hấp dẫn giữa kịch gia đình và hài kịch điên cuồng.",
+    "idx": 769,
+    "label": "positive"
+  },
+  {
+    "sentence": "tôi không nghĩ mình đã cười thành tiếng một lần nào.",
+    "idx": 770,
+    "label": "negative"
+  },
+  {
+    "sentence": "những hiệu ứng rất đặc biệt , màu sắc đậm rực rỡ và độ chân thực cao không thể che giấu được gót chân khổng lồ trong `` Stuart Little 2 '' : không có câu chuyện nào cả , các bạn .",
+    "idx": 771,
+    "label": "negative"
+  },
+  {
+    "sentence": "không phải là loại phim sẽ thu hút khán giả Mỹ phổ thông , nhưng có một sức hấp dẫn nhất định về bộ phim khiến nó trở thành một lựa chọn phù hợp để tham gia vào vòng liên hoan phim .",
+    "idx": 772,
+    "label": "positive"
+  },
+  {
+    "sentence": "đó là một sự điên rồ đẹp đẽ .",
+    "idx": 773,
+    "label": "positive"
+  },
+  {
+    "sentence": "Khi bộ phim kết thúc, tôi cảm thấy mệt mỏi, kiệt sức và muốn nằm trên giường bệnh của mình một lúc.",
+    "idx": 774,
+    "label": "negative"
+  },
+  {
+    "sentence": "không thực sự tệ đến mức khó chịu: ngay bây giờ chúng ta cần những bộ phim truyền hình hồi hộp về bắt cóc giống như chúng ta cần những bộ phim kinh dị về ngày tận thế.",
+    "idx": 775,
+    "label": "negative"
+  },
+  {
+    "sentence": "giống như những bộ phim về gà con, bộ phim này khá khốn khổ, phải dùng đến cách kéo dây thay vì phát triển nhân vật hợp lý và cốt truyện thông minh.",
+    "idx": 776,
+    "label": "negative"
+  },
+  {
+    "sentence": "bằng cách trình bày chi tiết một cách thẳng thắn chính trị liên quan đến việc tạo ra một bản nhạc đặc biệt , ( jones ) kêu gọi sự chú ý của chúng ta đến xung đột cố hữu giữa thương mại và tính sáng tạo .",
+    "idx": 777,
+    "label": "positive"
+  },
+  {
+    "sentence": "một trong những niềm vui xem phim quan trọng nhất trong năm.",
+    "idx": 778,
+    "label": "positive"
+  },
+  {
+    "sentence": "Ngoài những thứ đồ chơi nguy hiểm ra , có rất ít thứ để yêu thích thứ tiếng Anh tầm thường này .",
+    "idx": 779,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim truyền hình về phòng xử án quân sự có năng lực và kiên quyết và nghiêm túc.",
+    "idx": 780,
+    "label": "positive"
+  },
+  {
+    "sentence": "ngay lập tức nướng một nửa và quá nóng.",
+    "idx": 781,
+    "label": "negative"
+  },
+  {
+    "sentence": "Cấu trúc của bộ phim có thể khiến Matt Damon và Ben Affleck một lần nữa tìm kiếm những gì còn sót lại khi bộ phim này chính thức hoàn thành bộ ba săn lùng thiện chí chưa bao giờ được lên kế hoạch.",
+    "idx": 782,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim đã làm rất tốt việc nêu ra một số vấn đề chính mà chúng ta gặp phải trong cuộc hành trình trong cuộc đời.",
+    "idx": 783,
+    "label": "positive"
+  },
+  {
+    "sentence": "rất mang tính phân tâm học -- thật khiêu khích -- và cũng mang tính văn học mới mẻ .",
+    "idx": 784,
+    "label": "positive"
+  },
+  {
+    "sentence": "ngoài những sửa đổi nhỏ , đây cũng chính là bộ phim mà bạn có thể yêu thích vào năm 1994 , ngoại trừ việc nó trông thậm chí còn hay hơn .",
+    "idx": 785,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim đã phạm một sai lầm chết người : nó yêu cầu chúng ta quan tâm đến một chàng trai trẻ có đức tính rõ ràng duy nhất là anh ta không hoàn toàn khó chịu như một số người trong cuộc đời anh ta .",
+    "idx": 786,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bài ca ngợi trẻ con vô giá trị về bóng rổ chuyên nghiệp được NBA bảo lãnh.",
+    "idx": 787,
+    "label": "negative"
+  },
+  {
+    "sentence": "dựa trên một kịch bản dí dỏm đến quỷ dị của Heather McGowan và Niels Mueller, bộ phim gây được nhiều tiếng cười sảng khoái, nhưng không bao giờ làm tổn hại đến các nhân vật của nó.",
+    "idx": 788,
+    "label": "positive"
+  },
+  {
+    "sentence": "cứ như thể bạn đang xem một bộ phim được làm từ năm 1978 nhưng lúc đó chưa được phát hành vì nó quá yếu, và bây giờ nó đã được khai quật và phát hành, khi nó thậm chí còn yếu hơn.",
+    "idx": 789,
+    "label": "negative"
+  },
+  {
+    "sentence": "đó là một trò lừa đảo",
+    "idx": 790,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó hơi vụng về và nhịp độ quá uể oải -- nhưng câu chuyện về một sinh vật bí ẩn có khả năng tâm linh mang lại một kết cấu vững chắc, một cao trào tuyệt vời và một số cảm giác ớn lạnh trong suốt chặng đường.",
+    "idx": 791,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó rất vui .",
+    "idx": 792,
+    "label": "positive"
+  },
+  {
+    "sentence": "... một bộ phim kinh dị gay cấn, gay cấn chắc chắn sẽ không làm ảnh hưởng đến lý lịch của chàng trai trẻ tài năng gaghan.",
+    "idx": 793,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó khẳng định vị thế của Fincher với tư cách là một nhà làm phim biết vận dụng bí quyết kỹ thuật một cách khéo léo để phục vụ cho sự hiểu biết sâu sắc về tâm lý .",
+    "idx": 794,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim không có những câu chuyện cười hay, không có những cảnh hay, hầu như không có khoảnh khắc nào khi màn bắt chước trực tiếp vào đêm thứ bảy của Carvey vượt lên trên mức độ bối rối.",
+    "idx": 795,
+    "label": "negative"
+  },
+  {
+    "sentence": "một cuộc vui vui nhộn mà , nếu không có gì khác , sẽ thu hút những người hâm mộ Malcolm ở giữa và ngôi sao tuổi dậy thì của nó , Frankie muniz .",
+    "idx": 796,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó không phải là nguyên bản , và , bị mất đi yếu tố bất ngờ , nó không có bất kỳ tiếng cười sảng khoái nào trong câu chuyện về những cảnh sát vô trách nhiệm thích chơi khăm .",
+    "idx": 797,
+    "label": "negative"
+  },
+  {
+    "sentence": "mặc dù ánh trăng có rất nhiều nam nữ diễn viên nổi tiếng và đề cập đến một chủ đề có khả năng gây cảm động , bộ phim quá dễ đoán và quá thiếu tự tin để đạt đến mức độ kịch tính cao .",
+    "idx": 798,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim dịu dàng, hóm hỉnh, lôi cuốn về tình bạn, tình yêu, ký ức, sự tin tưởng và lòng trung thành.",
+    "idx": 799,
+    "label": "positive"
+  },
+  {
+    "sentence": "đối với tất cả sự điêu luyện về kỹ thuật của nó , bộ phim sa lầy vào phương pháp sư phạm vị thành niên và gần như bài ngoại đến mức đủ để tạo nên một cây thông cho ngày mà Godard không còn có thể xử lý được sự khắc nghiệt của việc làm phim .",
+    "idx": 800,
+    "label": "negative"
+  },
+  {
+    "sentence": "bộ phim này có vẻ khao khát sự suy ngẫm, bản thân nó đã mang những phẩm chất của tuổi mới lớn.",
+    "idx": 801,
+    "label": "negative"
+  },
+  {
+    "sentence": "thứ nickleby này có thể mang nhiều âm hưởng đồng tính luyến ái hơn là một bộ phim của Eddie Murphy.",
+    "idx": 802,
+    "label": "negative"
+  },
+  {
+    "sentence": "Bogdanovich trêu ngươi bằng cách đưa ra một màn trình diễn ngắn gọn về cuộc sống của loại kem de la celluloid của thời đại này .",
+    "idx": 803,
+    "label": "positive"
+  },
+  {
+    "sentence": "nhưng sức mạnh của những ( chủ đề ) này bị che khuất bởi phần lớn bộ phim chiếu một chiếc máy quay cố định vào một chủ đề có thể bị nhầm lẫn là đang diễn thuyết trước công chúng , thay vì góp phần vào câu chuyện của bộ phim .",
+    "idx": 804,
+    "label": "negative"
+  },
+  {
+    "sentence": "Irwin là một người đàn ông có đủ sức lôi cuốn và sự táo bạo để thực hiện hàng tá bộ phim, nhưng kết quả cụ thể này cuối cùng đã bị cản trở để trở thành một điều gì đó vĩ đại hơn.",
+    "idx": 805,
+    "label": "negative"
+  },
+  {
+    "sentence": "Griffiths chứng tỏ cô là ngôi sao sáng hiếm hoi liên tục nâng cao tiêu chuẩn nghề nghiệp của mình.",
+    "idx": 806,
+    "label": "positive"
+  },
+  {
+    "sentence": "vẫn cảm động , phấn chấn và hài hước hơn bao giờ hết .",
+    "idx": 807,
+    "label": "positive"
+  },
+  {
+    "sentence": "vô cùng thú vị cho khán giả xem phim ở mọi lứa tuổi.",
+    "idx": 808,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim kinh dị cổ điển kỳ lạ, gọn gàng, quay khéo léo, diễn xuất tốt, gợi nhớ lại một loạt phim điệp viên lấy bối cảnh châu Âu những năm 60 và 70.",
+    "idx": 809,
+    "label": "positive"
+  },
+  {
+    "sentence": "đây là một kịch bản hay, lời thoại hay, hài hước ngay cả với người lớn.",
+    "idx": 810,
+    "label": "positive"
+  },
+  {
+    "sentence": "sự lặp lại trìu mến từng có vẻ như bẩm sinh trong góc nhìn của demme gặp khó khăn khi xuất hiện giữa kịch bản bí ẩn về chiếc bánh dễ thương lỗi thời và hiệu ứng hậu kỳ mới lạ của Hollywood .",
+    "idx": 811,
+    "label": "negative"
+  },
+  {
+    "sentence": "bộ phim mang phong cách gilliam siêu thực này cũng là một cách giải thích đáng lo ngại về các giáo sĩ.",
+    "idx": 812,
+    "label": "positive"
+  },
+  {
+    "sentence": "tôi có thể chấp nhận sự hài hước trẻ con ... nhưng đây là kiểu hài hước trẻ con khiến bạn băn khoăn về việc thay tã cho đạo diễn và nhà văn .",
+    "idx": 813,
+    "label": "negative"
+  },
+  {
+    "sentence": "Thành thật mà nói, đoạn rác rưởi cấp 5 của kênh này là một sự xúc phạm đến trí thông minh của những người đam mê thể loại thực sự.",
+    "idx": 814,
+    "label": "negative"
+  },
+  {
+    "sentence": "một câu chuyện tuổi mới lớn thú vị.",
+    "idx": 815,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim Châu Phi hấp dẫn về tình trạng mất gốc hiện đại, một tình trạng mà hàng triệu người trên toàn cầu đã trải qua.",
+    "idx": 816,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim tâm lý diễn xuất xuất sắc và hấp dẫn đến kỳ lạ.",
+    "idx": 817,
+    "label": "positive"
+  },
+  {
+    "sentence": "sự phấn khích duy nhất đến khi phần tín dụng cuối cùng cũng xuất hiện và bạn phải rời rạp.",
+    "idx": 818,
+    "label": "negative"
+  },
+  {
+    "sentence": "bộ phim là buổi bình minh của người chết xen lẫn với những bóng ma sao Hỏa của John Carpenter, với những thây ma không ghê rợn như phần đầu và những đoàn tàu không to lớn như phần hai.",
+    "idx": 819,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó có sức hấp dẫn của những bộ phim về con đường nguyên gốc của Mỹ , thưởng thức phong cảnh lộng lẫy, xiêu vẹo của quê hương của nhà làm phim .",
+    "idx": 820,
+    "label": "positive"
+  },
+  {
+    "sentence": "thú vị và trực tiếp , với những hình ảnh ma quái vừa đủ để khiến chúng ta phải cảnh giác .",
+    "idx": 821,
+    "label": "positive"
+  },
+  {
+    "sentence": "đó là một sự lôi kéo có lỗi .",
+    "idx": 822,
+    "label": "negative"
+  },
+  {
+    "sentence": "nó muốn điều chỉnh chúng bằng một chút hài hước mới đầy hấp dẫn .",
+    "idx": 823,
+    "label": "positive"
+  },
+  {
+    "sentence": "sự cứng nhắc của việc kết hôn muộn khó có thể chứng minh được sức mạnh cảm xúc đang quét qua chúng ta. người xem không khỏi ngạc nhiên.",
+    "idx": 824,
+    "label": "negative"
+  },
+  {
+    "sentence": "thẳng thắn và thoải mái; một bộ phim khéo léo cân bằng giữa hành động và suy tư vì nó cho phép bạn nắm bắt và cảm nhận được niềm đam mê của người khác đối với công việc của họ.",
+    "idx": 825,
+    "label": "positive"
+  },
+  {
+    "sentence": "một kho báu yên tĩnh -- một bộ phim đáng để thưởng thức .",
+    "idx": 826,
+    "label": "positive"
+  },
+  {
+    "sentence": "bộ phim do Mick Jackson đạo diễn , không hề để lại những khuôn sáo sáo rỗng , từ cốt truyện có thể đoán trước được cho đến các nhân vật được chọn làm trung tâm .",
+    "idx": 827,
+    "label": "negative"
+  },
+  {
+    "sentence": "đây là thể loại phim hành động vạm vỡ trong đó sự trùng hợp ngẫu nhiên này đè lên sự trùng hợp khác , tính cần thiết của câu chuyện là một ngôi nhà tròn say rượu và bất cứ điều gì được coi là logic đều là một phần của thiết bị cốt truyện cuối cùng còn sót lại .",
+    "idx": 828,
+    "label": "negative"
+  },
+  {
+    "sentence": "phim tuổi teen đã thực sự thành công.",
+    "idx": 829,
+    "label": "negative"
+  },
+  {
+    "sentence": "phim mới nhất của Woody Allen là một bộ phim hài thú vị, rộng rãi về tất cả những gì có thể yêu -- và ghét -- về bộ phim biz.",
+    "idx": 830,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó được thực hiện với sự tinh tế khéo léo trong thể loại đáng lo ngại .",
+    "idx": 831,
+    "label": "positive"
+  },
+  {
+    "sentence": "cố gắng thể hiện cuộc sống trong tất cả sự tầm thường của nó khi ý định hoàn toàn ngược lại .",
+    "idx": 832,
+    "label": "negative"
+  },
+  {
+    "sentence": "cuối cùng cảm thấy trống rỗng và không thỏa mãn , giống như nuốt một miếng bánh thánh mà không có rượu .",
+    "idx": 833,
+    "label": "negative"
+  },
+  {
+    "sentence": "thiệt hại tài sản thế chấp cuối cùng đã giao hàng cho người hâm mộ schwarzenegger.",
+    "idx": 834,
+    "label": "positive"
+  },
+  {
+    "sentence": "một bộ phim hài gây cười khúc khích với lời thoại hấp dẫn và màn trình diễn chiến thắng của một nhóm không ngờ tới gồm những người đoạt giải Oscar: Susan Sarandon và Goldie Hawn.",
+    "idx": 835,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó quá tự cao và nặng nhọc để có thể gây cười , và quá ngắn gọn và viết tắt để có thể trở thành một sử thi .",
+    "idx": 836,
+    "label": "negative"
+  },
+  {
+    "sentence": "sẽ gây thích thú và kích thích người lớn thích phiêu lưu ở những địa điểm đặc biệt.",
+    "idx": 837,
+    "label": "positive"
+  },
+  {
+    "sentence": "đôi khi có vẻ không giống cách kể chuyện hơn là một điều gì đó mà đạo diễn lẽ ra phải cần để trút giận .",
+    "idx": 838,
+    "label": "negative"
+  },
+  {
+    "sentence": "nhưng bộ phim này thiếu niềm đam mê cần thiết để bán được tài liệu.",
+    "idx": 839,
+    "label": "negative"
+  },
+  {
+    "sentence": "điều còn thiếu 100% ở đây là một kịch bản thậm chí có trình độ đọc viết cơ bản nhất, một chút trí thông minh chân thực và bất cứ thứ gì giống với diễn xuất.",
+    "idx": 840,
+    "label": "negative"
+  },
+  {
+    "sentence": "có một kẻ lật đổ độc ác nhắm vào những phần hay nhất của sinh nhật cô gái .",
+    "idx": 841,
+    "label": "positive"
+  },
+  {
+    "sentence": "một danh hiệu hay hơn , đối với tất cả những người có liên quan , có thể bị cuốn vào tấm thảm .",
+    "idx": 842,
+    "label": "negative"
+  },
+  {
+    "sentence": "một trải nghiệm cảm xúc cực kỳ không nhất quán.",
+    "idx": 843,
+    "label": "negative"
+  },
+  {
+    "sentence": "xét đến mức độ nặng nề và nặng nề của nó , đây có thể là điều tồi tệ nhất mà Soderbergh từng làm .",
+    "idx": 844,
+    "label": "negative"
+  },
+  {
+    "sentence": "bất chấp tính thẩm mỹ gợi nhiều liên tưởng chứng minh trạng thái trống rỗng của đời sống tình cảm hiện đại, bộ phim không bao giờ vượt quá tiếng rên rỉ đơn điệu.",
+    "idx": 845,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim hài phi lý về sự xa lánh, chia ly và mất mát.",
+    "idx": 846,
+    "label": "negative"
+  },
+  {
+    "sentence": "... mafia , các ngôi sao nhạc rap và lũ chuột trùm đầu húc cái đầu xấu xí của chúng vào trong cơn bạo lực điện ảnh trào dâng một cách tàn bạo đã sinh ra một anh hùng khó có thể xảy ra nhưng đáng yêu . '",
+    "idx": 847,
+    "label": "positive"
+  },
+  {
+    "sentence": "khiếu châm biếm lành mạnh của anh ấy nhẹ nhàng và vui vẻ ...",
+    "idx": 848,
+    "label": "positive"
+  },
+  {
+    "sentence": "sự tầm thường và giản dị đặc trưng của Mỹ được ném ra ngoài cửa sổ với bộ phim truyền hình Pháp thông minh khéo léo khám phá mối quan hệ khó khăn giữa cha và con trai.",
+    "idx": 849,
+    "label": "positive"
+  },
+  {
+    "sentence": "Miller chơi đùa với cảm xúc một cách tự do , và thực tế là trẻ em là con tin của vận may , đến nỗi anh ấy bắt khán giả làm con tin trước vẻ nghiêm túc vênh váo của mình .",
+    "idx": 850,
+    "label": "positive"
+  },
+  {
+    "sentence": "kẻ mạo danh có một số khoảnh khắc gay cấn và một vài màn trình diễn hay, nhưng bộ phim không mấy bay bổng.",
+    "idx": 851,
+    "label": "negative"
+  },
+  {
+    "sentence": "phần thấp tiền thuê cha đỡ đầu .",
+    "idx": 852,
+    "label": "negative"
+  },
+  {
+    "sentence": "( serry ) muốn kết hợp chính trị và kịch , một tham vọng đáng ngưỡng mộ .",
+    "idx": 853,
+    "label": "positive"
+  },
+  {
+    "sentence": "đối với tất cả những sự quằn quại và than vãn , nước mắt , cơn thịnh nộ và thuốc phiện quá liều , không có cảm giác đam mê thực sự bị cuốn trôi trong sự tan vỡ của tình yêu .",
+    "idx": 854,
+    "label": "negative"
+  },
+  {
+    "sentence": "thật thú vị khi thấy Bettany và Mcdowell đấu với nhau như thế nào .",
+    "idx": 855,
+    "label": "positive"
+  },
+  {
+    "sentence": "theo một cách nào đó , bộ phim giống như một luồng gió mới , nhưng chỉ dành cho những ai cho phép nó lọt vào .",
+    "idx": 856,
+    "label": "positive"
+  },
+  {
+    "sentence": "giàu trí tưởng tượng về mặt hình ảnh , mang tính hướng dẫn theo chủ đề và hoàn toàn thú vị , nó đưa chúng ta đi tàu lượn siêu tốc từ hồn nhiên đến trải nghiệm mà không hề có một chút cảm xúc tình cảm trong phim trẻ con điển hình nào .",
+    "idx": 857,
+    "label": "positive"
+  },
+  {
+    "sentence": "sự chào đón nồng nhiệt của bộ phim và một số khoảnh khắc vui nhộn không thể tin nổi -- phần lớn miêu tả sự ngu xuẩn của ngành công nghiệp điện ảnh -- khiến chuyến đi này gần như đáng giá .",
+    "idx": 858,
+    "label": "positive"
+  },
+  {
+    "sentence": "thêm một chiếc mũ nữa cho một cái đầu tài năng, clooney là một đạo diễn giỏi.",
+    "idx": 859,
+    "label": "positive"
+  },
+  {
+    "sentence": "Stephen rea , Aidan Quinn , và Alan Bates đóng vai những con đại bàng hợp pháp của Desmond , và khi có sự tham gia của Brosnan , cảnh tượng bộ tứ hùng tráng này thơ thẩn trong khung cảnh xinh đẹp của Ailen là một điều đủ thú vị , `tis .",
+    "idx": 860,
+    "label": "positive"
+  },
+  {
+    "sentence": "Diễn xuất theo chủ nghĩa tự nhiên của Bennett nói lên sự thật nhiều hơn bất kỳ chương trình 'thực tế' nào, và bất kỳ ai đang dự tính về những thay đổi mạnh mẽ trong cuộc sống của chính mình nên xem ai đó trước tiên.",
+    "idx": 861,
+    "label": "positive"
+  },
+  {
+    "sentence": "nó không gây khó chịu , vui vẻ , được xây dựng để truyền cảm hứng cho giới trẻ , được thiết kế thành một bản nhạc nền không ngừng nghỉ của những bản nhạc pop trong bữa tiệc trên bãi biển và ngoài kỹ thuật quay phim đáng chú ý và khung cảnh tuyệt vời , nó còn thú vị như bị cháy nắng .",
+    "idx": 862,
+    "label": "negative"
+  },
+  {
+    "sentence": "trong khi thật thú vị khi nghe các nhân vật nói về những bản thu âm nhạc rap thời kỳ đầu ( Sugar Hill Gang , v.v. ) , việc liên tục nhắc đến hip-hop arcana có thể khiến ngay cả những khán giả thông thái nhất cũng xa lánh .",
+    "idx": 863,
+    "label": "negative"
+  },
+  {
+    "sentence": "buồn tẻ , thiếu sức sống và được lắp ráp một cách nghiệp dư .",
+    "idx": 864,
+    "label": "negative"
+  },
+  {
+    "sentence": "McConaughey rất vui khi xem , những con rồng vẫn ổn , kịch bản không có nhiều lửa .",
+    "idx": 865,
+    "label": "positive"
+  },
+  {
+    "sentence": "tương lai xa có thể rất tuyệt vời để xem xét, nhưng từ chi tiết thời kỳ đến những vấn đề của trái tim, bộ phim này gây xúc động nhất khi nó được đặt trong quá khứ.",
+    "idx": 866,
+    "label": "positive"
+  },
+  {
+    "sentence": "có tất cả độ sâu của một hồ bơi lội.",
+    "idx": 867,
+    "label": "negative"
+  },
+  {
+    "sentence": "một bộ phim có tính chất vô chính phủ thực sự.",
+    "idx": 868,
+    "label": "positive"
+  },
+  {
+    "sentence": "một chủ đề như thế này sẽ khơi dậy phản ứng của khán giả; nghệ sĩ piano thì không.",
+    "idx": 869,
+    "label": "negative"
+  },
+  {
+    "sentence": "... là một nỗ lực hết mình trong việc chỉ đạo của callie khouri.",
+    "idx": 870,
+    "label": "negative"
+  },
+  {
+    "sentence": "trông quý phái, rực rỡ nhưng vẫn được chăm chút trong bộ trang phục mẫu mực của Jane Hamilton, việc tung hứng mang đến một màn trình diễn không thể nào cải tiến hơn. '",
+    "idx": 871,
+    "label": "positive"
+  }
+]
