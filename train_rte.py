@@ -36,27 +36,29 @@ train_dataset, val_dataset = load_json_dataset(train_path, val_path)
 print(f"Train dataset size: {len(train_dataset)}")
 print(f"Validation dataset size: {len(val_dataset)}")
 
-def formatting_prompt_func_QQP(example):
+def formatting_prompt_func_RTE(example):
     return (
-        "<Instruct>Do these two questions convey the same meaning? (answer duplicate or not_duplicate)</Instruct>\n"
-        "<Format>Question pair format</Format>\n"
-        f"<Question>Question 1: {example['question1']}\nQuestion 2: {example['question2']}</Question>\n"
+        "<Instruct>Does the following sentence entail the hypothesis (answer entailment or not_entailment)?</Instruct>\n"
+        "<Format>Premise-hypothesis format</Format>\n"
+        f"<Question>Premise: {example['sentence1']}\nHypothesis: {example['sentence2']}</Question>\n"
         f"<Answer>{example['label']}</Answer>"
-    )
+        )
 
-training_args = SFTConfig(
-    output_dir="./sft_output_WNLI",
-    num_train_epochs=10,
-    per_device_train_batch_size=16,
-    learning_rate=5e-5,
-    logging_steps=10,
-    eval_strategy="epoch",
-    save_strategy="epoch",               # Save model every 'n' steps instead of epochs
-    #save_steps=500,                       # Save every 500 steps (adjust as needed)
-    save_total_limit=1,                   # Keep only the last 2 checkpoints
-    load_best_model_at_end=True,          # Load the best model at the end based on eval loss or accuracy
-    metric_for_best_model="eval_loss",    # Track accuracy for best model selection
-    greater_is_better= False             # Higher accuracy is better
+training_args = TrainingArguments(
+    output_dir="Qwenv2.5_RTE_SFT_results",
+    evaluation_strategy="epoch",
+    save_strategy="epoch",
+    logging_strategy="epoch",
+    lr_scheduler_type="cosine",
+    per_device_train_batch_size=1,
+    per_device_eval_batch_size=1,
+    gradient_accumulation_steps=32,
+    num_train_epochs=5,
+    learning_rate=2e-5,
+    weight_decay=0.01,
+    bf16=True,  
+    load_best_model_at_end=True,
+    push_to_hub=False,  
 )
 
 # Initialize the SFTTrainer
@@ -65,7 +67,7 @@ trainer = SFTTrainer(
     args=training_args,
     train_dataset=train_dataset,
     eval_dataset=val_dataset,
-    formatting_func=formatting_prompt_func_WNLI,
+    formatting_func=formatting_prompt_func_RTE,
     )
 
 trainer.train()
